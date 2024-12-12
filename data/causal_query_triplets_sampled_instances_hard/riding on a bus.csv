@@ -1,0 +1,1001 @@
+Unnamed: 0,premise,choice1,choice2,label,question
+17582322,go through doors and up the steps.,get off bus at destination.,wait at your bus stop.,0,effect
+586626,put exact change in money receiver.,arrive at bus stop prior to bus's arrival.,step onto bus when arrives.,1,cause
+626128,enter bus.,pay money or swipe pass.,bus stops at your destination.,0,effect
+16832551,pay fare.,get on bus.,reach the destination.,0,cause
+795035,find a seat.sit down.,wait for the bus to arrive.,get in bus.,1,cause
+17045494,"when bus arrives, enter.climb bus steps.",find seat on bus.,wait for bus.,0,effect
+914561,get into the bus.,find seat on bus and sit.,bus has arrived on destination.,0,effect
+17989312,wait until the bus arrives at the destination.,sit down.,get off at your stop.,0,cause
+93821,find the bus stop.,wait for bus.,get off bus .,0,effect
+1287421,get off at stop.,walk to the bus stop.,"when bus arrives, enter.climb bus steps.",1,cause
+17274943,ride bus to destination.,step onto bus.,bus stops at destination.,0,cause
+1872282,exit bus.,retrieve ticket from machine.,ring the bell when you see your destination.,1,cause
+16308593,wait there for the bus to arrive.,"when the driver stops and opens the door, leave the bus.",go to bus stop 5 minutes before bus arrives.go to your bus stop of choice.,1,cause
+16605680,bus arrives at the source station.,wait for bus stop destination.,insert money for ticket.,0,effect
+367412,sit down.,insert money for ticket.,the bus arrives at the departure station.,1,cause
+1565900,wait for stop.,pay the fare to ride the bus.,walk down center of bus to find a seat.sit in seat.,1,cause
+16200177,bus has arrived on destination.,signal by bell for stop.,wait for bus at bus stop.,0,cause
+17568886,step onto bus when arrives.,sit patiently until the bus reaches your destination bus stop.,climb down stairs and exit bus.,1,effect
+1803008,watch for your stop.wait until bus stops completely.,pay for your fare.,wait for destination.,1,cause
+17497961,enter bus.,get off the bus at your desired stop.,find the bus stop.,0,effect
+17895583,enjoy the ride.,find seat on bus.,"stand, go to the exit door of bus.",0,cause
+1461243,get off at stop.,sit down.find an open seat.,board the bus when it arrives.,1,cause
+16210968,decide which bus.,find bus schedule information from time table.,get a ticket for the bus ride.,0,cause
+18026808,wait for correct stop.,wait for the bus.,wait for your stop to be announced.,1,effect
+852264,sit or stand to location.,go to the bus station.,when it arrives get on.,1,cause
+217568,head to the bus stop.,keep looking for your bus.,watch and listen for stop announcement.,0,effect
+351034,pay fare.,wait for bus arrival.,bus arrives at the source location.,1,cause
+1960652,get off the bus at your desired stop.,find an empty seat.sit down or stand if there isn't an empty seat.,pull the cord alerting the driver to stop.,1,cause
+937881,board the bus when it arrives.,take a seat in the bus.,pull the cord when you want the bus to stop.,0,effect
+740906,take your seat.,retrieve ticket from machine.,board the bus.,1,cause
+615967,"while boarding, pay the driver the required fee or show a pass.",driver opens door.,step onto bus.,1,cause
+18097209,press stop button.,exit bus at destination.,find out when bus leaves.,0,effect
+825745,find seat on bus.,wait for bus.,get on the bus.,1,cause
+993002,wait for bus stop destination.,look at bus schedule on time table.decide what time you need to arrive at bus stop.,board bus when it arrives .,1,cause
+18148683,ring bell when bus approaches stop at destination.,get off bus when doors open.,wait at your bus stop.,0,effect
+1846320,ride bus to destination.,ring the bell when you see your destination.,wait for your stop to be announced.,1,effect
+16326886,wait for bus arrival.,get off at stop.,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",1,cause
+1443979,go down bus steps.exit bus.,wait until the bus arrives at the destination.,get on bus.,1,cause
+1888106,get off.,have the knowledge about the bus schedule from time table.,pull the cord when you want the bus to stop.,1,cause
+1577183,wait till my stop is approaching.,pay for your fare.,find a seat or stand on bus.,1,cause
+1324034,walk off the bus.,go to the bus stop/bus stand.,go through doors and up the steps.,1,cause
+17837982,sit down.,wait for correct stop.,go to bus station.,0,effect
+377872,sit down and wait for your desired stop.,wait for bus arrival.,the bus arrives at the departure station.,1,cause
+10530144,board bus when it arrives .,press stop button.,climb down stairs and exit bus.,1,effect
+255342,head to the bus stop.,enter the bus.,wait.,1,effect
+17446743,step onto arriving bus.,leave bus.,pay the toll.,0,effect
+17432170,climb stairs into bus.,get off at stop.,buy ticket for your destination.,0,effect
+1209323,exit at your destination when the bus stops.,pay fare when boarding bus.,when your bus comes climb in it.,1,cause
+2037886,get off bus.,look at bus schedule on time table.decide what time you need to arrive at bus stop.,bus stops at your destination.,1,cause
+908910,go through doors and up the steps.,bus stops at destination.,find a seat or stand on bus.,1,effect
+1032400,wait for your stop.,go to the nearest bus stop.,when it arrives get on.,1,cause
+1692599,find an empty seat.,wait for stop.,ring bell when bus approaches stop at destination.,0,effect
+322109,go to the bus stop.,"when you see your bus approaching, signal to the driver to stop.",get onto the bus when it reaches the stop.,0,effect
+1036689,wait for stop.,reach the designated bus stop before the bus reaches there to avoid missing the bus.,when the bus comes enter the bus.,1,cause
+17991591,wait for bus to reach destination.,find seat on bus and sit.,get down from the bus.,0,cause
+461413,"while boarding, pay the driver the required fee or show a pass.",find out when bus leaves.,"when bus arrives, step on board.",1,cause
+17326958,when it arrives get on.,wait for bus to stop.,wait at bus stop for bus.,0,effect
+1660333,find a seat if available or stand if necessary.,wait for your stop.,leave bus.,0,effect
+1351166,get down from the bus.,ride.,board bus when it arrives.,1,cause
+16705092,walk up the steps of the bus.,wait for bus to arrive.,pay the fare.,1,effect
+17668027,board the bus.,depart when you arrive at your destination.,find a seat if available or stand if necessary.,0,effect
+17701441,board bus when it arrives.,exit bus when arrive.,sit down.find an open seat.,0,effect
+10538006,"when bus arrives, enter.climb bus steps.",signal for a stop where i want to get off.,leave bus.,1,effect
+999987,ride.,find bus schedule information from time table.,get in bus.,1,cause
+16881684,show bus driver your ticket.,enter bus.,ring bell when bus approaches stop at destination.,0,cause
+40560,find the nearest bus stop.,give your fare to the bus driver.receive ticket.,wait a bus stop.,1,effect
+1541220,get on the bus.,get off at your stop.,pull signal for stop.,0,effect
+17759835,climb down stairs and exit bus.,go through doors and up the steps.,"about one block away from your stop, pull the \.",0,cause
+17571229,get into the bus.,get off at stop.,ride to desired destination.,0,effect
+16430962,wait at bus stop for bus.,wait for bus to reach destination.,go to the bus stop/bus stand.,1,cause
+509204,pay for the ride.,wait there for the bus to arrive.,enter bus.,1,cause
+1465369,exit bus at your destination.,find a seat.sit down.,board bus when bus arrives.,1,cause
+2013089,get down once the destination is reached.,wait a bus stop.,go to door.,1,cause
+1913381,exit bus when arrive.,ride.,"when the bus approaches your destination, press the button to signal a stop.",1,cause
+16579546,bus reaches at departure station.,find a seat.,pay bus fare.,0,effect
+17821664,find an empty seat.,wait for stop.,wait a bus stop.,0,effect
+17488826,"when bus arrives, step on board.",head to the bus stop.,get off the bus.,1,effect
+1952838,get off at stop.,choose a seat.,ring the bell when you see your destination.,1,cause
+411191,wait for bus to arrive at stop.,go to bus station.,bus arrives at the source station.,1,cause
+16895777,board bus.,pay the fare.,take available seat.,1,effect
+645015,"when bus arrives, enter.climb bus steps.",pay for fare.,"stand, go to the exit door of bus.",0,effect
+17383899,wait for bus to arrive at stop.,go through doors and up the steps.,"about one block away from your stop, pull the \.",0,cause
+16670809,board bus when bus arrives.,scan bus pass.,look at bus schedule on time table.decide what time you need to arrive at bus stop.,0,effect
+16531530,"when you see your bus approaching, signal to the driver to stop.",get to bus stop some time early.,step onto arriving bus.,0,cause
+17745197,"once you arrive at destination, get off the bus.","when the bus approaches your destination, press the button to signal a stop.",walk up the steps of the bus.,1,cause
+1789458,find a vacant seat (if possible).,watch for your destination.,go to bus door.,0,effect
+1891881,exit at your destination when the bus stops.,say thank you to the driver.,alert the driver your stop is coming.,1,cause
+1280317,get off bus.,walk to bus stop.,when the bus comes enter the bus.,1,cause
+1395626,exit at your destination when the bus stops.,wait at your bus stop.,board the bus.,1,cause
+1632126,wait for stop.,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",take a seat in the bus.,1,cause
+16639371,bus reaches at departure station.,ride.,depart when you arrive at your destination.,1,effect
+17189509,board bus when it arrives.,ride to desired destination.,pay the fee.,0,effect
+16866821,place change in receptor.,get on bus.,alert the driver your stop is coming.,0,cause
+16215028,decide which bus.,have the knowledge about the bus schedule from time table.,head to the bus stop.,0,cause
+1841426,ride to destination.,watch for your stop.wait until bus stops completely.,exit bus at your destination.,0,effect
+1793323,find a seat if available or stand if necessary.,watch and listen for stop announcement.,"when the bus approaches your destination, press the button to signal a stop.",0,effect
+17233754,step onto bus when arrives.,wait there for the bus to arrive.,wait for my stop.,1,effect
+1954789,exit bus at your destination.,find seat on bus.,"when you are near your destination, press the stop button.",1,cause
+955591,wait for bus stop destination.,pay fare.,get in bus.,1,cause
+17487818,when it arrives get on.,reach the designated bus stop before the bus reaches there to avoid missing the bus.,watch your step when getting down from the bus.,1,effect
+1777783,sit in bus.,wait for your stop to be announced.,exit bus.,0,effect
+16678628,step onto bus.,place change in receptor.,find bus schedule information from time table.,0,effect
+18073561,"when your stop approaches, pull cord.",exit at your destination when the bus stops.,insert money for ticket.,0,effect
+17309455,step onto bus.,wait for your stop to be announced.,swipe bus pass.,0,effect
+1287427,get off at stop.,go to the bus station.,get on bus.,1,cause
+1511982,exit at your destination when the bus stops.,"find out how much the bus ride costs, either online or by calling bus company.",board bus when it arrives .,1,cause
+1704672,watch for your stop.wait until bus stops completely.,swipe bus pass.,find a empty seat.,1,cause
+413513,"once you arrive at destination, get off the bus.",pay your bus fare.,bus reaches at departure station.,1,cause
+1764462,watch until you see your stop to get off.,walk to the bus stop.,sit in bus.,1,cause
+1692421,sit in bus.,press stop button.,wait till my stop is approaching.,1,effect
+17726129,depart when you arrive at your destination.,get into the bus.,reach the destination.,0,cause
+1913179,exit bus when arrive.,ride on the bus.,"about one block away from your stop, pull the \.",1,cause
+1951150,exit the bus at your desired location.,find a vacant seat (if possible).,pull cord at stop.,1,cause
+17960161,find a seat.,go to the bus stop.,watch stops out window.,1,effect
+1273828,get off bus when doors open.,signal the driver to stop when you see your bus coming.,when it arrives get on.,1,cause
+17680291,get in bus.,get off.,find empty seat.sit down.,0,effect
+16821726,"when bus arrives, enter.climb bus steps."," to pay the fare, you can either buy a bus pass or pay each time you ride the bus.",go to bus stop.,0,effect
+17844412,sit down and wait for your desired stop.,sit in a seat until you see your destination.,get to bus stop some time early.,0,effect
+16678889,step onto bus.,pay for your fare.,look at bus schedule on time table.decide what time you need to arrive at bus stop.,0,effect
+17417495,board the bus when it arrives.,get off at stop.,buy bus pass on buss.,0,effect
+17473879,step onto bus when arrives.,exit at your destination when the bus stops.,check to bus schedule in the time table to see when the bus is running.,0,effect
+18108267,alert the driver your stop is coming.,climb down stairs and exit bus.,walk to the bus stop.,0,effect
+16853622,pay bus fair.,walk up the steps of the bus.,go to door.,0,cause
+16271031,wait for the bus to come to a complete halt before boarding it.,go to bus stop at designated time.,buy bus pass on buss.,0,cause
+1409154,debark from bus.,wait for the bus.,board bus when it arrives .,1,cause
+18041472,wait for bus stop destination.,wait until the bus arrives at the destination.,"when bus arrives , wait for doors to open before boarding.",0,effect
+16567019,the bus arrives at the departure station.,find the bus stop.,swipe bus pass.,1,effect
+17701421,board bus when it arrives.,exit bus when arrive.,find a seat or stand on bus.,0,effect
+456974,drop change into money machine.,get a bus schedule by checking time table.,board the bus.,1,cause
+1755110,wait for bus to stop.,go to bus stop.,find seat on bus and sit.,1,cause
+1440849,get off bus .,watch until you see your stop to get off.,"when bus arrives, enter.climb bus steps.",1,cause
+1400466,getting off the bus.,wait on the bench until the bus arrives.,board the bus.,1,cause
+17165989,when it arrives get on.,pay fare when boarding bus.,ride.,1,effect
+18113468,"about one block away from your stop, pull the \.",arrive at bus stop prior to bus's arrival.,go down bus steps.exit bus.,1,effect
+1771895,find a seat.,wait until the bus arrives at the destination.,get off the bus.,0,effect
+17701439,board bus when it arrives.,exit bus when arrive.,take a seat.,0,effect
+18157887,ring bell when bus approaches stop at destination.,get off bus when doors open.,watch for your destination.,0,effect
+16319404,wait.,go to bus stop at designated time.,get off bus at destination.,0,cause
+1818505,wait until the bus arrives at the destination.,wait for the bus to come to a complete halt before boarding it.,ride to desired destination.,1,cause
+16624382,the bus arrives at the departure station.,exit at your destination when the bus stops.,put exact change in money receiver.,0,effect
+56477,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",wait for bus arrival.,show bus driver your ticket.,0,effect
+16901089,enter bus.,find empty seat to sit in.,pay the fee.,0,effect
+16760901,when it arrives get on.,show bus driver your ticket.,arrive at bus stop prior to bus's arrival.,0,effect
+17169123,board bus.,ride bus to destination.,purchase the ticket.,0,effect
+16606356,bus arrives at the source station.,ride.,retrieve ticket from machine.,0,effect
+473558,take the tickets.pay for the ride.,have the knowledge about the bus schedule from time table.,go through doors and up the steps.,1,cause
+17797563,sit down.find an open seat.,wait for correct stop.,pay fee.,0,effect
+18011658,wait for your stop.,pay attention for your stop.,pay the toll.,0,effect
+18155729,"about one block away from your stop, pull the \.",exit bus at destination.,watch for your destination.,0,effect
+676317,step onto arriving bus.," to pay the fare, you can either buy a bus pass or pay each time you ride the bus.",say thank you to the driver.,0,effect
+1406207,get off bus .,wait for bus.,step onto bus.,1,cause
+1990816,get off at your stop.,figure out the place you want to reach.,stand up and go to door.,1,cause
+1513540,board bus when bus arrives.,get down from the bus.,reach the destination.,0,effect
+1673609,find seat on bus and sit.,ride to destination.,get off bus at destination.,0,effect
+17978716,watch stops out window.,find seat on bus.,bus stops at your destination.,0,cause
+16495151,wait at bus stop.,walk to bus stop.,wait for my stop.,0,cause
+17391082,go through doors and up the steps.,drop change into money machine.,get off bus at destination.,1,effect
+2060335,"when the driver stops and opens the door, leave the bus.",sit down if possible.,bus has arrived on destination.,1,cause
+17047328,when your bus comes climb in it.,wait for bus to arrive.,find a seat if available or stand if necessary.,1,effect
+17297231,board the bus.,wait for bus to stop.,pay the toll.,0,effect
+17207982,board bus when it arrives .,check bus schedule in time table.,wait for your stop.,1,effect
+507448,pay the bus driver.,wait for bus.,walk up the steps of the bus.,1,cause
+35669,go to bus station.,stand at the bus stop.,drop change into money machine.,0,effect
+17187148,step onto bus.,wait for destination.,buy bus ticket.,0,effect
+17989688,wait until the bus arrives at the destination.,find a seat.sit down.,get off bus when doors open.,0,cause
+16545548,the bus arrives at the departure station.,step onto bus.,reach the designated bus stop before the bus reaches there to avoid missing the bus.,0,effect
+1526157,get on the bus.,debark from bus.,go to bus door.,0,effect
+549669,pay the driver.,walk to bus stop.,step onto arriving bus.,1,cause
+546819,pay the fare to ride the bus.,"when you see your bus approaching, signal to the driver to stop.",get on bus.,1,cause
+17586148,get onto the bus when it reaches the stop.,walk off the bus.,wait for the bus to arrive.,0,effect
+10540867,board the bus when it arrives.,say thank you to the driver.,watch your step when getting down from the bus.,1,effect
+17745315,"once you arrive at destination, get off the bus.",when the bus comes enter the bus.,signal for a stop where i want to get off.,0,cause
+1949380,exit bus when arrive.,starting walking to seat on bus.sit in seat.,ring the bell when you see your destination.,1,cause
+1919725,debark from bus.,ride on the bus.,"when your stop approaches, pull cord.",1,cause
+37624,find the bus stop.,keep looking for your bus.,pay the bus driver.,0,effect
+1827541,wait for bus to reach destination.,find the nearest bus stop.,ride to desired destination.,1,cause
+16262809,wait at your bus stop.,arrive at bus stop prior to bus's arrival.,pay the bus driver.,0,cause
+1267891,exit bus at your destination.,"thank the driver, possibly tip.",get on bus.,1,cause
+794857,find a seat.sit down.,wait a bus stop.,get on the bus.,1,cause
+1225920,climb down stairs and exit bus.,swipe bus pass.,enter bus.,1,cause
+16572378,pay the fare to ride the bus.,the bus arrives at the departure station.,your destination place came.,0,cause
+17168715,board bus.,wait to get to destination.,pay fee.,0,effect
+1679583,take a seat.,ride to destination.,exit bus.,0,effect
+810,get a bus schedule by checking time table.,decide which bus.,pay the toll.,0,effect
+18189402,when your stop comes get up and go the exit door of bus.,pay the driver.,exit bus at your destination.,1,effect
+418646,go down bus steps.exit bus.,take the tickets.pay for the ride.,bus arrives at the source location.,1,cause
+1620142,sit in a seat until you see your destination.,keep looking for your bus.,sit down.find an open seat.,1,cause
+16608818,bus arrives at the source location.,ride on the bus.,wait at bus stop.,0,effect
+188873,go to bus stop at designated time.,wait at your bus stop.,sit down if possible.,0,effect
+17646063,enter the bus.,get off at your stop.,wait for bus to reach your stop.,0,effect
+1169460,get in bus.,watch for your destination.,"when your stop approaches, pull cord.",0,effect
+16738128,"when the driver opens the door, board the bus.",show bus driver your ticket.,wait for the bus to arrive.,0,effect
+17196601,step on bus.,pay the driver.,ride to desired destination.,1,effect
+17802900,find a seat if available or stand if necessary.,sit patiently until the bus reaches your destination bus stop.,figure out the place you want to reach.,0,effect
+1439078,get off the bus at your desired stop.,wait for bus to arrive at stop.,board bus when it arrives.,1,cause
+1577370,ride to desired destination.,pay the fare.,take a seat in the bus.,1,cause
+18125177,alert the driver your stop is coming.,exit bus.,wait for destination.,0,effect
+2061132,get off at your stop.,sit on a seat.,bus stops at destination.,1,cause
+1215577,getting off the bus.,get a ticket for the bus ride.,get onto the bus when it reaches the stop.,1,cause
+17039698,step onto arriving bus.,sit down if possible.,wait for bus.,0,effect
+466020,purchase the ticket.,check bus schedule in time table.,"when the driver opens the door, board the bus.",1,cause
+16593039,the bus arrives at the departure station.,find a seat.sit down.,go to the nearest bus stop.,0,effect
+18045105,watch for your stop.wait until bus stops completely.,enjoy the ride.,exit bus at destination.,0,cause
+1742739,wait for your stop to be announced.,wait for bus arrival.,sit in bus.,1,cause
+641871,board bus when it arrives.,take the tickets.pay for the ride.,stand up and go to door.,0,effect
+1051951,wait for my stop.,arrive at bus stop prior to bus's arrival.,get in bus.,1,cause
+17290680,ride bus to destination.,get into the bus.,ring the bell when you see your destination.,0,cause
+224988,go to bus stop 5 minutes before bus arrives.go to your bus stop of choice.,wait a bus stop.,pay attention for your stop.,0,effect
+1502455,walk off the bus.,starting walking to seat on bus.sit in seat.,get on bus.,1,cause
+1181789,get off bus when doors open.,retrieve ticket from machine.,board bus when bus arrives.,1,cause
+1158462,wait for bus to reach your stop.,driver opens door.,go through doors and up the steps.,1,cause
+699734,find a seat.sit down.,pay bus fair.,enter the bus.,1,cause
+1436339,exit at your destination when the bus stops.,pay attention for your stop.,board the bus when it arrives.,1,cause
+1285883,leave bus.,arrive at bus stop prior to bus's arrival.,when your bus comes climb in it.,1,cause
+723011,find seat on bus and sit.,pay the fee.,board the bus when it arrives.,1,cause
+1336761,"once you arrive at destination, get off the bus.",sit in a seat until you see your destination.,get on the bus.,1,cause
+16897307,get onto the bus when it reaches the stop.,take a seat.,swipe bus pass.,0,effect
+392205,bus arrives at the source station.,starting walking to seat on bus.sit in seat.,signal by bell for stop.,0,effect
+16494888,wait for the bus.,locate bus stop.,wait for stop.,0,cause
+1270361,"once you arrive at destination, get off the bus.",choose the route you want to take.,board bus when bus arrives.,1,cause
+364737,bus reaches at departure station.,pay the driver.,press stop button.,0,effect
+17818461,find a seat.sit down.,wait for correct stop.,wait for bus arrival.,0,effect
+1821178,wait for bus to reach your stop.,wait for the bus to arrive.,wait for your stop.,1,cause
+17201128,step onto bus.,ride to destination.,decide which bus.,0,effect
+16215387,find out what bus to take.,check the schedule of bus in time table.,board bus when it arrives.,0,cause
+404112,bus arrives at the source location.,ride.,"when your stop approaches, pull cord.",0,effect
+17773892,find a seat if available or stand if necessary.,wait to get to destination.,"while boarding, pay the driver the required fee or show a pass.",0,effect
+18237192,go to door.,debark from bus.,find a seat if available or stand if necessary.,0,effect
+1568661,enjoy the ride.,pay the driver.,take your seat.,1,cause
+1932591,watch your step when getting down from the bus.,wait at bus stop.,"when your stop approaches, pull cord.",1,cause
+1358395,"when the driver stops and opens the door, leave the bus.",wait for bus stop destination.,when your bus comes climb in it.,1,cause
+231552,arrive at bus stop prior to bus's arrival.,wait at your bus stop.,"when the driver opens the door, board the bus.",0,effect
+1725417,watch for your destination.,check the schedule of bus in time table.,choose a seat.,1,cause
+17080067,when the bus comes enter the bus.,take a seat in the bus.,go to the nearest bus stop.,0,effect
+937879,board the bus when it arrives.,take a seat in the bus.,pull the cord alerting the driver to stop.,0,effect
+17927904,find seat on bus.,watch stops out window.,put exact change in money receiver.,0,effect
+189193,go to bus stop at designated time.,wait at bus stop for bus.,sit down.find an open seat.,0,effect
+1635773,wait to get to destination.,get to bus stop some time early.,sit down if possible.,1,cause
+2061150,get off at your stop.,starting walking to seat on bus.sit in seat.,bus stops at your destination.,1,cause
+1854231,bus has arrived on destination.,sit down.find an open seat.,"when the bus approaches your destination, press the button to signal a stop.",1,cause
+16524285,"when you see your bus approaching, signal to the driver to stop.",reach the designated bus stop before the bus reaches there to avoid missing the bus.,get off bus when doors open.,0,cause
+18123749,"when your stop approaches, pull cord.",enjoy the ride.,get off the bus.,1,effect
+18214204,go to bus door.,climb down stairs and exit bus.,ride on the bus.,0,effect
+1989032,climb down stairs and exit bus.,find out when bus leaves.,"stand, go to the exit door of bus.",1,cause
+1737268,wait for bus to stop.,keep looking for your bus.,find a seat if available or stand if necessary.,1,cause
+17990926,wait for bus to reach destination.,find a vacant seat (if possible).,getting off the bus.,0,cause
+17451265,step on bus.,get off at your stop.,pay the fee.,0,effect
+16521677,signal the driver to stop when you see your bus coming.,pay fare.,go to bus station.,1,cause
+1142874,watch for your destination.,find the bus stop.,step onto bus when arrives.,1,cause
+17548034,get on bus.,get off.,ride to destination.,0,effect
+17894537,wait for your stop.,take available seat.,go to bus door.,0,cause
+1708634,wait for bus to stop.,buy bus ticket.,starting walking to seat on bus.sit in seat.,1,cause
+1437879,get down from the bus.,wait for bus to reach your stop.,board the bus when it arrives.,1,cause
+17161857,sit down.,enter bus.,"thank the driver, possibly tip.",0,cause
+384450,find an empty seat.,arrive at bus stop prior to bus's arrival.,bus arrives at the source location.,1,cause
+1678045,sit on a seat.,wait for destination.,depart when you arrive at your destination.,0,effect
+18072746,bus stops at destination.,pull signal for stop.,"thank the driver, possibly tip.",0,cause
+601734,pay bus fair.,find the bus stop.,board the bus.,1,cause
+10500048,board bus when bus arrives.,bus stops at your destination.,exit bus at your destination.,1,effect
+1748505,watch stops out window.,arrive at bus stop prior to bus's arrival.,choose a seat.,1,cause
+17258033,step onto bus.,wait to get to destination.,go to the nearest bus stop.,0,effect
+18065921,alert the driver your stop is coming.,bus stops at destination.,wait for your stop to be announced.,0,effect
+16838995,purchase the ticket.,climb stairs into bus.,bus stops at destination.,0,cause
+18032901,ride to destination.,wait there for the bus to arrive.,wait for your stop to be announced.,1,effect
+16828011,board bus when it arrives.,pay for the ride.,"when bus arrives , wait for doors to open before boarding.",0,effect
+675397,step onto bus.,give money.,say thank you to the driver.,0,effect
+16810952,step onto bus when arrives.,go to bus station.,place change in receptor.,1,effect
+53255,go to the bus stop.,wait a bus stop.,insert money for ticket.,0,effect
+610530,show bus driver your ticket.,arrive at bus stop prior to bus's arrival.,go through doors and up the steps.,1,cause
+16953334,get into the bus.,find a seat on the bus.,pay bus fare.,0,effect
+1652093,ride to desired destination.,"when bus arrives , wait for doors to open before boarding.",find a vacant seat (if possible).,1,cause
+1088783,watch for your stop.wait until bus stops completely.,take the tickets.pay for the ride.,board the bus when it arrives.,1,cause
+325151,walk up the steps of the bus.,decide which bus.,bus arrives at the source station.,1,cause
+508108,pay the bus driver.,stand at the bus stop.,walk up the steps of the bus.,1,cause
+471633,pay bus fair.,find bus schedule information from time table.,get on the bus.,1,cause
+1642499,wait for destination.,walk to bus stop.,find a vacant seat (if possible).,1,cause
+17399359,enter bus.,get off bus.,give money.,0,effect
+1514233,enter the bus.,depart when you arrive at your destination.,your destination place came.,0,effect
+16767242,get onto the bus when it reaches the stop.,buy bus ticket.,go to bus stop at designated time.,0,effect
+1366947,climb down stairs and exit bus.,your destination place came.,get in bus.,1,cause
+974750,ride to desired destination.,"while boarding, pay the driver the required fee or show a pass.",step onto bus when arrives.,1,cause
+16279548,keep looking for your bus.,find the nearest bus stop.,take the tickets.pay for the ride.,0,cause
+17959421,find empty seat to sit in.,go to a bus stop.,watch and listen for stop announcement.,1,effect
+17876458,enjoy the ride.,take a seat.,depart when you arrive at your destination.,0,cause
+17170191,board the bus.,wait for stop.,give your money to the driver.,0,effect
+17272759,wait for stop.,board bus when bus arrives.,bus stops at destination.,0,cause
+16834506,swipe bus pass.,your destination place came.,walk up the steps of the bus.,1,cause
+136251,go to bus stop.,wait for the bus to arrive.,stand up and go to door.,0,effect
+1007215,wait for correct stop.,wait at bus stop.,step onto bus.,1,cause
+17935132,find a seat if available or stand if necessary.,find out when bus leaves.,watch until you see your stop to get off.,1,effect
+16468676,stand at the bus stop.,head to the bus stop.,get on bus.,0,cause
+2028778,exit at your destination when the bus stops.,"find out how much the bus ride costs, either online or by calling bus company.","stand, go to the exit door of bus.",1,cause
+16575142,"while boarding, pay the driver the required fee or show a pass.",the bus arrives at the departure station.,pull the cord alerting the driver to stop.,0,cause
+17857556,take a seat.,wait for stop.,reach the designated bus stop before the bus reaches there to avoid missing the bus.,0,effect
+1885869,get off bus .,decide which bus.,pull signal for stop.,1,cause
+1626202,ride on the bus.,"when you see your bus approaching, signal to the driver to stop.",sit down and wait for your desired stop.,1,cause
+334750,board bus.,go to bus stop.,bus arrives at the source location.,1,cause
+16212266,find out what bus to take.,check bus schedule in time table.,go to bus door.,0,cause
+1837759,wait till my stop is approaching.,leave bus.,wait for bus to reach destination.,1,effect
+1900704,get off.,go to bus stop.,pull the cord alerting the driver to stop.,1,cause
+128904,locate bus stop.,wait at your bus stop.,walk off the bus.,0,effect
+17628529,step onto arriving bus.,climb down stairs and exit bus.,wait for the bus.,0,effect
+17350208,get on bus.,wait for bus to arrive at stop.,go to bus stop at designated time.,0,effect
+1642776,wait for destination.,go to bus stop at designated time.,choose a seat.,1,cause
+1650047,ride to destination.,go to bus stop.,sit down if possible.,1,cause
+372783,find seat on bus.,pay bus fare.,bus arrives at the source station.,1,cause
+1878361,climb down stairs and exit bus.,show bus driver your ticket.,"about one block away from your stop, pull the \.",1,cause
+17477047,when your bus comes climb in it.,get a bus schedule by checking time table.,exit bus when arrive.,1,effect
+17787247,find an empty seat.sit down or stand if there isn't an empty seat.,give your money to the driver.,wait for stop.,1,effect
+1447275,get off bus at destination.,watch for your stop.wait until bus stops completely.,when your bus comes climb in it.,1,cause
+18097180,press stop button.,getting off the bus.,check to bus schedule in the time table to see when the bus is running.,0,effect
+1455763,exit the bus at your desired location.,sit down if possible.,step on bus.,1,cause
+18108042,alert the driver your stop is coming.,watch your step when getting down from the bus.,go to the bus stop.,0,effect
+17348932,"when bus arrives, step on board.",watch stops out window.,go to bus stop.,0,effect
+18198153,stand up and go to exit door for departing the bus.,check bus schedule in time table.,exit bus.,1,effect
+16619698,bus arrives at the source station.,wait at your bus stop.,wait for bus to stop.,1,effect
+10532666,board bus when it arrives.,signal by bell for stop.,walk off the bus.,1,effect
+17350367,board bus.,watch for your destination.,find the nearest bus stop.,0,effect
+17711701,step onto arriving bus.,take available seat.,exit the bus at your desired location.,1,effect
+17638232,go through doors and up the steps.,get off bus .,wait for bus to stop.,0,effect
+17718310,"when bus arrives, enter.climb bus steps.",debark from bus.,find an empty seat.,0,effect
+16207272,bus has arrived on destination.,ring bell when bus approaches stop at destination.,step onto bus.,0,cause
+17149578,find a seat on the bus.,board bus.,press stop button.,0,cause
+17671933,board bus when bus arrives.,get off the bus at your desired stop.,sit down and wait for your desired stop.,0,effect
+17312085,"when the driver opens the door, board the bus.",watch and listen for stop announcement.,pay money or swipe pass.,0,effect
+793129,sit down and wait for your desired stop.,stand at the bus stop.,"when bus arrives, step on board.",1,cause
+17252908,enter the bus.,ride to destination.,get to bus stop some time early.,0,effect
+1917470,exit at your destination when the bus stops.,ride on the bus.,signal by bell for stop.,1,cause
+492460,pay fee.,wait for bus arrival.,climb stairs into bus.,1,cause
+35823,go to bus station.,wait a bus stop.,get a ticket for the bus ride.,0,effect
+547168,purchase the ticket.,"when you see your bus approaching, signal to the driver to stop.",when it arrives get on.,1,cause
+1982778,get off bus .,"while boarding, pay the driver the required fee or show a pass.",go to bus door.,1,cause
+1886323,exit bus when arrive.,get a bus schedule by checking time table.,alert the driver your stop is coming.,1,cause
+16875423,insert money for ticket.,"when bus arrives, step on board.","when you are near your destination, press the stop button.",0,cause
+16632989,the bus arrives at the departure station.,leave bus.,go to the nearest bus stop.,0,effect
+756318,find a vacant seat (if possible).,figure out the place you want to reach.,enter the bus.,1,cause
+1434147,get off.,watch for your destination.,step onto bus.,1,cause
+1269520,get down once the destination is reached.,say thank you to the driver.,board bus.,1,cause
+1971707,signal for a stop where i want to get off.,"stand, go to the exit door of bus.",exit the bus at your desired location.,1,effect
+1543870,board the bus when it arrives.,get off bus.,"when your stop approaches, pull cord.",0,effect
+10536483,get into the bus.,pull the cord alerting the driver to stop.,exit bus when arrive.,1,effect
+18127002,pull the cord alerting the driver to stop.,wait for bus stop destination.,get off at stop.,1,effect
+16719705,when the bus comes enter the bus.,buy bus pass on buss.,wait for the bus.,0,effect
+282758,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",wait at bus stop.,"when bus arrives , wait for doors to open before boarding.",0,effect
+1665862,find a empty seat.,wait to get to destination.,exit bus at destination.,0,effect
+1882635,depart when you arrive at your destination.,swipe bus pass.,pull signal for stop.,1,cause
+16505029,wait at your bus stop.,head to the bus stop.,ride to desired destination.,0,cause
+17258273,step onto bus.,arrive at bus stop prior to bus's arrival.,sit in a seat until you see your destination.,1,effect
+1823551,watch stops out window.,go to a bus stop.,ride.,1,cause
+17127891,take a seat in the bus.,step onto bus when arrives.,"stand, go to the exit door of bus.",0,cause
+18199059,stand up.walk to back door.,depart when you arrive at your destination.,find out when bus leaves.,0,effect
+402828,bus arrives at the source station.,enjoy the ride.,bus stops at your destination.,0,effect
+928881,go through doors and up the steps.,sit down if possible.,pull cord at stop.,0,effect
+902021,find seat on bus and sit.,"when bus arrives , wait for doors to open before boarding.",step onto arriving bus.,1,cause
+17048819,get on bus.,sit down.,"when you see your bus approaching, signal to the driver to stop.",0,effect
+17677024,get on the bus.,find seat on bus.,get off bus when doors open.,1,effect
+16589761,bus arrives at the source location.,take a seat in the bus.,wait for the bus.,0,effect
+948046,step onto arriving bus.,sit on a seat.,"when you are near your destination, press the stop button.",0,effect
+17939389,take available seat.,wait for your stop to be announced.,find out bus schedule using time table.,0,effect
+17976146,find a seat.,wait for bus to stop.,driver opens door.,0,effect
+17249397,get on the bus.,go to the nearest bus stop.,wait for correct stop.,1,effect
+622410,board the bus when it arrives.,drop change into money machine.,reach the destination.,0,effect
+16622251,wait for your stop to be announced.,bus stops at destination.,bus reaches at departure station.,1,cause
+10531619,climb stairs into bus.,signal by bell for stop.,getting off the bus.,1,effect
+17713242,get into the bus.,get off at stop.,sit down in on empty seat in bus.,0,effect
+17616597,climb stairs into bus.,debark from bus.,stand at the bus stop.,0,effect
+18265109,bus has arrived on destination.,get off at your stop.,watch for your destination.,0,effect
+17433421,climb stairs into bus.,get off bus at destination.,pay fare when boarding bus.,0,effect
+17201905,get onto the bus when it reaches the stop.,ride to desired destination.,choose the route you want to take.,0,effect
+16507859,wait for the bus to come to a complete halt before boarding it.,wait for my stop.,go to the bus station.,1,cause
+16710118,get in bus.,"while boarding, pay the driver the required fee or show a pass.",wait at bus stop for bus.,0,effect
+353911,pay the fee.,wait a bus stop.,bus arrives at the source station.,1,cause
+17647527,when the bus comes enter the bus.,wait for bus to stop.,get off bus at destination.,1,effect
+18033429,ride bus to destination.,pay attention for your stop.,signal the driver to stop when you see your bus coming.,0,effect
+32637,walk to the bus stop.,wait a bus stop.,pay for fare.,0,effect
+18058181,alert the driver your stop is coming.,bus stops at destination.,get a ticket for the bus ride.,0,effect
+1480849,get down from the bus.,find a empty seat.,"when bus arrives, step on board.",1,cause
+975640,ride to desired destination.,pay your bus fare.,when it arrives get on.,1,cause
+743861,sit down.find an open seat.," to pay the fare, you can either buy a bus pass or pay each time you ride the bus.",get on the bus.,1,cause
+1175484,board bus when it arrives.,watch and listen for stop announcement.,"thank the driver, possibly tip.",0,effect
+10522994,walk up the steps of the bus.,signal for a stop where i want to get off.,exit bus.,1,effect
+1627332,ride.,signal the driver to stop when you see your bus coming.,choose a seat.,1,cause
+1973017,pull cord at stop.,leave bus.,stand up and go to exit door for departing the bus.,0,effect
+16804472,board bus when it arrives.,go to bus stop at designated time.,pay the toll.,1,effect
+17147792,find an empty seat.,enter bus.,pull the cord when you want the bus to stop.,0,cause
+17282071,wait for your stop.,step on bus.,signal for a stop where i want to get off.,0,cause
+1273957,exit the bus at your desired location.,signal the driver to stop when you see your bus coming.,"when bus arrives, enter.climb bus steps.",1,cause
+17627705,step onto arriving bus.,get off bus.,wait for bus at bus stop.,0,effect
+406983,pay attention for your stop.,decide which bus.,bus arrives at the source station.,1,cause
+18164980,ring the bell when you see your destination.,get off at your stop.,take available seat.,0,effect
+17803952,take your seat.,wait for destination.,figure out the place you want to reach.,0,effect
+17450212,step on bus.,exit bus at your destination.,take the tickets.pay for the ride.,0,effect
+185533,head to the bus stop.,find empty seat to sit in.,wait for bus at bus stop.,1,effect
+708088,find an empty seat.,pay for fare.,walk up the steps of the bus.,1,cause
+389907,bus arrives at the source station.,find an empty seat.,go to bus door.,0,effect
+16918337,enter the bus.,find a seat.,pay the fee.,0,effect
+290206,get to bus stop some time early.,ride.,wait at bus stop for bus.,1,effect
+18125673,ring the bell when you see your destination.,get off at stop.,wait for stop.,0,effect
+345770,bus arrives at the source station.,when the bus comes enter the bus.,"thank the driver, possibly tip.",0,effect
+17137297,take available seat.,go to door.,get on the bus.,1,cause
+709397,find an empty seat.,pay bus fair.,"when bus arrives, step on board.",1,cause
+17890792,ride bus to destination.,sit on a seat.,exit bus at your destination.,0,cause
+17239184,when your bus comes climb in it.,wait for stop.,wait for bus to arrive.,0,effect
+17435087,board bus when it arrives.,exit bus when arrive.,give money.,0,effect
+2055872,"once you arrive at destination, get off the bus.",walk down center of bus to find a seat.sit in seat.,bus stops at destination.,1,cause
+1872994,exit at your destination when the bus stops.,pay fee.,press stop button.,1,cause
+1009576,enjoy the ride.,wait on the bench until the bus arrives.,walk up the steps of the bus.,1,cause
+18231890,when your stop comes get up and go the exit door of bus.,"once you arrive at destination, get off the bus.",take a seat in the bus.,0,effect
+156495,go to a bus stop.,wait at bus stop.,signal by bell for stop.,0,effect
+17110484,"when bus arrives, step on board.",find empty seat.sit down.,driver opens door.,0,effect
+18034729,ride on the bus.,wait for bus to reach your stop.,go to bus stop.,0,effect
+17662339,go through doors and up the steps.,get off at your stop.,sit down and wait for your desired stop.,0,effect
+149178,get to bus stop some time early.,wait on the bench until the bus arrives.,signal for a stop where i want to get off.,0,effect
+17151561,find empty seat.sit down.,get on the bus.,pull signal for stop.,0,cause
+1708809,wait for bus to stop.,pay fare when boarding bus.,sit in bus.,1,cause
+17831960,take a seat.,wait for your stop.,wait a bus stop.,0,effect
+1274444,exit bus at your destination.,signal the driver to stop when you see your bus coming.,when it arrives get on.,1,cause
+1633391,wait for correct stop.,go to the bus stop.,find seat on bus and sit.,1,cause
+1537336,board the bus.,exit bus.,signal for a stop where i want to get off.,0,effect
+18044521,pay attention for your stop.,sit patiently until the bus reaches your destination bus stop.,go down bus steps.exit bus.,0,cause
+1362765,get off at your stop.,ride to desired destination.,get on the bus.,1,cause
+17431545,step onto bus.,go down bus steps.exit bus.,pay money or swipe pass.,0,effect
+16973095,enter bus.,take a seat.,find out bus schedule using time table.,0,effect
+17584074,board bus.,get off the bus.,wait for bus.,0,effect
+17407583,get on the bus.,exit the bus at your desired location.,pay the toll.,0,effect
+1904958,get off the bus at your desired stop.,go to bus stop 5 minutes before bus arrives.go to your bus stop of choice.,ring the bell when you see your destination.,1,cause
+1913153,exit bus when arrive.,wait for bus stop destination.,"when you are near your destination, press the stop button.",1,cause
+1005606,wait for stop.,wait at bus stop.,go through doors and up the steps.,1,cause
+357626,pay fare.,locate bus stop.,bus arrives at the source location.,1,cause
+16366470,wait for bus arrival.,pull the cord when you want the bus to stop.,go to bus stop at designated time.,1,cause
+16981576,board bus when it arrives.,find empty seat.sit down.,get a local bus map or bus schedule.check the bus schedule to make sure that the bus route stops by destination.check the bus schedule to find the times that the bus stops by your location.,0,effect
+17284435,enjoy the ride.,"when the driver opens the door, board the bus.",alert the driver your stop is coming.,0,cause
+17812088,find empty seat to sit in.,wait a bus stop.,sit patiently until the bus reaches your destination bus stop.,1,effect
+701051,find a empty seat.,pay for the ride.,get in bus.,1,cause
+411788,bus reaches at departure station.,wait for your stop to be announced.,bus stops at your destination.,0,effect
+265845,go to a bus stop.,wait for bus.,get onto the bus when it reaches the stop.,0,effect
+18012997,wait for stop.,wait for bus to stop.,pay for the ride.,0,effect
+17233638,step onto bus when arrives.,wait for destination.,wait at bus stop.,0,effect
+621959,get on the bus.,take the tickets.pay for the ride.,your destination place came.,0,effect
+1823807,pay attention for your stop.,go to bus station.,ride on the bus.,1,cause
+16783110,get in bus.,give your money to the driver.,get to bus stop some time early.,0,effect
+1945289,exit at your destination when the bus stops.,watch for your destination.,"when your stop approaches, pull cord.",1,cause
+10518527,get on bus.,pull cord at stop.,debark from bus.,1,effect
+4271,look at bus schedule on time table.decide what time you need to arrive at bus stop.,go to bus stop.,decide which bus.,1,effect
+16431796,wait for the bus to arrive.,go to the bus stop.,wait for your stop to be announced.,0,cause
+1873049,exit at your destination when the bus stops.,buy bus pass on buss.,"when your stop approaches, pull cord.",1,cause
+19004,wait a bus stop.,find out bus schedule using time table.,go to a bus stop.,1,cause
+17498664,board bus when bus arrives.,exit the bus at your desired location.,reach the designated bus stop before the bus reaches there to avoid missing the bus.,0,effect
+629624,climb stairs into bus.,purchase the ticket.,bus stops at your destination.,0,effect
+842497,sit down.,go to the bus stop/bus stand.,"when bus arrives, step on board.",1,cause
+1715651,wait for your stop to be announced.,"while boarding, pay the driver the required fee or show a pass.",take a seat.,1,cause
+16896425,get onto the bus when it reaches the stop.,find a empty seat.,pay the fee.,0,effect
+17204215,get onto the bus when it reaches the stop.,find out bus schedule using time table.,ride on the bus.,1,effect
+17379131,watch for your destination.,get on the bus.,"when the bus approaches your destination, press the button to signal a stop.",0,cause
+16375894,wait for bus to arrive.,go to the nearest bus stop.,sit or stand to location.,0,cause
+1880599,"when the driver stops and opens the door, leave the bus.",put exact change in money receiver.,signal for a stop where i want to get off.,1,cause
+1628971,wait for your stop.,go to bus station.,sit down and wait for your desired stop.,1,cause
+1433240,get off the bus.,wait for your stop to be announced.,when it arrives get on.,1,cause
+1652442,wait for my stop.,driver opens door.,find a seat.,1,cause
+17547328,go through doors and up the steps.,get off the bus.,sit in a seat until you see your destination.,0,effect
+17149330,sit down in on empty seat in bus.,board bus when it arrives.,pull the cord alerting the driver to stop.,0,cause
+552355,pay the toll.,go to bus station.,step on bus.,1,cause
+1427013,exit bus when arrive.,wait for bus to reach your stop.,when the bus comes enter the bus.,1,cause
+17785328,sit down in on empty seat in bus.,wait for my stop.,buy bus ticket.,0,effect
+18253432,bus stops at destination.,exit bus at your destination.,get to bus stop some time early.,0,effect
+520649,pay money or swipe pass.,wait at your bus stop.,get on the bus.,1,cause
+18210650,stand up and go to exit door for departing the bus.,get off bus when doors open.,"when bus arrives , wait for doors to open before boarding.",0,effect
+362017,bus arrives at the source location.,your destination place came.,pay the fare.,1,effect
+1091574,watch and listen for stop announcement.,buy bus pass on buss.,get into the bus.,1,cause
+1078192,board bus when it arrives.,wait till my stop is approaching.,alert the driver your stop is coming.,0,effect
+16849247,pay for the ride.,get on bus.,go to door.,0,cause
+1471670,get off.,take available seat.,enter the bus.,1,cause
+16301513,wait for bus at bus stop.,walk to bus stop.,exit bus.,0,cause
+16983,wait at your bus stop.,get a local bus map or bus schedule.check the bus schedule to make sure that the bus route stops by destination.check the bus schedule to find the times that the bus stops by your location.,get to bus stop some time early.,1,cause
+17461429,when it arrives get on.,go down bus steps.exit bus.,check to bus schedule in the time table to see when the bus is running.,0,effect
+755121,find seat on bus.,find out what bus to take.,board bus when bus arrives.,1,cause
+1336365,"once you arrive at destination, get off the bus.",wait for correct stop.,get on the bus.,1,cause
+1167320,get on bus.,alert the driver your stop is coming.,wait until the bus arrives at the destination.,1,effect
+566854,"while boarding, pay the driver the required fee or show a pass.",reach the designated bus stop before the bus reaches there to avoid missing the bus.,enter the bus.,1,cause
+1314307,climb down stairs and exit bus.,arrive at bus stop prior to bus's arrival.,when your bus comes climb in it.,1,cause
+450944,pay money or swipe pass.,decide which bus.,board bus.,1,cause
+17950713,find seat on bus and sit.,wait for bus to arrive at stop.,wait for the bus.,0,effect
+1798948,starting walking to seat on bus.sit in seat.,watch for your destination.,pull cord at stop.,0,effect
+1885,check bus schedule in time table.,find out what bus to take.,stand up.walk to back door.,0,effect
+16808338,"when the driver opens the door, board the bus.",pay money or swipe pass.,get to bus stop some time early.,0,effect
+17788488,find empty seat.sit down.,pay for your fare.,sit in a seat until you see your destination.,1,effect
+2036602,walk off the bus.,take the tickets.pay for the ride.,bus stops at your destination.,1,cause
+18004148,watch for your stop.wait until bus stops completely.,choose a seat.,alert the driver your stop is coming.,0,cause
+1748157,wait for your stop to be announced.,signal the driver to stop when you see your bus coming.,find a empty seat.,1,cause
+17406947,walk up the steps of the bus.,debark from bus.," to pay the fare, you can either buy a bus pass or pay each time you ride the bus.",0,effect
+1113901,wait for bus to reach destination.,check the schedule of bus in time table.,get on the bus.,1,cause
+17139135,walk down center of bus to find a seat.sit in seat.,board the bus.,alert the driver your stop is coming.,0,cause
+1984274,"when the driver stops and opens the door, leave the bus.",pay for fare.,when your stop comes get up and go the exit door of bus.,1,cause
+582275,purchase the ticket.,go to bus station.,step on bus.,1,cause
+10541417,step onto bus.,"thank the driver, possibly tip.",get off.,1,effect
+551307,drop change into money machine.,go to the bus stop.,get on bus.,1,cause
+18196562,stand up and go to door.,get off bus .,pay your bus fare.,0,effect
+217574,head to the bus stop.,keep looking for your bus.,wait for bus to reach your stop.,0,effect
+17613576,board bus when it arrives .,exit bus.,wait a bus stop.,0,effect
+16567147,the bus arrives at the departure station.,show bus driver your ticket.,locate bus stop.,0,effect
+17794812,sit on a seat.,insert money for ticket.,sit in a seat until you see your destination.,1,effect
+16699440,enter bus.,get a ticket for the bus ride.,wait for bus to arrive.,0,effect
+17072660,get in bus.,find empty seat.sit down.,go to bus station.,0,effect
+1784736,sit on a seat.,watch for your stop.wait until bus stops completely.,get off.,0,effect
+1272468,climb down stairs and exit bus.,choose the route you want to take.,board bus.,1,cause
+16771825,enter bus.,walk to bus stop.,pay fee.,1,effect
+46652,walk to bus stop.,wait at your bus stop.,pay money or swipe pass.,0,effect
+1866618,leave bus.,swipe bus pass.,pull cord at stop.,1,cause
+16746403,get into the bus.,buy bus ticket.,wait for the bus to come to a complete halt before boarding it.,0,effect
+635122,enter bus.,pay for your fare.,go to door.,0,effect
+18085593,pull the cord when you want the bus to stop.,depart when you arrive at your destination.,buy bus ticket.,0,effect
+18024508,ride to destination.,watch for your stop.wait until bus stops completely.,find out bus schedule using time table.,0,effect
+16683006,step onto arriving bus.,buy bus pass on buss.,find out when bus leaves.,0,effect
+16599632,choose a seat.,bus reaches at departure station.,"stand, go to the exit door of bus.",0,cause
+17149085,sit down in on empty seat in bus.,walk up the steps of the bus.,"when the bus approaches your destination, press the button to signal a stop.",0,cause
+16878125,pay bus fair.,enter the bus.,"when you are near your destination, press the stop button.",0,cause
+866427,find an empty seat.,go to bus stop at designated time.,step on bus.,1,cause
+1432436,exit bus at your destination.,watch for your destination.,"when the driver opens the door, board the bus.",1,cause
+18128395,pull the cord when you want the bus to stop.,exit bus at your destination.,sit patiently until the bus reaches your destination bus stop.,0,effect
+929703,board bus.,sit or stand to location.,pull the cord alerting the driver to stop.,0,effect
+1788158,take available seat.,watch for your destination.,walk off the bus.,0,effect
+18226006,"stand, go to the exit door of bus.",walk off the bus.,wait for bus to arrive at stop.,0,effect
+976064,ride to desired destination.,show bus driver your ticket.,climb stairs into bus.,1,cause
+17454576,"when bus arrives, enter.climb bus steps.",get off bus at destination.,retrieve ticket from machine.,0,effect
+17906494,sit in a seat until you see your destination.,sit down.find an open seat.,pull the cord alerting the driver to stop.,0,cause
+18222967,go to door.,"once you arrive at destination, get off the bus.",wait for bus to arrive.,0,effect
+16847924,pay fare.,step onto bus when arrives.,go to door.,0,cause
+18223940,go to door.,get down once the destination is reached.,wait for bus at bus stop.,0,effect
+1636854,sit patiently until the bus reaches your destination bus stop.,walk to the bus stop.,sit in bus.,1,cause
+16649786,bus reaches at departure station.,exit bus when arrive.,sit down in on empty seat in bus.,0,effect
+16799631,board bus when it arrives .,pay the fee.,find the bus stop.,0,effect
+10513142,board bus when it arrives.,go to bus door.,leave bus.,1,effect
+17176333,get on the bus.,ride to destination.,pay fare.,0,effect
+16857709,pay the toll.,walk up the steps of the bus.,signal for a stop where i want to get off.,0,cause
+16267464,stand at the bus stop.,find the bus stop.,"while boarding, pay the driver the required fee or show a pass.",0,cause
+17289082,sit in a seat until you see your destination.,walk up the steps of the bus.,press stop button.,0,cause
+975461,ride to desired destination.,scan bus pass.,"when bus arrives, enter.climb bus steps.",1,cause
+1801015,watch stops out window.,pay the bus driver.,ride.,1,cause
+1246909,get off bus at destination.,insert money for ticket.,board bus when bus arrives.,1,cause
+17773912,find a seat if available or stand if necessary.,wait to get to destination.,insert money for ticket.,0,effect
+1543900,board the bus when it arrives.,exit the bus at your desired location.,alert the driver your stop is coming.,0,effect
+17147886,find an empty seat.,get in bus.,ring the bell when you see your destination.,0,cause
+1830754,watch until you see your stop to get off.,head to the bus stop.,wait for your stop.,1,cause
+589449," to pay the fare, you can either buy a bus pass or pay each time you ride the bus.",locate bus stop.,"when bus arrives, enter.climb bus steps.",1,cause
+2051446,getting off the bus.,keep looking for your bus.,bus stops at your destination.,1,cause
+18066166,pull the cord when you want the bus to stop.,wait for bus to reach destination.,bus has arrived on destination.,1,effect
+18167508,pull the cord alerting the driver to stop.,climb down stairs and exit bus.,sit on a seat.,0,effect
+1567004,wait for correct stop.,pay the toll.,find a seat or stand on bus.,1,cause
+323807,reach the designated bus stop before the bus reaches there to avoid missing the bus.,driver opens door.,signal the driver to stop when you see your bus coming.,1,effect
+17864850,sit in a seat until you see your destination.,sit down and wait for your desired stop.,your destination place came.,0,cause
+17438496,"when the driver opens the door, board the bus.",get off bus when doors open.,scan bus pass.,0,effect
+1805864,wait until the bus arrives at the destination.," to pay the fare, you can either buy a bus pass or pay each time you ride the bus.",enjoy the ride.,1,cause
+1957632,exit bus.,sit down.,pull cord at stop.,1,cause
+144310,go to bus stop 5 minutes before bus arrives.go to your bus stop of choice.,wait for the bus to arrive.,stand up and go to exit door for departing the bus.,0,effect
+1538440,enter bus.,get off the bus at your desired stop.,alert the driver your stop is coming.,0,effect
+1710469,wait until the bus arrives at the destination.,pay fee.,take available seat.,1,cause
+473750,take the tickets.pay for the ride.,find out when bus leaves.,enter the bus.,1,cause
+17453049,"when bus arrives, enter.climb bus steps.","once you arrive at destination, get off the bus.",pay fare.,0,effect
+4064,find bus schedule information from time table.,find out what bus to take.,"thank the driver, possibly tip.",0,effect
+18245522,bus stops at destination.,take the tickets.pay for the ride.,get down from the bus.,1,effect
+1460709,get off at stop.,find empty seat.sit down.,get on the bus.,1,cause
+18168784,"about one block away from your stop, pull the \.",find a seat on the bus.,get off the bus at your desired stop.,1,effect
+814084,find seat on bus and sit.,keep looking for your bus.,walk up the steps of the bus.,1,cause
+16238051,wait for the bus.,head to the bus stop.,give your money to the driver.,0,cause
+1667016,find a seat or stand on bus.,"when the driver stops and opens the door, leave the bus.",wait for your stop.,1,effect
+935657,get in bus.,find a seat.,pull cord at stop.,0,effect
+1587747,ride.,give money.,choose a seat.,1,cause
+18162064,press stop button.,get off at your stop.,sit or stand to location.,0,effect
+17795348,find seat on bus.,take the tickets.pay for the ride.,sit patiently until the bus reaches your destination bus stop.,1,effect
+17853857,sit down if possible.,arrive at bus stop prior to bus's arrival.,wait for stop.,1,effect
+10530677,step onto bus.,alert the driver your stop is coming.,get off bus when doors open.,1,effect
+17773787,find a seat if available or stand if necessary.,wait for stop.,swipe bus pass.,0,effect
+17534169,step onto arriving bus.,get off.,go to the bus station.,0,effect
+1713001,wait for bus to reach destination.,insert money for ticket.,sit down.find an open seat.,1,cause
+520662,pay money or swipe pass.,wait at your bus stop.,board bus when it arrives .,1,cause
+626813,walk up the steps of the bus.,get a ticket for the bus ride.,bus has arrived on destination.,0,effect
+18103602,pull signal for stop.,watch your step when getting down from the bus.,choose the route you want to take.,0,effect
+17510263,enter the bus.,get off.,go to the nearest bus stop.,0,effect
+1863440,"once you arrive at destination, get off the bus.",insert money for ticket.,pull cord at stop.,1,cause
+18051475,wait for bus to arrive at stop.,ride bus to destination.,get down once the destination is reached.,0,cause
+2046755,exit at your destination when the bus stops.,wait till my stop is approaching.,bus has arrived on destination.,1,cause
+893938,sit down.find an open seat.,go to bus stop 5 minutes before bus arrives.go to your bus stop of choice.,board the bus.,1,cause
+344928,bus arrives at the source station.,get onto the bus when it reaches the stop.,pull signal for stop.,0,effect
+1459197,leave bus.,sit down if possible.,"when bus arrives, enter.climb bus steps.",1,cause
+16570349,bus arrives at the source station.,pay the fare.,go to the bus station.,0,effect
+16527912,"when you see your bus approaching, signal to the driver to stop.",find a seat on the bus.,walk to bus stop.,1,cause
+2017582,debark from bus.,watch for your destination.,go to bus door.,1,cause
+1734424,watch for your destination.,wait for the bus to arrive.,sit or stand to location.,1,cause
+1771360,walk down center of bus to find a seat.sit in seat.,watch and listen for stop announcement.,walk off the bus.,0,effect
+1112122,watch for your destination.,check bus schedule in time table.,get into the bus.,1,cause
+16669360,board the bus.,buy bus pass on buss.,check bus schedule in time table.,0,effect
+341748,bus arrives at the source station.,bus stops at your destination.,step on bus.,1,effect
+39777,find the nearest bus stop.,wait for bus.,place change in receptor.,0,effect
+1481375,get down from the bus.,find seat on bus and sit.,when your bus comes climb in it.,1,cause
+10537947,"when bus arrives, enter.climb bus steps.",alert the driver your stop is coming.,get off the bus at your desired stop.,1,effect
+1512717,get off at your stop.,"find out how much the bus ride costs, either online or by calling bus company.",get on the bus.,1,cause
+1970793,"when your stop approaches, pull cord.",get off the bus at your desired stop.,stand up.walk to back door.,0,effect
+17214394,board bus.,wait at your bus stop.,ride.,1,effect
+18158255,ring bell when bus approaches stop at destination.,walk off the bus.,wait for bus to reach destination.,0,effect
+962353,wait for stop.,swipe bus pass.,"when bus arrives, step on board.",1,cause
+17170367,board the bus.,give your money to the driver.,sit patiently until the bus reaches your destination bus stop.,1,effect
+459708,give your fare to the bus driver.receive ticket.,check to bus schedule in the time table to see when the bus is running.,walk up the steps of the bus.,1,cause
+16783105,get in bus.,give your money to the driver.,go to the bus station.,0,effect
+17199354,when your bus comes climb in it.,wait for bus stop destination.,put exact change in money receiver.,0,effect
+2016958,get down from the bus.,wait for bus to stop.,stand up.walk to back door.,1,cause
+1890488,go down bus steps.exit bus.,have the knowledge about the bus schedule from time table.,pull cord at stop.,1,cause
+1088944,watch for your stop.wait until bus stops completely.,pay for your fare.,board bus.,1,cause
+1704885,watch for your stop.wait until bus stops completely.,pay for your fare.,sit on a seat.,1,cause
+1986020,get off at your stop.,give your money to the driver.,go to door.,1,cause
+17973097,take a seat.,watch for your destination.,locate bus stop.,0,effect
+1781521,find seat on bus and sit.,exit at your destination when the bus stops.,wait until the bus arrives at the destination.,1,effect
+17928647,take a seat.,watch and listen for stop announcement.,pay the bus driver.,0,effect
+16835375,pay the toll.,bus stops at destination.,get on bus.,1,cause
+1831748,watch until you see your stop to get off.,"find out how much the bus ride costs, either online or by calling bus company.",enjoy the ride.,1,cause
+432999,exit bus.,wait for bus.,bus arrives at the source station.,1,cause
+17652367,"when the driver opens the door, board the bus.","once you arrive at destination, get off the bus.",wait for your stop to be announced.,0,effect
+18109526,ring the bell when you see your destination.,climb down stairs and exit bus.,go to the bus station.,0,effect
+18245504,bus stops at destination.,get down from the bus.,pay for the ride.,0,effect
+17890849,ride bus to destination.,find seat on bus.,go down bus steps.exit bus.,0,cause
+1793473,find a vacant seat (if possible).,watch for your stop.wait until bus stops completely.,"when you are near your destination, press the stop button.",0,effect
+17586937,board the bus.,exit bus.,wait for bus arrival.,0,effect
+562661,pay bus fare.,arrive at bus stop prior to bus's arrival.,get onto the bus when it reaches the stop.,1,cause
+694869,choose a seat.,pay fare when boarding bus.,step onto arriving bus.,1,cause
+17973230,take a seat.,reach the designated bus stop before the bus reaches there to avoid missing the bus.,wait for bus to reach destination.,1,effect
+401983,ride.,go to bus station.,bus arrives at the source station.,1,cause
+880813,sit down if possible.,find the bus stop.,step onto arriving bus.,1,cause
+16975096,get on the bus.,take available seat.,get a local bus map or bus schedule.check the bus schedule to make sure that the bus route stops by destination.check the bus schedule to find the times that the bus stops by your location.,0,effect
+17399780,enter bus.,get off the bus.,insert money for ticket.,0,effect
+17934742,find empty seat to sit in.,watch until you see your stop to get off.,find out when bus leaves.,0,effect
+17685294,enter the bus.,go down bus steps.exit bus.,take your seat.,0,effect
+228433,go to the nearest bus stop.,wait.,step onto arriving bus.,0,effect
+1943567,get off at stop.,wait for bus to reach your stop.,"when your stop approaches, pull cord.",1,cause
+1809828,wait for bus to arrive at stop.," to pay the fare, you can either buy a bus pass or pay each time you ride the bus.",wait till my stop is approaching.,1,cause
+18193369,go to bus door.,debark from bus.,buy bus ticket.,0,effect
+957517,wait for your stop.,pay fare.,get onto the bus when it reaches the stop.,1,cause
+835257,take available seat.,wait for bus.,when the bus comes enter the bus.,1,cause
+16320274,wait on the bench until the bus arrives.,get to bus stop some time early.,watch your step when getting down from the bus.,0,cause
+1530448,board bus when it arrives.,exit bus at your destination.,go to bus door.,0,effect
+18021275,ride to destination.,wait for bus to arrive at stop.,scan bus pass.,0,effect
+888382,find seat on bus.,find the nearest bus stop.,get into the bus.,1,cause
+1703256,watch for your stop.wait until bus stops completely.,pay the toll.,sit down.,1,cause
+18024032,sit in a seat until you see your destination.,check to bus schedule in the time table to see when the bus is running.,wait for bus to reach destination.,1,effect
+908569,when it arrives get on.,sit or stand to location.,bus has arrived on destination.,0,effect
+16630100,bus arrives at the source station.,get off bus at destination.,get a ticket for the bus ride.,0,effect
+841351,starting walking to seat on bus.sit in seat.,signal the driver to stop when you see your bus coming.,when your bus comes climb in it.,1,cause
+17967399,find a seat on the bus.,wait for bus to stop.,walk to bus stop.,0,effect
+939103,when the bus comes enter the bus.,sit in bus.,ring bell when bus approaches stop at destination.,0,effect
+1141854,watch for your stop.wait until bus stops completely.,head to the bus stop.,board bus when it arrives .,1,cause
+16952972,get into the bus.,sit down and wait for your desired stop.,pay for your fare.,0,effect
+17012279,enter the bus.,find a vacant seat (if possible).,wait.,0,effect
+1181255,get off bus.,pay bus fair.,get on bus.,1,cause
+340720,the bus arrives at the departure station.,board bus.,reach the destination.,0,effect
+16574770,pay the fare.,bus reaches at departure station.,ring bell when bus approaches stop at destination.,0,cause
+16203678,bus has arrived on destination.,watch and listen for stop announcement.,pull the cord when you want the bus to stop.,1,cause
+857638,sit down and wait for your desired stop.,go to a bus stop.,board the bus.,1,cause
+18049742,wait for your stop to be announced.,wait for correct stop.,get off at your stop.,0,cause
+17283136,wait for stop.,pull the cord alerting the driver to stop.,step onto bus.,1,cause
+18003701,pay attention for your stop.,find an empty seat.,ring the bell when you see your destination.,0,cause
+342799,bus arrives at the source station.,when your stop comes get up and go the exit door of bus.,get in bus.,1,effect
+1675013,sit down if possible.,wait for your stop.,get off at your stop.,0,effect
+18269443,bus stops at destination.,find an empty seat.sit down or stand if there isn't an empty seat.,get off the bus.,1,effect
+16207615,bus stops at destination.,pull the cord alerting the driver to stop.,enter the bus.,0,cause
+1947013,debark from bus.,wait for your stop to be announced.,alert the driver your stop is coming.,1,cause
+16452270,wait there for the bus to arrive.,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",board bus when bus arrives.,0,cause
+673058,when it arrives get on.,put exact change in money receiver.,"thank the driver, possibly tip.",0,effect
+17375469,wait for bus to reach destination.,"when the driver opens the door, board the bus.",go to bus door.,0,cause
+397700,wait for correct stop.,wait on the bench until the bus arrives.,the bus arrives at the departure station.,1,cause
+16554495,board the bus when it arrives.,alert the driver your stop is coming.,bus arrives at the source location.,1,cause
+1677983,sit on a seat.,ride to desired destination.,get off at stop.,0,effect
+334600,go through doors and up the steps.,locate bus stop.,the bus arrives at the departure station.,1,cause
+17866404,sit patiently until the bus reaches your destination bus stop.,bus has arrived on destination.,find seat on bus and sit.,1,cause
+720191,find empty seat.sit down.,pay fare.,get in bus.,1,cause
+1458941,leave bus.,find an empty seat.sit down or stand if there isn't an empty seat.,get onto the bus when it reaches the stop.,1,cause
+17803264,find a seat or stand on bus.,wait till my stop is approaching.,figure out the place you want to reach.,0,effect
+17163908,find seat on bus and sit.,when the bus comes enter the bus.,say thank you to the driver.,0,cause
+644121,get into the bus.,pay bus fare.,when your stop comes get up and go the exit door of bus.,0,effect
+17323564,board the bus when it arrives.,wait until the bus arrives at the destination.,find bus schedule information from time table.,0,effect
+16591597,bus arrives at the source station.,sit down in on empty seat in bus.,wait for the bus.,0,effect
+1556520,when your bus comes climb in it.,exit at your destination when the bus stops.,"when you are near your destination, press the stop button.",0,effect
+266386,go to a bus stop.,wait at your bus stop.,enter the bus.,0,effect
+1280163,get off bus.,find the nearest bus stop.,when your bus comes climb in it.,1,cause
+1960904,exit bus at destination.,sit down.,pull the cord alerting the driver to stop.,1,cause
+1097860,wait for bus to reach destination.,put exact change in money receiver.,"when the driver opens the door, board the bus.",1,cause
+10523469,get on the bus.,ring the bell when you see your destination.,exit bus at your destination.,1,effect
+17730515,exit bus at destination.,step onto arriving bus.,bus stops at destination.,0,cause
+1161074,get on the bus.,watch stops out window.,bus stops at destination.,0,effect
+16299946,wait for bus to arrive.,go to the bus station.,get off bus when doors open.,0,cause
+1110849,watch stops out window.,check the schedule of bus in time table.,"when bus arrives, enter.climb bus steps.",1,cause
+16546325,bus reaches at departure station.,go to a bus stop.,board the bus.,1,effect
+1109327,wait for bus to arrive at stop.,find out what bus to take.,get in bus.,1,cause
+18089886,pull signal for stop.,watch your step when getting down from the bus.,pay your bus fare.,0,effect
+18022977,enjoy the ride.,have the knowledge about the bus schedule from time table.,wait for bus to stop.,1,effect
+1555688,"when bus arrives, enter.climb bus steps.",depart when you arrive at your destination.,alert the driver your stop is coming.,0,effect
+113106,go to the bus stop/bus stand.,wait for the bus to come to a complete halt before boarding it.,depart when you arrive at your destination.,0,effect
+17981865,watch stops out window.,take your seat.,get off bus .,0,cause
+16842735,pay for your fare.,step on bus.,bus stops at destination.,0,cause
+1196856,exit bus at your destination.,buy ticket for your destination.,climb stairs into bus.,1,cause
+17206823,board the bus when it arrives.,wait for destination.,check the schedule of bus in time table.,0,effect
+1570456,wait to get to destination.,pay the toll.,sit down.find an open seat.,1,cause
+1653522,find a seat.,wait for bus stop destination.,reach the destination.,0,effect
+18195781,stand up and go to door.,leave bus.,pay for your fare.,0,effect
+17269867,go through doors and up the steps.,wait for my stop.,"find out how much the bus ride costs, either online or by calling bus company.",0,effect
+16681548,step onto bus when arrives.,drop change into money machine.,find bus schedule information from time table.,0,effect
+850816,take a seat in the bus.,go to bus station.,board bus.,1,cause
+17246390,enter bus.,enjoy the ride.,go to bus stop at designated time.,0,effect
+1684129,find a seat if available or stand if necessary.,wait for stop.,go to bus door.,0,effect
+1766919,wait until the bus arrives at the destination.,"find out how much the bus ride costs, either online or by calling bus company.",sit in bus.,1,cause
+768760,find an empty seat.sit down or stand if there isn't an empty seat.,find out bus schedule using time table.,enter bus.,1,cause
+1882154,depart when you arrive at your destination.,pay the fare.,pull the cord alerting the driver to stop.,1,cause
+1795272,sit in bus.,pay attention for your stop.,press stop button.,0,effect
+17432898,climb stairs into bus.,get off bus .,place change in receptor.,0,effect
+16763585,go through doors and up the steps.,pay your bus fare.,go to the nearest bus stop.,0,effect
+17283429,wait for correct stop.,board bus.,signal for a stop where i want to get off.,0,cause
+1231759,get down once the destination is reached.,swipe bus pass.,step on bus.,1,cause
+16202041,bus has arrived on destination.,pull the cord when you want the bus to stop.,find a vacant seat (if possible).,0,cause
+18093700,"when the bus approaches your destination, press the button to signal a stop.",walk off the bus.,pay the fare to ride the bus.,0,effect
+442465,"when the driver stops and opens the door, leave the bus.",find a seat if available or stand if necessary.,bus reaches at departure station.,1,cause
+1141856,watch for your stop.wait until bus stops completely.,head to the bus stop.,climb stairs into bus.,1,cause
+1356624,debark from bus.,wait for my stop.,"when the driver opens the door, board the bus.",1,cause
+17244457,get onto the bus when it reaches the stop.,ride on the bus.,go to a bus stop.,0,effect
+17151979,find empty seat.sit down.,when your bus comes climb in it.,"when you are near your destination, press the stop button.",0,cause
+16829317,go through doors and up the steps.,pay money or swipe pass.,"find out how much the bus ride costs, either online or by calling bus company.",0,effect
+18067201,signal for a stop where i want to get off.,bus has arrived on destination.,go to bus stop.,0,effect
+18004491,watch for your stop.wait until bus stops completely.,take your seat.,pull cord at stop.,0,cause
+632420,when it arrives get on.,go to door.,pay bus fare.,1,effect
+16541649,bus arrives at the source location.,get in bus.,keep looking for your bus.,0,effect
+186833,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",find a seat or stand on bus.,wait at bus stop.,1,effect
+17447973,step onto arriving bus.,get off at your stop.,pay the driver.,0,effect
+17270791,ride on the bus.,get on bus.,reach the destination.,0,cause
+830522,sit down.find an open seat.,wait for bus.,get into the bus.,1,cause
+16838566,pay the bus driver.,board bus when bus arrives.,bus has arrived on destination.,0,cause
+1873098,exit at your destination when the bus stops.,place change in receptor.,pull the cord when you want the bus to stop.,1,cause
+1626956,wait for destination.,signal the driver to stop when you see your bus coming.,find seat on bus and sit.,1,cause
+16888778,when it arrives get on.,sit down.find an open seat.,drop change into money machine.,0,effect
+1543730,enter the bus.,"when the driver stops and opens the door, leave the bus.","when your stop approaches, pull cord.",0,effect
+18194637,go to door.,exit at your destination when the bus stops.,pay for your fare.,0,effect
+1595559,wait for correct stop.,find out bus schedule using time table.,find an empty seat.sit down or stand if there isn't an empty seat.,1,cause
+17821736,find an empty seat.,enjoy the ride.,wait a bus stop.,0,effect
+18004220,watch for your stop.wait until bus stops completely.,find a seat or stand on bus.,signal for a stop where i want to get off.,0,cause
+16786491,enter the bus.,go to a bus stop.,drop change into money machine.,1,effect
+1691738,find a empty seat.,signal for a stop where i want to get off.,wait for my stop.,1,effect
+788721,sit or stand to location.,wait for the bus to arrive.,step onto arriving bus.,1,cause
+16363093,wait at your bus stop.,signal for a stop where i want to get off.,go to the bus stop.,1,cause
+684694,find a seat if available or stand if necessary.,drop change into money machine.,board bus when it arrives .,1,cause
+17394135,board bus.,walk off the bus.,pay the fare to ride the bus.,0,effect
+1451849,get off bus.,sit in bus.,"when bus arrives, enter.climb bus steps.",1,cause
+631542,step on bus.,place change in receptor.,bus stops at destination.,0,effect
+18238143,stand up and go to door.,get off.,find a seat on the bus.,0,effect
+17245062,board the bus.,ride on the bus.,head to the bus stop.,0,effect
+17821047,sit in bus.,wait for correct stop.,wait.,0,effect
+844684,walk down center of bus to find a seat.sit in seat.,go to bus stop.,"when the driver opens the door, board the bus.",1,cause
+17118206,sit on a seat.,climb stairs into bus.,your destination place came.,0,cause
+1149370,wait for bus to reach destination.,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",enter the bus.,1,cause
+316755,go to a bus stop.,"when you see your bus approaching, signal to the driver to stop.",ring bell when bus approaches stop at destination.,0,effect
+17892744,ride to destination.,"once you arrive at destination, get off the bus.",find a vacant seat (if possible).,1,cause
+16994353,get onto the bus when it reaches the stop.,find a seat or stand on bus.,stand at the bus stop.,0,effect
+17179546,enter the bus.,wait for bus stop destination.,place change in receptor.,0,effect
+17264264,step onto arriving bus.,get to bus stop some time early.,wait till my stop is approaching.,1,effect
+17774194,find a seat if available or stand if necessary.,sit in a seat until you see your destination.,pay for fare.,0,effect
+1255299,exit bus at your destination.,check bus schedule in time table.,step on bus.,1,cause
+1973902,"when the bus approaches your destination, press the button to signal a stop.",get off the bus at your desired stop.,go to bus door.,0,effect
+1563609,ride on the bus.,retrieve ticket from machine.,find a empty seat.,1,cause
+384237,find a seat or stand on bus.,head to the bus stop.,bus reaches at departure station.,1,cause
+1874334,get down from the bus.,place change in receptor.,ring bell when bus approaches stop at destination.,1,cause
+831143,sit down.find an open seat.,wait on the bench until the bus arrives.,when your bus comes climb in it.,1,cause
+622477,board the bus when it arrives.,your destination place came.,give your money to the driver.,1,effect
+18089018,pull cord at stop.,get off bus at destination.,pay the driver.,0,effect
+713154,sit down in on empty seat in bus.,pay your bus fare.,enter the bus.,1,cause
+16351461,wait for the bus to come to a complete halt before boarding it.,arrive at bus stop prior to bus's arrival.,stand up and go to door.,0,cause
+986373,ride.,"while boarding, pay the driver the required fee or show a pass.","when bus arrives, enter.climb bus steps.",1,cause
+437320,climb down stairs and exit bus.,wait for bus to stop.,the bus arrives at the departure station.,1,cause
+17558236,enter the bus.,climb down stairs and exit bus.,sit in a seat until you see your destination.,0,effect
+118455,go to a bus stop.,wait a bus stop.,exit bus.,0,effect
+17967008,sit down in on empty seat in bus.,wait until the bus arrives at the destination.,reach the designated bus stop before the bus reaches there to avoid missing the bus.,0,effect
+1839513,sit in a seat until you see your destination.,get off the bus at your desired stop.,watch for your stop.wait until bus stops completely.,1,effect
+10535814,step onto arriving bus.,"when your stop approaches, pull cord.",get off at your stop.,1,effect
+1655090,find a seat.,bus stops at your destination.,wait for my stop.,1,effect
+700327,find a empty seat.,pay the fare.,step on bus.,1,cause
+10510843,when the bus comes enter the bus.,go to door.,"once you arrive at destination, get off the bus.",1,effect
+17387045,when it arrives get on.,watch your step when getting down from the bus.,pay fare when boarding bus.,0,effect
+1587788,ride.,buy bus ticket.,find a seat.sit down.,1,cause
+1249480,exit bus at destination.,decide which bus.,climb stairs into bus.,1,cause
+18153535,alert the driver your stop is coming.,"once you arrive at destination, get off the bus.",wait until the bus arrives at the destination.,0,effect
+17133194,find seat on bus and sit.,go to bus door.,when your bus comes climb in it.,1,cause
+17169457,get onto the bus when it reaches the stop.,enjoy the ride.,pay the fare.,0,effect
+18095447,signal by bell for stop.,get off at your stop.,pay for fare.,0,effect
+2026339,get down once the destination is reached.,find a seat on the bus.,go to bus door.,1,cause
+1672851,find empty seat.sit down.,ride bus to destination.,watch your step when getting down from the bus.,0,effect
+16700022,enter bus.,take the tickets.pay for the ride.,wait there for the bus to arrive.,0,effect
+1719950,wait for bus to arrive at stop.,give your money to the driver.,walk down center of bus to find a seat.sit in seat.,1,cause
+770779,sit down if possible.,look at bus schedule on time table.decide what time you need to arrive at bus stop.,get on bus.,1,cause
+1351186,get down from the bus.,ride to destination.,board the bus.,1,cause
+17921240,find a seat on the bus.,wait for bus to stop.,pay for fare.,0,effect
+18232306,when your stop comes get up and go the exit door of bus.,get off the bus.,take a seat.,0,effect
+18132390,signal by bell for stop.,wait to get to destination.,exit bus at your destination.,1,effect
+17957113,take available seat.,wait until the bus arrives at the destination.,keep looking for your bus.,0,effect
+5858,check the schedule of bus in time table.,find out what bus to take.,wait for my stop.,0,effect
+574563,place change in receptor.,go to the nearest bus stop.,step onto bus.,1,cause
+1402334,get off the bus at your desired stop.,wait at bus stop for bus.,board bus when it arrives .,1,cause
+10536918,step on bus.,alert the driver your stop is coming.,get down once the destination is reached.,1,effect
+17545049,step onto bus when arrives.,get off bus.,"when bus arrives , wait for doors to open before boarding.",0,effect
+1952,get a bus schedule by checking time table.,find out what bus to take.,"stand, go to the exit door of bus.",0,effect
+18155242,pull the cord alerting the driver to stop.,wait for bus to reach your stop.,get off the bus at your desired stop.,1,effect
+18144279,pull the cord when you want the bus to stop.,"when the driver stops and opens the door, leave the bus.",wait for bus.,0,effect
+17535423,get into the bus.,get off.,go to the nearest bus stop.,0,effect
+989430,ride to destination.,buy ticket for your destination.,enter the bus.,1,cause
+974537,ride to desired destination.,give money.,"when bus arrives, enter.climb bus steps.",1,cause
+2013716,walk off the bus.,wait for bus.,when your stop comes get up and go the exit door of bus.,1,cause
+11416,wait at bus stop.,check bus schedule in time table.,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",1,cause
+2012456,debark from bus.,wait for bus.,when your stop comes get up and go the exit door of bus.,1,cause
+16466614,wait on the bench until the bus arrives.,go to the bus station.,board bus when bus arrives.,0,cause
+16376373,wait for bus to arrive.,walk to bus stop.,sit down in on empty seat in bus.,0,cause
+16815917,step onto arriving bus.,find the bus stop.,insert money for ticket.,1,effect
+1966290,walk off the bus.,sit down.find an open seat.,press stop button.,1,cause
+1224420,climb down stairs and exit bus.,pay the fare.,board bus.,1,cause
+16557192,bus arrives at the source station.,retrieve ticket from machine.,figure out the place you want to reach.,0,effect
+554469,retrieve ticket from machine.,go to bus stop at designated time.,"when bus arrives, enter.climb bus steps.",1,cause
+16615240,the bus arrives at the departure station.,scan bus pass.,watch for your destination.,1,effect
+18241560,bus stops at your destination.,get off bus when doors open.,buy ticket for your destination.,0,effect
+916286,get on bus.,choose a seat.,"stand, go to the exit door of bus.",0,effect
+1243509,get off at your stop.,show bus driver your ticket.,"when bus arrives, enter.climb bus steps.",1,cause
+17514239,when the bus comes enter the bus.,watch your step when getting down from the bus.,locate bus stop.,0,effect
+486838,buy bus ticket.,wait for bus at bus stop.,get into the bus.,1,cause
+800189,sit in bus.,wait for the bus.,when the bus comes enter the bus.,1,cause
+1718989,wait for bus to arrive at stop.,pay bus fare.,find an empty seat.,1,cause
+363234,bus reaches at departure station.,stand up.walk to back door.,pay for fare.,1,effect
+1576853,wait till my stop is approaching.,give your money to the driver.,starting walking to seat on bus.sit in seat.,1,cause
+625325,board bus.,retrieve ticket from machine.,bus has arrived on destination.,0,effect
+17169196,board bus.,buy bus ticket.,ride to destination.,1,effect
+16987479,when it arrives get on.,sit down in on empty seat in bus.,wait for the bus to come to a complete halt before boarding it.,0,effect
+16234804,go to bus stop 5 minutes before bus arrives.go to your bus stop of choice.,wait on the bench until the bus arrives.,"find out how much the bus ride costs, either online or by calling bus company.",0,effect
+1854739,bus stops at destination.,take a seat.,alert the driver your stop is coming.,1,cause
+1712053,wait for bus to reach destination.,buy bus ticket.,find empty seat.sit down.,1,cause
+17086561,board bus when it arrives .,walk down center of bus to find a seat.sit in seat.,go to the nearest bus stop.,0,effect
+16238008,wait for the bus.,go to the bus stop.,pay bus fair.,0,cause
+1313478,get off bus .,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",board the bus.,1,cause
+1909001,go down bus steps.exit bus.,go to the bus stop.,"when your stop approaches, pull cord.",1,cause
+1529648,step onto bus.,get off at stop.,when your stop comes get up and go the exit door of bus.,0,effect
+1636528,wait to get to destination.,reach the designated bus stop before the bus reaches there to avoid missing the bus.,find empty seat to sit in.,1,cause
+1068287,board bus when it arrives .,sit patiently until the bus reaches your destination bus stop.,when your stop comes get up and go the exit door of bus.,0,effect
+16696837,board the bus.,swipe bus pass.,keep looking for your bus.,0,effect
+446660,bus reaches at departure station.,debark from bus.,pull signal for stop.,0,effect
+16421011,wait for bus to arrive.,walk to the bus stop.,pay attention for your stop.,0,cause
+17304587,board the bus when it arrives.,pay fee.,watch for your destination.,1,effect
+504955,pay the fare to ride the bus.,stand at the bus stop.,step onto bus.,1,cause
+18155130,pull the cord alerting the driver to stop.,get off.,watch for your stop.wait until bus stops completely.,0,effect
+596337,insert money for ticket.,go to bus stop at designated time.,when the bus comes enter the bus.,1,cause
+1246786,get off bus at destination.,pay money or swipe pass.,enter the bus.,1,cause
+16197834,bus stops at your destination.,go to door.,signal for a stop where i want to get off.,1,cause
+1131808,wait for your stop to be announced.,wait for the bus to arrive.,walk up the steps of the bus.,1,cause
+18163677,ring the bell when you see your destination.,"once you arrive at destination, get off the bus.",find an empty seat.sit down or stand if there isn't an empty seat.,0,effect
+1972681,pull the cord when you want the bus to stop.,depart when you arrive at your destination.,stand up and go to exit door for departing the bus.,0,effect
+17836699,sit or stand to location.,enjoy the ride.,"when you see your bus approaching, signal to the driver to stop.",0,effect
+10539705,board bus.,"thank the driver, possibly tip.",get off bus when doors open.,1,effect
+17920947,sit down in on empty seat in bus.,wait for bus to arrive at stop.,pay the bus driver.,0,effect
+421174,get down once the destination is reached.,find out when bus leaves.,bus arrives at the source location.,1,cause
+1601750,wait for bus stop destination.,wait at bus stop for bus.,find a seat.sit down.,1,cause
+1561381,wait for bus stop destination.,give your money to the driver.,sit or stand to location.,1,cause
+1362929,get off at your stop.,wait for my stop.,"when bus arrives, step on board.",1,cause
+17743499,get off at your stop.,stand up and go to exit door for departing the bus.,get on bus.,1,cause
+10515026,step onto arriving bus.,stand up and go to door.,get off bus when doors open.,1,effect
+17573658,"when bus arrives, enter.climb bus steps.",wait till my stop is approaching.,walk off the bus.,1,effect
+361376,pay bus fare.,"when bus arrives , wait for doors to open before boarding.",the bus arrives at the departure station.,1,cause
+850974,take a seat in the bus.,find the nearest bus stop.,board bus when it arrives.,1,cause
+18198772,stand up.walk to back door.,exit the bus at your desired location.,look at bus schedule on time table.decide what time you need to arrive at bus stop.,0,effect
+137447,find the bus stop.,wait.,go to door.,0,effect
+403399,the bus arrives at the departure station.,press stop button.,wait for your stop.,1,effect
+1830488,watch until you see your stop to get off.,arrive at bus stop prior to bus's arrival.,enjoy the ride.,1,cause
+17040764,get into the bus.,find an empty seat.,wait for the bus to arrive.,0,effect
+1963160,debark from bus.,find a vacant seat (if possible).,pull the cord when you want the bus to stop.,1,cause
+17633034,"when bus arrives, enter.climb bus steps.",wait for bus.,get off bus.,1,effect
+1032456,wait for your stop.,go to bus stop.,walk up the steps of the bus.,1,cause
+17223296,enter the bus.,wait for destination.,wait for the bus to arrive.,0,effect
+1030241,ride to desired destination.,"when you see your bus approaching, signal to the driver to stop.","when bus arrives, enter.climb bus steps.",1,cause
+624997,go through doors and up the steps.,bus has arrived on destination.,pay bus fare.,1,effect
+1311124,exit bus at destination.,locate bus stop.,climb stairs into bus.,1,cause
+1611510,sit patiently until the bus reaches your destination bus stop.,wait a bus stop.,find an empty seat.sit down or stand if there isn't an empty seat.,1,cause
+17371525,watch and listen for stop announcement.,bus stops at your destination.,board the bus.,1,cause
+17072823,get in bus.,sit down if possible.,locate bus stop.,0,effect
+17668030,board the bus.,depart when you arrive at your destination.,sit or stand to location.,0,effect
+299638,go to a bus stop.,wait there for the bus to arrive.,ride.,0,effect
+10517568,"when bus arrives, step on board.",ring bell when bus approaches stop at destination.,"when the driver stops and opens the door, leave the bus.",1,effect
+1981606,getting off the bus.,pay the bus driver.,stand up and go to exit door for departing the bus.,1,cause
+16227122,go to the bus stop.,wait for the bus.,have the knowledge about the bus schedule from time table.,0,effect
+1967755,get off at your stop.,find an empty seat.sit down or stand if there isn't an empty seat.,pull signal for stop.,1,cause
+17740073,exit bus at destination.,"when bus arrives, enter.climb bus steps.",go to door.,0,cause
+1991687,"once you arrive at destination, get off the bus.",walk to bus stop.,when your stop comes get up and go the exit door of bus.,1,cause
+682153,walk down center of bus to find a seat.sit in seat.,insert money for ticket.,step onto arriving bus.,1,cause
+1856355,bus stops at your destination.,get to bus stop some time early.,"when you are near your destination, press the stop button.",1,cause
+17772744,walk down center of bus to find a seat.sit in seat.,ride.,buy bus ticket.,0,effect
+18045500,watch for your stop.wait until bus stops completely.,ride.,exit bus at your destination.,0,cause
+17300583,walk up the steps of the bus.,pay fee.,watch for your destination.,1,effect
+17763095,go down bus steps.exit bus.,get in bus.,signal for a stop where i want to get off.,0,cause
+16882824,pay for your fare.,go through doors and up the steps.,ring the bell when you see your destination.,0,cause
+16345193,keep looking for your bus.,the bus arrives at the departure station.,go to bus stop at designated time.,1,cause
+1271898,watch your step when getting down from the bus.,figure out the place you want to reach.,board the bus.,1,cause
+1113608,wait until the bus arrives at the destination.,get a local bus map or bus schedule.check the bus schedule to make sure that the bus route stops by destination.check the bus schedule to find the times that the bus stops by your location.,climb stairs into bus.,1,cause
+1819816,wait for your stop.,wait a bus stop.,sit patiently until the bus reaches your destination bus stop.,1,cause
+1187805,leave bus.,buy bus ticket.,"when bus arrives, enter.climb bus steps.",1,cause
+663695,climb stairs into bus.,swipe bus pass.,ring bell when bus approaches stop at destination.,0,effect
+16936755,climb stairs into bus.,pay the fare to ride the bus.,take a seat.,1,effect
+18230833,stand up and go to exit door for departing the bus.,get off the bus.,walk down center of bus to find a seat.sit in seat.,0,effect
+1593783,wait for bus stop destination.,find bus schedule information from time table.,sit down.,1,cause
+17116620,find a empty seat.,step onto bus.,your destination place came.,0,cause
+1879787,get down once the destination is reached.,"while boarding, pay the driver the required fee or show a pass.",signal for a stop where i want to get off.,1,cause
+317212,arrive at bus stop prior to bus's arrival.,"when you see your bus approaching, signal to the driver to stop.",take a seat.,0,effect
+16437264,wait at bus stop for bus.,say thank you to the driver.,walk to the bus stop.,1,cause
+16583507,bus arrives at the source station.,sit in bus.,pay fee.,0,effect
+16899117,board the bus.,starting walking to seat on bus.sit in seat.,pay the driver.,0,effect
+17390775,go through doors and up the steps.,"when the driver stops and opens the door, leave the bus.",pay the toll.,0,effect
+16651485,bus arrives at the source location.,get off at stop.,find empty seat to sit in.,0,effect
+16731585,climb stairs into bus.,wait for the bus.,pay the fee.,1,effect
+154478,go to the bus stop/bus stand.,wait at bus stop.,"when the bus approaches your destination, press the button to signal a stop.",0,effect
+109116,head to the bus stop.,"once you arrive at destination, get off the bus.",wait a bus stop.,1,effect
+696739,sit down and wait for your desired stop.,"while boarding, pay the driver the required fee or show a pass.",get in bus.,1,cause
+17798665,starting walking to seat on bus.sit in seat.,wait for destination.,pay fare when boarding bus.,0,effect
+18054268,pay attention for your stop.,"when your stop approaches, pull cord.",wait for destination.,1,cause
+16878604,pay the fee.,enter bus.,ring bell when bus approaches stop at destination.,0,cause
+682697,find a seat.,pay the driver.,board bus when bus arrives.,1,cause
+1651544,wait for stop.,"when bus arrives , wait for doors to open before boarding.",walk down center of bus to find a seat.sit in seat.,1,cause
+17603798,board the bus when it arrives.,exit the bus at your desired location.,wait at bus stop.,0,effect
+1973442,pull signal for stop.,"when the driver stops and opens the door, leave the bus.",stand up and go to door.,0,effect
+17677406,get on the bus.,get off.,find seat on bus and sit.,0,effect
+17384487,watch until you see your stop to get off.,when it arrives get on.,"about one block away from your stop, pull the \.",0,cause
+17993637,wait for your stop to be announced.,go down bus steps.exit bus.,sit down.,1,cause
+739964,take a seat.,put exact change in money receiver.,"when the driver opens the door, board the bus.",1,cause
+17980528,watch until you see your stop to get off.,find an empty seat.,bus stops at your destination.,0,cause
+1852437,bus stops at destination.,wait at your bus stop.,pull signal for stop.,1,cause
+1162819,"when bus arrives, step on board.",wait until the bus arrives at the destination.,when your stop comes get up and go the exit door of bus.,0,effect
+18205303,when your stop comes get up and go the exit door of bus.,go down bus steps.exit bus.,walk to the bus stop.,0,effect
+107146,go to the bus stop.,wait for bus.,"when the driver stops and opens the door, leave the bus.",0,effect
+1836813,sit patiently until the bus reaches your destination bus stop.,wait for bus to reach destination.,exit bus at destination.,0,effect
+1642978,wait for destination.,go to a bus stop.,find an empty seat.,1,cause
+320161,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",signal the driver to stop when you see your bus coming.,watch and listen for stop announcement.,0,effect
+573862,pay fare.,"find the bus stop nearest to your location.when you are ready to leave, go to the nearest bus stop and wait for the next bus.",board bus when it arrives.,1,cause
+313180,go to bus station.,"when you see your bus approaching, signal to the driver to stop.",get off bus.,0,effect
+16628017,bus arrives at the source location.,debark from bus.,give your fare to the bus driver.receive ticket.,0,effect
+16895075,board bus.,find an empty seat.sit down or stand if there isn't an empty seat.,give money.,0,effect
+1730575,pay attention for your stop.,wait for the bus.,find a seat on the bus.,1,cause
+1822672,pay attention for your stop.,"when you see your bus approaching, signal to the driver to stop.",wait for your stop.,1,cause
+17865225,wait for bus stop destination.,find empty seat to sit in.,bus stops at destination.,0,cause
+16617421,bus arrives at the source location.,watch stops out window.,find out what bus to take.,0,effect
+901292,sit in bus.,"when bus arrives , wait for doors to open before boarding.",walk up the steps of the bus.,1,cause
+17769093,get off the bus at your desired stop.,board bus when it arrives .,"thank the driver, possibly tip.",0,cause
+1733749,watch for your destination.,wait there for the bus to arrive.,sit down.find an open seat.,1,cause
+18081885,pull the cord alerting the driver to stop.,take the tickets.pay for the ride.,get off the bus at your desired stop.,1,effect
+505031,pay the fare to ride the bus.,wait for the bus to come to a complete halt before boarding it.,get in bus.,1,cause
+1988632,getting off the bus.,find bus schedule information from time table.,stand up and go to door.,1,cause
+16212088,decide which bus.,get a bus schedule by checking time table.,"once you arrive at destination, get off the bus.",0,cause
+1534166,when it arrives get on.,"when the bus approaches your destination, press the button to signal a stop.",get off the bus.,1,effect
+316750,go to a bus stop.,"when you see your bus approaching, signal to the driver to stop.","about one block away from your stop, pull the \.",0,effect
+1843292,ride.,stand up and go to door.,pay attention for your stop.,1,effect
+18054633,watch for your destination.,wait for your stop.,press stop button.,0,cause
+305724,go to bus stop 5 minutes before bus arrives.go to your bus stop of choice.,wait for bus stop destination.,wait for bus arrival.,1,effect
+1461254,get off at stop.,sit down.find an open seat.,board bus when it arrives.,1,cause
+18060707,"when you are near your destination, press the stop button.",bus has arrived on destination.,bus reaches at departure station.,0,effect
+17389234,"when bus arrives, step on board.",walk off the bus.,drop change into money machine.,0,effect
+16432280,keep looking for your bus.,go to bus stop at designated time.,watch until you see your stop to get off.,0,cause
+16537243,bus arrives at the source location.,when the bus comes enter the bus.,check to bus schedule in the time table to see when the bus is running.,0,effect
+17766577,get off bus at destination.,when it arrives get on.,"when your stop approaches, pull cord.",0,cause
+1449045,exit bus when arrive.,sit on a seat.,board bus when bus arrives.,1,cause
+57218,go to bus stop at designated time.,give your money to the driver.,wait for bus.,1,effect
+2026349,get down once the destination is reached.,find an empty seat.sit down or stand if there isn't an empty seat.,"stand, go to the exit door of bus.",1,cause
+17208157,step onto bus.,wait for bus stop destination.,get a bus schedule by checking time table.,0,effect
+1273789,get off bus when doors open.,"when you see your bus approaching, signal to the driver to stop.",get onto the bus when it reaches the stop.,1,cause
+1589035,ride.,take the tickets.pay for the ride.,sit down and wait for your desired stop.,1,cause
+1215483,getting off the bus.,pay the bus driver.,when your bus comes climb in it.,1,cause
+957863,wait for your stop.,get a ticket for the bus ride.,when your bus comes climb in it.,1,cause
+1665658,find a empty seat.,wait for your stop.,get off bus when doors open.,0,effect
+87107,go to bus stop.,get off at stop.,wait for bus at bus stop.,1,effect
+17180186,enter the bus.,wait for my stop.,show bus driver your ticket.,0,effect
+16586765,the bus arrives at the departure station.,sit down.,keep looking for your bus.,0,effect
+1065473,board bus.,when your stop comes get up and go the exit door of bus.,wait for your stop.,1,effect
+1465365,exit bus at your destination.,find a seat.sit down.,get onto the bus when it reaches the stop.,1,cause
+1544131,board the bus when it arrives.,getting off the bus.,pull cord at stop.,0,effect
+314281,go to bus stop at designated time.,signal the driver to stop when you see your bus coming.,go down bus steps.exit bus.,0,effect
+900009,sit down.,driver opens door.,get onto the bus when it reaches the stop.,1,cause
+1904259,getting off the bus.,head to the bus stop.,signal for a stop where i want to get off.,1,cause
+16331358,keep looking for your bus.,walk to the bus stop.,get off bus.,0,cause
+1078284,board bus when it arrives.,pull signal for stop.,ride bus to destination.,1,effect
+17661469,go through doors and up the steps.,get off the bus.,take available seat.,0,effect
+16954407,step on bus.,find a seat if available or stand if necessary.," to pay the fare, you can either buy a bus pass or pay each time you ride the bus.",0,effect
+1345774,get off.,ride on the bus.,board the bus.,1,cause
+10503449,"when the driver opens the door, board the bus.",bus stops at your destination.,get off at stop.,1,effect
+16996588,board the bus.,take available seat.,wait a bus stop.,0,effect
+17884183,wait for destination.,sit or stand to location.,get off bus .,0,cause
+1814105,watch until you see your stop to get off.,check the schedule of bus in time table.,ride on the bus.,1,cause
+18080267,signal for a stop where i want to get off.,exit bus at destination.,pay for fare.,0,effect
+1844687,wait to get to destination.,wait for your stop to be announced.,"when you are near your destination, press the stop button.",0,effect
+229270,go to bus stop.,get into the bus.,wait at bus stop.,1,effect
+1844545,enjoy the ride.,watch until you see your stop to get off.,"about one block away from your stop, pull the \.",0,effect
+1802353,watch for your stop.wait until bus stops completely.,buy bus ticket.,wait for correct stop.,1,cause
+18112352,pull the cord alerting the driver to stop.,get off at your stop.,find the nearest bus stop.,0,effect
+18219580,when your stop comes get up and go the exit door of bus.,watch your step when getting down from the bus.,wait for the bus.,0,effect
+18257584,bus stops at destination.,get down from the bus.,ride bus to destination.,0,effect
+17874343,wait for correct stop.,find a seat or stand on bus.,debark from bus.,0,cause
+484349,pay for fare.,stand at the bus stop.,get on the bus.,1,cause
+17667670,board the bus.,exit bus at destination.,take available seat.,0,effect
+1655019,walk down center of bus to find a seat.sit in seat.,wait for my stop.,bus has arrived on destination.,0,effect
+1958077,exit bus.,take a seat.,"about one block away from your stop, pull the \.",1,cause

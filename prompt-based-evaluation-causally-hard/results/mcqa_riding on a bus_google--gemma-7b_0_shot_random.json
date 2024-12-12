@@ -1,0 +1,1 @@
+{"total": 1000, "correct_argmax_based_count": 185, "no_option_in_argmax_count": 722, "correct_logit_based_count": 637, "accuracy": 0.637, "success_rate": 0.546, "total_per_class": {"A": 500, "B": 500}, "correct_per_class": {"A": 286, "B": 351}, "accuracy_per_class": {"A": 0.572, "B": 0.702}}

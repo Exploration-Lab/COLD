@@ -1,0 +1,1001 @@
+Unnamed: 0,premise,choice1,choice2,label,question
+643091,go back to car.load groceries in trunk.,get items from grocery shelf.put in cart.,get into car.,1,cause
+81422679,put items on belt.,check your list at each aisle to ensure you haven't missed anything.,gather items from grocery rack.,1,cause
+4298610,unload items onto conveyer belt.,make a list of things needed before leaving home.,fill the shopping cart with grocery items.,1,cause
+4784702,pay total amount and check out.,in your favorite store take a trolley if more things to be purchased or a bag for small.,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",1,cause
+5770861,place items in cart on belt for cashier to scan.,walk in to the store.,bring cart to register.,1,cause
+29646505,walk out to the car.put the items in the car.,go to the favorite grocery shop by car.,making grocery list.,0,cause
+97296737,find groceries.put them in the cart.,pay total.,cross them off your list(check if all items on list are purchased).,0,effect
+98555943,cashier rings up items.,walk out to the car.put the items in the car.,proceed to checkout.,1,cause
+82042853,pay for items.,"select the items from shelf, get them one by one.",get shopping cart.,0,cause
+78289884,go up to the cashier.,bagger bags groceries.,put items on conveyor belt.,1,effect
+98256969,"when you are finished picking out what you want to purchase, go to the check out line.",take a shopping cart.,place groceries items on conveyor belt.,1,effect
+82105451,pay cashier.,get what you need from the aisles.,enter super market.,0,cause
+94438378,enter grocery store.,make a trip to the store by car.,get things from grocery shelf.,0,cause
+99155123,pay for groceries.,take cart to car.put bags in car.,take to check out.,1,cause
+6188064,head for the counter.,go back to the car.put the bags in the car.,cashier gives you total.,1,effect
+5114788,"first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",pay by credit card.,drive home and put away groceries.,0,effect
+98493739,go up to check out line.,watch prices as the checker scans.,start at the non cold side of the store.,0,effect
+6190376,take cart to checkout line.,bag food.,cashier gives total amount to be paid.,1,effect
+96991002,scan all my items while somebody bags them.,put items in cart you want .,go to car.,0,cause
+8899649,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",take cart to checkout line.,leave grocery store.,0,effect
+97470087,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",pay for items purchased.,take your car and drive to grocery shop.,0,effect
+99276649,take groceries one by one for billing.,cashier gives you total.,go to the grocery store by car.,0,effect
+7512327,turn on the car.,pay for items at check out.,go to the store by driving your own vehicle.,1,effect
+96318647,put items in cart you want .,grab a grocery cart.,bring cart to register.,1,effect
+81516105,place items in cart on belt for cashier to scan.,get what you need from the aisles.,go to the store by driving.,0,cause
+3075545,push cart back to car.put groceries in trunk.,"when all items are scanned, the cashier will give you a total.",park your car.,1,cause
+5321227,pack purchased grocery items.,go to the store by your own vehicle.,go through store picking items.,1,cause
+7081603,pay total amount and check out.,drive to the grocery store.,wait to know the total amount to be paid.,1,cause
+4650612,pay for items with cash or credit.,go shopping.,find the food you need and put in cart.,1,cause
+6157283,cashier gives you total.,stand in line for register.,go to checkout counter.,1,cause
+74952795,get a shopping cart.,cashier gives total amount to be paid.,return cart to store.,1,effect
+25810111,carry the list of items to store.,"when all items are scanned, the cashier will give you a total.",take out the shopping list from the car.,1,effect
+5352209,go through store picking items.,"if necessary, bag your items.",put food items away in kitchen at right place.,0,effect
+81547649,put items on conveyor belt.,create list of things to buy.,pick groceries from shelf and ddd them to cart.,1,cause
+86775436,wait for cashier to finish ringing you up.,proceed to checkout.,place groceries items on conveyor belt.,0,cause
+99613792,pay for the grocery.,take out money from the wallet.,get neatly packed and take it to home.,0,cause
+100992138,cross check the purchased items with your list.,get items from grocery shelf.put in cart.,put items into car and drive home.,0,cause
+17624757,get into car.,put items on belt.,make a trip to the store by car.,1,effect
+3550715,place bags of groceries into cart.,wait in line.,grab a shopping cart.,1,cause
+2471876,go to the favorite grocery shop by car.,present any coupons you may have for items purchased.,put bags in car and go home.,1,effect
+99051406,"once all items are bagged, pay the cashier.",drive home.,take your purchase to the front.,1,cause
+96336933,find groceries.put them in the cart.,go to check out line in front of store.,go to the store by your own vehicle.,0,effect
+81477885,put items on belt.,find things required to buy.put them in cart.,"if several items are needed, grab a basket.",0,cause
+21359,review what you have at home and make a list of what you need.,take list to store.,pay for the grocery.,0,effect
+98220395,go to check out line in front of store.,put items on belt.,enter grocery store.,0,effect
+2916889,park car.,enter grocery store.,pay for the shopping.,0,effect
+98691340,go to check out.,pay for them at the register.,go through a check out line.,0,effect
+95357238,enter the store.,park car.,grab shopping cart.,0,cause
+94095576,park car.,go to the grocery store by car.,leave grocery store.,0,cause
+3835524,go to the checkout and pay.,take a shopping cart.,pick up refridgerated and frozen items last.,1,cause
+87170666,pay the cashier.,get grocery cart.,take to check out.,1,cause
+3850038,bring cart to cashier.,get a shopping cart if required.,pick up refridgerated and frozen items last.,1,cause
+29203203,watch prices as the checker scans.,take the grocery bags to the car.,pay for your groceries.,1,effect
+17651439,get into my car.,pay the cashier for your items.,drive to nearest grocery store.,1,effect
+99468845,cashier rings up items.,get the bill.,make a list of grocery required.,0,effect
+5991280,check out the things.,make a grocery list of items to buy.,proceed to checkout.,1,cause
+71206766,put bags in cart.,present any coupons you may have for items purchased.,get shopping cart.,1,cause
+57377346,"after finding everything you need, go to cashier.","if necessary, bag your items.",pay for grocery.,1,effect
+96844777,find things required to buy.put them in cart.,scan all my items while somebody bags them.,put items on conveyor belt.,0,effect
+2475672,go to the store by car.,get a shopping cart.,leave the store.,1,effect
+3851143,go to the teller with the items.,grab a grocery cart.,"select the items from shelf, trying to stay on the perimeter of the store.",1,cause
+4317176,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",put groceries on belt.,place bags of groceries into cart.,0,effect
+98820812,go up to the cashier.,pay for grocery.,get a shopping cart if required.,0,effect
+10669004,bring items to cashier at front of store.,cashier rings up items.,take bags to car.,0,effect
+5807770,load items from the cart onto the checkout lane's belt.,find cart.,go up to check out line.,1,cause
+59212668,push cart to your car.put groceries in your trunk.,enter the grocery store and grab a shopping cart.,park.,1,cause
+23490012,get in the car.,go home.,put bags in car.,1,effect
+3934204,take to check out.,drive to nearby grocery store.,put items in cart you want .,1,cause
+98422494,go to checkout.,take groceries one by one for billing.,place items on conveyer belt.,0,effect
+1628407,"visit the mall by car, park the vehicle.",load items from the cart onto the checkout lane's belt.,find parking spot.park car.,1,effect
+96277599,pick up refridgerated and frozen items last.,go to check out line.,get a shopping cart.,0,effect
+82646267,get receipt.,pick groceries from shelf and ddd them to cart.,list out the things you want to buy.,0,cause
+98814788,go to cash register.,get a cart.,pay for the grocery.,1,effect
+4130602,find the items you want to purchase from grocery rack.,put bags in car.,go to checkout counter.,1,effect
+3763945,bring cart to register.,go inside and pick up items.,put them in the cart.,1,cause
+50545044,take bus to grocery store.,pick up everything and put into your cart.,enter the grocery store and grab a shopping cart.,1,effect
+517089,get into my car.,enter grocery store.,wait in line for your turn.,0,effect
+29628645,push cart to your car.put groceries in your trunk.,put items on conveyor belt.,drive to store and park.,1,cause
+6113203,navigate to checkout.,walk out to the car.put the items in the car.,check out food.,1,effect
+57302553,go to cash register.,wait your turn.,pay for items purchased.,1,effect
+2414232,go to grocery store by car.,go back to car.load groceries in trunk.,go to cash register.,0,effect
+2501467,drive to grocery store of choice.,walk out of store.put groceries in car.,cross check the purchased items with your list.,0,effect
+97367578,look for the food you want.put food in cart.,pay the total amount.,"walk through the aisles of the store, add items to your cart.",0,effect
+92469138,take the list of items to purchase you made to store.,prepare grocery list.,walk into store.,0,cause
+98852871,go to the check out area.,pay the cashier for your items.,in your favorite store take a trolley if more things to be purchased or a bag for small.,0,effect
+3792046,go to the checkout and pay.,go down aisles.,gather items from grocery rack.,1,cause
+98580435,take cart to cash register.,making grocery list.,cashier gives you total.,1,effect
+56286669,pick groceries from shelf and ddd them to cart.,place bags of groceries into cart.,pack purchased grocery items.,1,effect
+98411877,place items in cart on belt for cashier to scan.,put groceries in a bag.,"when you are finished picking out what you want to purchase, go to the check out line.",1,cause
+12372101,take list to store.,take out the shopping list from the car.,drive back home.,0,effect
+86628882,place items onto conveyor belt.,take cart to cash register.,go to grocery store by vehicle.,0,cause
+1810102,make a trip to the store by car.,take groceries one by one for billing.,enter grocery store.,1,effect
+487791,get inside the car.,enter grocery store.,"after finding everything you need, go to cashier.",0,effect
+6075952,go to check out stand and pay for items.,take groceries home.,let the cashier ring up your items.,1,effect
+56311665,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",stand in line for register.,pack purchased grocery items.,1,effect
+3090633,park.,take your purchase to the front.,take bags to car.,1,effect
+94227474,enter the grocery store and grab a shopping cart.,go to the store by driving your own vehicle.,go up to check out line.,0,cause
+6534618,pay for your items.,go to the store by driving.,go to checkout.,1,cause
+5903202,"after finding everything you need, go to cashier.",put items on belt.,wheel cart outside.,0,effect
+5030078,"select the items from shelf, trying to stay on the perimeter of the store.",bagger places in cart.,pay for food.,1,effect
+5266334,get neatly packed and take it to home.,grab shopping cart.,put items in cart while shopping.,1,cause
+98660105,go to checkout counter.,get wallet and take money out of it.,enter the shopping place and take a trolley.,0,effect
+71238296,put bags in cart.,take a shopping cart.,take things off shelf.,0,cause
+5798030,place items onto conveyor belt.,get into my car.,take the full cart to the checkout lane.,1,cause
+81413781,present any coupons you may have for items purchased.,find items you want to buy.place items in grocery cart.,make a trip to the store by car.,0,cause
+20140004,in your favorite store take a trolley if more things to be purchased or a bag for small.,find groceries.put them in the cart.,put bags in cart.,1,effect
+6032822,scan all my items while somebody bags them.,walk in store.,go to cashier.,1,cause
+2348510,go back to car.load groceries in trunk.,take out money from the wallet.,go to store by driving.,1,cause
+99209468,pay by credit card.,take the full cart to the checkout lane.,take all your groceries.,0,cause
+96293890,find the items on grocery shelf.put them in your cart.,go to checkout.,find cart.,0,effect
+12401385,go to the store by driving.,park the car.,get in checkout line.,0,effect
+98487226,take cart to cash register.,check out the things.,walk down desired aisles.,0,effect
+4039672,"first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",put groceries at appropriate place in kitchen.,go up to the cashier.,1,effect
+96924064,gather items from shelves.,wait for the cashier to ring the order up.,get tote bag.,0,effect
+3537369,place bags of groceries into cart.,go inside.,get a shopping cart if required.,1,cause
+87363995,pay total.,head for the counter.,go to the favorite grocery shop by car.,0,cause
+4553364,cashier gives total.,make grocery list based off of menu.,get fruits and veggies.get meat.go through the rest of the store for getting remaining things.see a nice cake put it in cart.,1,cause
+2646294,"visit the mall by car, park the vehicle.",go through store picking items.,walk out of store.put groceries in car.,1,effect
+6109838,get to the counter.,put bags in car and go home.,take groceries one by one for billing.,1,effect
+1669162,make a trip to the store by car.,"pay for your groceries with either cash, check, or debit or credit.",park your car.,1,effect
+96235359,"select the items from shelf, get them one by one.","push cart around store, getting items from list.",get in checkout line.,1,effect
+1786988,drive to store and park.,enter super market.,go through a check out line.,0,effect
+97620676,pay the total amount.,take cart to car.take bags out of cart and place into car.,find items on gerocery rack.put items into cart.,1,cause
+5993363,take groceries one by one for billing.,make a list of grocery required.,get to the counter.,1,cause
+96764054,gather items from grocery rack.,find parking spot.park car.,put groceries on conveyor belt.,1,effect
+2179899,put items into car and drive home.,make a grocery list.,go to grocery store by vehicle.,1,cause
+104961878,take out the shopping list from the car.,put items on counter.,go to grocery store by car.,1,cause
+6066334,take groceries one by one for billing.,"visit the mall by car, park the vehicle.",head for the counter.,1,cause
+59185269,put groceries in your car.,get out of car and move towards grocery store.,go to checkout.,0,cause
+17664702,get in the car.,pack the purchased items.,go to the store by car.,1,effect
+8963059,put items i need in cart.,go up to check out line.,pick up bags.,0,effect
+94092702,park car at the parking.,go to the store by car.,get a basket if needed.,0,cause
+81449925,place items on conveyer belt.,pick up refridgerated and frozen items last.,walk through store and place items you want into cart.,0,cause
+4732427,pay for items purchased.,make a list of what you need.,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",1,cause
+7359913,take the list of items to purchase you made to store.,pay for your groceries.,cross them off your list(check if all items on list are purchased).,1,effect
+95235014,go inside and pick up items.,go to grocery shop by walking.,put the bagged items in the cart.,0,cause
+97416181,find products and put products in your cart.,pay for items with cash or credit.,go to grocery store by car.,0,effect
+2170147,go to car.,put groceries on belt.,find a grocery store.drive  to the store.,1,cause
+478823,walk in to the store.,make grocery list.,get inside the car.,1,cause
+15926186,bring items to checkout.,cashier gives you total amount to be paid.,take groceries out and arrange them in kitchen.,0,effect
+6887438,pay for your groceries.,get a basket if needed.,let the cashier ring up your items.,1,cause
+87579498,get the bill.,get to the counter.,walk through aisles.,0,cause
+6040442,take groceries one by one for billing.,go down aisles.,bring items to checkout.,1,cause
+81878315,take the money out of wallet for paying the bill.,pick groceries from shelf and ddd them to cart.,in your favorite store take a trolley if more things to be purchased or a bag for small.,0,cause
+99316487,cashier rings up items.,"pay for your groceries with either cash, check, or debit or credit.",make grocery list based off of menu.,0,effect
+4528143,find groceries.,let the cashier ring up your items.,push cart back to car.put groceries in trunk.,0,effect
+3561469,put bags in cart.,pack the things in your bag and prepare to leave the mall.,grab a cart.,1,cause
+94393699,go into store.,drive to the grocery store.,cashier gives you total amount to be paid.,0,cause
+4477679,wait for the cashier to ring the order up.,go to the store by driving.,find the items you want to purchase from grocery rack.,1,cause
+9127707,look for the food you want.put food in cart.,"as the cashier bags items, place them back into your cart.",put all of your groceries on the belt for the cashier to ring up and bag.,1,effect
+98643084,cashier gives total amount to be paid.,take cart to checkout line.,"if necessary, bag your items.",0,cause
+92787850,bagger places in cart.,bring reusable grocery bags.,go back to car.load groceries in trunk.,0,cause
+98603834,go to the front of the store to check out.,cashier gives you total amount to be paid.,enter store.,0,effect
+96823274,put items on counter.,find the items you want to purchase from grocery rack.,push cart to your car.put groceries in your trunk.,0,cause
+7001837,take groceries one by one for billing.,put bought items in car.,pay for items.,1,effect
+17613014,get in the car.,go to check out line in front of store.,go to grocery store by car.,1,effect
+82027790,pay for items at check out.,find items you want to buy.place items in grocery cart.,get out of car and move towards grocery store.,0,cause
+3138864,get out of car and move towards grocery store.,pack items.,take bags to car.,1,effect
+29616861,take the grocery bags to the car.,go to grocery store by car.,let the cashier ring up your items.,0,cause
+99397153,let the cashier ring up your items.,pay for the grocery.,go to the store by your own vehicle.,0,effect
+1770117,go to grocery store by car.,go in store.,navigate to checkout.,0,effect
+3793789,go to check out line in front of store.,go aisle by aisle putting the items i want in the cart.,put items i need in cart.,1,cause
+82142374,"pay for your groceries with either cash, check, or debit or credit.",go inside.,go through store picking items.,1,cause
+4141368,find items on grocery shelf.place items into basket.,put bags in car.,go to the check out area.,1,effect
+98557254,wait for the cashier to ring the order up.,head for the counter.,walk out to the car.put the items in the car.,0,cause
+94349525,enter grocery store.,pay cashier.,make a trip to the store by car.,1,cause
+25730672,drive to grocery store.,pack the things in your bag and prepare to leave the mall.,take groceries to car.,1,effect
+3038521,go to car.,put groceries on belt.,park car at the parking.,1,cause
+96569283,go to cash register.,"select the items from shelf, get them one by one.",walk to the car with my groceries.unload the groceries into the backseat of my car.,0,cause
+98483501,go to the check out area.,wait for cashier to finish ringing you up.,enter grocery store.,0,effect
+5947237,go to check out line.,put items on belt.,walk to the car with my groceries.unload the groceries into the backseat of my car.,0,effect
+82512302,pack items.,find items on grocery rack.,get a shopping cart if required.,0,cause
+4592028,find products and put products in your cart.,wait to know the total amount to be paid.,"as the cashier bags items, place them back into your cart.",0,effect
+96843798,find the items you want to purchase from grocery rack.,watch prices as the checker scans.,put all of your groceries on the belt for the cashier to ring up and bag.,0,effect
+10661578,bring cart to cashier.,wait in line.,check out the things.,1,effect
+2613378,go to store by driving.,take groceries to your car and load them up.,bagger bags groceries.,0,effect
+57382041,take cart to checkout.,pack purchased grocery items.,pay cashier.,1,effect
+81443089,put your items on the counter or belt to be scanned and rang up.,pick up refridgerated and frozen items last.,go into store and locate items to buy.,0,cause
+96775933,put groceries on belt.,walk aisles with cart and fill with items.,the last but not least one is you must set right what you purchase in the same day at kitchen.,0,cause
+4116027,find products and put products in your cart.,put bags in car and go home.,take your items to the checkout counter.,1,effect
+2400905,drive to grocery store of choice.,push cart back to car.put groceries in trunk.,"after finding everything you need, go to cashier.",0,effect
+3806755,take to check out.,"walk through the aisles of the store, add items to your cart.",find the items you want to purchase from grocery rack.,1,cause
+7084588,pay for the groceries.,go to store by driving.,"when all items are scanned, the cashier will give you a total.",1,cause
+99475810,bill it in the counter.,get the bill for groceries.,get into my car.,0,effect
+25201970,find a grocery store.drive  to the store.,gather items from grocery rack.,enter the shopping place and take a trolley.,1,effect
+97119728,"select the items from shelf, get them one by one.",pay for grocery.,put groceries on belt.,0,effect
+609956,put bought items in car.,check out the things.,get in the car.,1,cause
+9150812,get fruits and veggies.get meat.go through the rest of the store for getting remaining things.see a nice cake put it in cart.,drive items home.,load items from the cart onto the checkout lane's belt.,1,effect
+57326992,"when you are finished picking out what you want to purchase, go to the check out line.",return cart to store.,pay for the grocery.,1,effect
+25514511,drive to grocery store.,go to check out stand and pay for items.,go back to car.load groceries in trunk.,1,effect
+81549851,put items on table.,get things from grocery shelf.,make a grocery list.,0,cause
+99238312,take your items to the checkout counter.,get receipt.,go to the grocery store by car.,0,effect
+2353490,take cart to car.take bags out of cart and place into car.,"select the items from shelf, get them one by one.",go to the favorite grocery shop by car.,1,cause
+5112482,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",pay for groceries.,leave the store.,0,effect
+223099,make grocery list.,walk down desired aisles.,take the list of items to purchase you made to store.,1,effect
+4840357,pay for your items.,travel to grocery store by bus.,get what you need from the aisles.,1,cause
+3033160,put items into car and drive home.,cashier rings up items.,park.,1,cause
+98630330,cashier gives you total amount to be paid.,go to cash register.,fill the fridge with purchased items which are needed to be stored in cool place.,0,cause
+6759612,get the bill.,take list to store.,go to cash register.,1,cause
+7018688,get the bill for groceries.,find parking spot.park car.,wait for the cashier to ring the order up.,1,cause
+6051232,check out the things.,get tote bag.,bring cart to register.,1,cause
+1807285,get to a shop by driving.,enter grocery store.,watch prices as the checker scans.,0,effect
+94098813,park.,get to a shop by driving.,take food home.,0,cause
+8892784,gather items from grocery rack.,proceed to checkout.,drive home and put away groceries.,0,effect
+67812653,"once all items are bagged, pay the cashier.",leave store with items and go home.,get the bill.,1,effect
+97847787,find the items you want to purchase from grocery rack.,get receipt.,inventory your cupboards.make a list of what you need.,0,effect
+2068205,write list.,leave store with items and go home.,check your list at each aisle to ensure you haven't missed anything.,1,effect
+28519,make a shopping list based on the menu and items you need.,carry the list of items to store.,wait in line for your turn.,0,effect
+5163435,find things required to buy.put them in cart.,take bags to car.,pay for groceries.,1,effect
+86783219,wait for the cashier to ring the order up.,bring items to checkout.,make a list of groceries needed.,0,cause
+4035634,find things required to buy.put them in cart.,put groceries at appropriate place in kitchen.,get to the counter.,1,effect
+6298118,pay for grocery.,check existing stock.make a list of needed items.,"when you have completed getting items on your list, head toward the checkout lanes.",1,cause
+4158481,present any coupons you may have for items purchased.,walk down desired aisles.,pick up refridgerated and frozen items last.,1,cause
+4417509,wait for the cashier to ring the order up.,park.,get things from grocery shelf.,1,cause
+97305714,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",walk in store.,pay for the grocery.,1,effect
+444707,get inside the car.,drive the car to the grocery.,wait in line for your turn.,0,effect
+82200820,pay for grocery.,get in the car.,find the items you want to purchase from grocery rack.,1,cause
+16559001,go to check out line.,go to car.,get receipt.,1,effect
+96364365,look for the food you want.put food in cart.,go to cashier.,find a grocery store.drive  to the store.,0,effect
+2337935,unload grocery into your car.,"if necessary, bag your items.",go to grocery store by car.,1,cause
+96802858,put your items on the counter or belt to be scanned and rang up.,pick up everything and put into your cart.,leave.,0,cause
+8902715,find items that you need.,go to check out line.,bring things to the home.,0,effect
+94354886,enter store.,"pay for your groceries with either cash, check, or debit or credit.",take your car and drive to grocery shop.,1,cause
+81923067,pay for items with cash or credit.,put items on table.,put items in cart while shopping.,1,cause
+6105572,take your purchase to the front.,take the grocery bags to the car.,check out food.,1,effect
+397333,get inside the car.,drive the car to the grocery.,go to check out.,0,effect
+7042884,pay for it .,have cashier check you out.,cashier gives you total.,1,cause
+99295832,take the money out of wallet for paying the bill.,wait for cashier to finish ringing you up.,bag the groceries.,0,cause
+96546181,"when you have completed getting items on your list, head toward the checkout lanes.",pick up what is needed from the shelves.place in the trolley properly.,bring the groceries home.,0,cause
+92465504,take the list of items to purchase you made to store.,make a list of what you need.,get a cart.,0,cause
+9160675,go through store picking items.,drive back home.,place items on conveyer belt.,1,effect
+96267656,walk aisles with cart and fill with items.,get into car.,go to cashier.,1,effect
+94063091,park car at the parking.,make a trip to the store by car.,take to check out.,0,cause
+4155122,walk aisles with cart and fill with items.,pick up bags.,go to check out.,1,effect
+25730197,drive to nearby grocery store.,wait in line for your turn.,put bags in car and go home.,1,effect
+81517256,place items in cart on belt for cashier to scan.,put items in cart you want .,go to grocery store by vehicle.,0,cause
+78275409,go to check out stand and pay for items.,walk to the car with my groceries.unload the groceries into the backseat of my car.,put your items on the counter or belt to be scanned and rang up.,1,effect
+98368474,have cashier check you out.,take cart to cash register.,drive home.,0,cause
+99640179,pay for food.,get the bill for groceries.,enter the grocery store and grab a shopping cart.,0,effect
+4568587,cashier gives you total.,enter grocery store.,find the required items.,1,cause
+59206248,take bags to your car.,park car at the parking.,find cart.,0,cause
+4689731,pay the total amount.,put your items on the counter or belt to be scanned and rang up.,find the items you want to purchase from grocery rack.,1,cause
+96270672,"go to shelf and get the boxed, bagged, jarred food items.",go to the check out area.,get a grocery cart.,0,effect
+97350283,"select the items from shelf, get them one by one.",pay for items with cash or credit.,"push cart around store, getting items from list.",0,effect
+29673106,take cart to car.take bags out of cart and place into car.,go to grocery store by car.,grab a grocery cart.,0,cause
+7202990,get receipt.,pack purchased grocery items.,pay for grocery.,1,cause
+1720150,walk into store.,make a list of what you need.,go to grocery store by car.,1,cause
+185816,turn on the car.,go to car.,wait for the cashier to ring the order up.,0,effect
+98893505,bring cart to register.,enter grocery store.,pay for it .,1,effect
+25686633,go to the favorite grocery shop by car.,pay cashier.,take groceries to your car and load them up.,1,effect
+2105697,put items into car and drive home.,take cart to checkout line.,drive to nearby grocery store.,1,cause
+87566009,get the bill for groceries.,take cart to checkout line.,make list of needed items.,0,cause
+95549928,walk out to the car.put the items in the car.,park car at the parking.,place cart into cart corral.,0,cause
+2593881,take your car and drive to grocery shop.,take cart to car.take bags out of cart and place into car.,"push cart around store, getting items from list.",0,effect
+56312368,gather items from shelves.,wait in line at checkout.,bagger bags groceries.,1,effect
+683936,get into car.,push cart to your car.put groceries in your trunk.,find products and put products in your cart.,0,effect
+4555744,"when all items are scanned, the cashier will give you a total.",first see that you prepare the entire list for shopping.double check with the list you prepared is in low quantity or null in your house.,find the items on grocery shelf.put them in your cart.,1,cause
+3117542,park.,leave.,put bags in car and go home.,1,effect
+78255798,take cart to checkout.,take groceries out and arrange them in kitchen.,put items on conveyor belt.,1,effect
+23509412,get inside the car.,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",take cart to car.put bags in car.,1,effect
+87001949,take the money out of wallet for paying the bill.,take the full cart to the checkout lane.,retrieve a cart (if necessary).,0,cause
+13608863,park your car.,put bags in car.,"after finding everything you need, go to cashier.",0,effect
+8918927,take things off shelf.,take cart to cash register.,wait in line for your turn.,0,effect
+5940458,take the full cart to the checkout lane.,unload items onto conveyer belt.,take your groceries to your car and place them in the car.,0,effect
+98976592,go to checkout.,pay for them at the register.,find a grocery store.drive  to the store.,0,effect
+87300356,pay total.,line up to pay.,bring items to cashier at front of store.,1,cause
+5510516,check whether the list is complete(all things on list are purchased).,go to store by driving.,make list.,1,cause
+94146615,find parking spot.park car.,go to the favorite grocery shop by car.,find the food you need and put in cart.,0,cause
+3990265,take to check out.,make a list of things needed before leaving home.,put them in the cart.,1,cause
+94154030,park car at the parking.,go to the store by driving your own vehicle.,gather items from shelves.,0,cause
+95239211,enter the store.,walk to the store.,cross them off your list(check if all items on list are purchased).,0,cause
+82089298,pay for the grocery.,select grocery items from shelf.,get a shopping cart if required.,0,cause
+82123679,pay for items at check out.,enter store.,go through store picking items.,1,cause
+241450,making grocery list.,take out the shopping list from the car.,check out food.,0,effect
+5958007,"after finding everything you need, go to cashier.",load items from the cart onto the checkout lane's belt.,bag food.,0,effect
+81657541,wait for them to be scanned.,"go to shelf and get the boxed, bagged, jarred food items.",make a grocery list of items to buy.,0,cause
+96511611,take your purchase to the front.,look for the food you want.put food in cart.,take items home in bags.,0,cause
+5041704,"go to shelf and get the boxed, bagged, jarred food items.",pay for your groceries.,go through a check out line.,0,effect
+96239657,gather items from shelves.,proceed to checkout.,go up and down the aisles.,0,effect
+67824644,pay for items with cash or credit.,bagger places items into bags.,get receipt.,1,effect
+4938351,pay the total amount.,wait in line for checkout.,pick groceries from shelf and ddd them to cart.,1,cause
+6901356,pay the cashier for your items.,grab shopping cart.,take groceries one by one for billing.,1,cause
+5797903,remove items from cart.,get inside the car.,go up to check out line.,1,cause
+5920534,go to check out stand and pay for items.,place items on conveyer belt.,unload items and keep them in kitchen.,0,effect
+1995050,go to the store by driving your own vehicle.,walk into store.,pick up what is needed from the shelves.place in the trolley properly.,0,effect
+95355052,walk in to the store.,get a basket if needed.,park.,1,cause
+4488728,take groceries one by one for billing.,drive to nearby grocery store.,put items in cart while shopping.,1,cause
+4389177,cashier rings up items.,unload items onto conveyer belt.,find items that you need.,1,cause
+5107162,find the required items.,pay for it .,leave the store.,0,effect
+7119637,get receipt.,go to grocery store by car.,wait to know the total amount to be paid.,1,cause
+59179873,walk out to the car.put the items in the car.,park your car.,go to the teller with the items.,0,cause
+87079850,pay for your groceries.,check existing stock.make a list of needed items.,bring cart to cashier.,1,cause
+13632832,find parking spot.park car.,return to home with items.,walk out to the car.put the items in the car.,1,effect
+97454278,look for the food you want.put food in cart.,pay the cashier.,go to the favorite grocery shop by car.,0,effect
+96761802,put food in cart from grocery rack.,load items from the cart onto the checkout lane's belt.,get out of car and move towards grocery store.,0,effect
+251988,make grocery list based off of menu.,take out the shopping list from the car.,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",0,effect
+82545300,pack items.,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",pay total.,0,cause
+82047782,pay for your items.,get things from grocery shelf.,get shopping cart.,0,cause
+5238786,pack items.,make a list of what is needed.,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",1,cause
+468169,get in car.,park your car.,leave grocery store.,0,effect
+96469128,take cart to checkout line.,take things off shelf.,put bags in cart.,0,cause
+4193782,place groceries items on conveyor belt.,walk down desired aisles.,pick up refridgerated and frozen items last.,1,cause
+6104827,go to check out stand and pay for items.,walk out to the car.put the items in the car.,wait for the cashier to ring the order up.,1,effect
+82448834,put groceries in a bag.,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",go to cash register.,0,cause
+74955123,get a shopping cart.,put bags in car.,return cart to store.,1,effect
+98473526,go to checkout line.,wait for cashier to finish ringing you up.,walk into store.,0,effect
+6112876,take to check out.,put items into car and drive home.,wait for them to be scanned.,1,effect
+6413094,pay for your groceries.,cross them off your list(check if all items on list are purchased).,go to checkout.,1,cause
+97514393,pay and check out.,drive home.,find items on grocery shelf.place items into basket.,1,cause
+4897470,pay total amount and check out.,go down each aisle and put the groceries you would like to purchase in your cart.,get what you need from the aisles.,1,cause
+82016955,pay for your items.,pick groceries from shelf and ddd them to cart.,take out the shopping list from the car.,0,cause
+210441,make a list of things needed before leaving home.,get cart.,carry the list of items to store.,1,effect
+2594518,drive to nearest grocery store.,wait in line for checkout.,put bought items in car.,1,effect
+95992555,find cart.,place bags of groceries into cart.,enter the store.,0,effect
+98750824,go to the checkout and pay.,pay for items with cash or credit.,make a grocery list of items to buy.,0,effect
+3807635,navigate to checkout.,find what aisles you need to go to.,fill the shopping cart with grocery items.,1,cause
+2612603,make a trip to the store by car.,take your groceries to your car and place them in the car.,pack purchased grocery items.,0,effect
+8953682,walk aisles with cart and fill with items.,go to check out stand and pay for items.,unload grocery into your car.,0,effect
+59220239,take bags to your car.,park.,pay the total amount.,0,cause
+13605136,park.,go to the check out area.,take bags to car.,1,effect
+25584803,drive to the grocery store.,put groceries on belt.,push cart to your car.put groceries in your trunk.,1,effect
+98740052,bring items to cashier at front of store.,pay for items with cash or credit.,make a list of needed items.,0,effect
+23492441,get in car.,"pay for your groceries with either cash, check, or debit or credit.",leave the store.,1,effect
+4767595,pay total amount and check out.,park.,take the things you want to buy.put them on to the trolley.,1,cause
+98261160,take your purchase to the front.,place items onto conveyor belt.,get shopping cart.,0,effect
+6339743,pay for food.,present any coupons you may have for items purchased.,go up to the cashier.,1,cause
+2388593,drive to nearest grocery store.,take the grocery bags to the car.,get to the counter.,0,effect
+81455821,unload items onto conveyer belt.,find groceries.,proceed through the store picking up needed items.,0,cause
+96250150,look for the food you want.put food in cart.,stroll through store and get needed items.,go to cash register.,1,effect
+97128270,get what you need from the aisles.,pay for food.,place groceries items on conveyor belt.,0,effect
+3840034,go to check out line in front of store.,take a cart.,pick up refridgerated and frozen items last.,1,cause
+92693579,take out the shopping list from the car.,making grocery list.,cashier rings up items.,0,cause
+5222519,bag the groceries.,put items on conveyor belt.,find items on gerocery rack.put items into cart.,1,cause
+69251,find parking spot.park car.,take the list of items to purchase you made to store.,turn on the car.,1,cause
+96489775,get to the counter.,take the things you want to buy.put them on to the trolley.,unload groceries in the kitchen.,0,cause
+96698545,"select the items from shelf, get them one by one.",put groceries on belt.,go to the store by car.,0,effect
+12487188,find a grocery nearby.go to grocery by driving.,park.,bag items.,0,effect
+519378,get inside the car.,pack items.,walk in store.,1,effect
+92516315,find a grocery store.drive  to the store.,turn on the car.,wait in line.,0,cause
+25860908,find parking spot.park car.,place groceries items on conveyor belt.,enter the shopping place and take a trolley.,1,effect
+2127015,go to car.,go to the checkout and pay.,go to grocery store by vehicle.,1,cause
+57291773,take cart to checkout line.,put groceries at appropriate place in kitchen.,pay for items purchased.,1,effect
+1599316,go to the store by your own vehicle.,"after finding everything you need, go to cashier.",park car.,1,effect
+96371731,find the required items.,take your purchase to the front.,drive to grocery store of choice.,0,effect
+6110481,head for the counter.,put items into car and drive home.,cashier rings up items.,1,effect
+4501203,get items from grocery shelf.put in cart.,wait for the cashier to ring the order up.,unload groceries in the kitchen.,0,effect
+4990710,pay for items at check out.,drive to grocery store.,pick up everything and put into your cart.,1,cause
+96620906,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",put items on conveyor belt.,take bus to grocery store.,0,effect
+6933183,pay the cashier.,stand in line for register.,scan all my items while somebody bags them.,1,cause
+5186825,look for the food you want.put food in cart.,pay for items with cash or credit.,pick up bags.,0,effect
+87149021,pay for the shopping.,park car.,"after finding everything you need, go to cashier.",1,cause
+4376227,walk aisles with cart and fill with items.,remove items from cart.,take cart to car.put bags in car.,0,effect
+3910296,walk to check out line.,drive to grocery store.,"first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",1,cause
+82544753,pack the purchased items.,pay for them at the register.,find items on grocery shelf.place items into basket.,1,cause
+94291280,go inside and pick up items.,go to the store by driving your own vehicle.,grab a cart.,0,cause
+97060304,cashier gives you total.,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",take cart to car.take bags out of cart and place into car.,0,cause
+95330925,park your car.,go into grocery store.,first see that you prepare the entire list for shopping.double check with the list you prepared is in low quantity or null in your house.,0,effect
+96374100,find items on grocery shelf.place items into basket.,go to the front of the store to check out.,go to the store by your own vehicle.,0,effect
+86814986,scan all my items while somebody bags them.,get a grocery cart.,take the full cart to the checkout lane.,1,cause
+12507397,drive to the nearby store.,take out the shopping list from the car.,go to the teller with the items.,0,effect
+97760265,find the items on grocery shelf.put them in your cart.,"if necessary, bag your items.",go up and down the aisles.,0,effect
+96834518,put items on conveyor belt.,walk aisles with cart and fill with items.,take all your groceries.,0,cause
+3077087,go back to car.load groceries in trunk.,pack the things in your bag and prepare to leave the mall.,park car.,1,cause
+4928017,pay for items with cash or credit.,wait in line.,put them in the cart.,1,cause
+94394480,enter the grocery store and grab a shopping cart.,find a grocery store.drive  to the store.,cashier gives you total.,0,cause
+9176566,pick up refridgerated and frozen items last.,take the grocery bags to the car.,put items on conveyor belt.,1,effect
+99813953,cross them off your list(check if all items on list are purchased).,find items that you need.,take the list of items to purchase you made to store.,1,cause
+97132356,put food in cart from grocery rack.,remove items from cart.,pay for items at check out.,1,effect
+98556192,cashier rings up items.,take cart to car.take bags out of cart and place into car.,go to check out line.,1,cause
+49823,turn on the car.,get the bill.,go to the store by car.,1,effect
+4283099,put items on belt.,review what you have at home and make a list of what you need.,look for the food you want.put food in cart.,1,cause
+1701850,drive the car to the grocery.,get items from grocery shelf.put in cart.,park your car.,1,effect
+25028340,drive to nearest grocery store.,get a shopping cart if needed.,walk in to the store.,1,effect
+4303021,place groceries items on conveyor belt.,turn the car on.,find items you want to buy.place items in grocery cart.,1,cause
+18751863,take groceries to car.,get inside the car.,wait for them to be scanned.,0,cause
+96472684,go to checkout counter.,put items in cart you want .,bagger places in cart.,0,cause
+5229903,pack purchased grocery items.,write list.,put food in cart from grocery rack.,1,cause
+1685205,drive to the nearby store.,pack items.,park.,1,effect
+6284426,pay for items.,make a list of needed items.,bring items to checkout.,1,cause
+94349135,enter grocery store.,get to a shop by driving.,pay for your items.,0,cause
+25559138,drive to grocery store.,get receipt.,take groceries to car.,1,effect
+25201439,find a grocery store.drive  to the store.,find groceries.put them in the cart.,enter super market.,1,effect
+97719829,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",pack the purchased items.,take bus to grocery store.,0,effect
+97663001,gather items from grocery rack.,bag food.,take the list of items to purchase you made to store.,0,effect
+94123038,park car.,find a grocery nearby.go to grocery by driving.,"when all items are scanned, the cashier will give you a total.",0,cause
+57320197,go to check out stand and pay for items.,put the bagged items in the cart.,pay for items purchased.,1,effect
+2471282,take your car and drive to grocery shop.,walk to the car with my groceries.unload the groceries into the backseat of my car.,unload items onto conveyer belt.,0,effect
+99614711,take the money out of wallet for paying the bill.,get the bill.,unload items onto conveyer belt.,0,effect
+98401648,put items on conveyor belt.,walk to the car with my groceries.unload the groceries into the backseat of my car.,"after finding everything you need, go to cashier.",1,cause
+9157889,gather items from grocery rack.,drive home.,put items on conveyor belt.,1,effect
+13652538,park your car.,wait your turn to pay.,put bought items in car.,1,effect
+96231910,fill the shopping cart with grocery items.,enter store.,go to check out stand and pay for items.,1,effect
+4108193,get items from grocery shelf.put in cart.,"wait in line for checkout, perhaps looking at a magazine while doing so.",bring items to cashier at front of store.,1,effect
+98593898,go to check out.,wait to know the total amount to be paid.,get a basket.,0,effect
+6042137,scan all my items while somebody bags them.,find what aisles you need to go to.,take your purchase to the front.,1,cause
+2428519,go to the store by your own vehicle.,unload grocery into your car.,go shopping.,0,effect
+57310571,go to check out line.,wait in line.,pay by credit card.,1,effect
+97658387,"first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",pack items.,go to the checkout and pay.,0,effect
+98813566,go to cash register.,find cart.,pay and check out.,1,effect
+3629842,return cart to store.,find a grocery nearby.go to grocery by driving.,get a shopping cart if required.,1,cause
+92879089,drive to grocery store.,get in car.,pay and check out.,0,cause
+86662646,put items on belt.,go to the front of the store to check out.,make list of needed items.,0,cause
+98865798,take the full cart to the checkout lane.,pay for grocery.,check whether the list is complete(all things on list are purchased).,0,effect
+98440045,go to check out line in front of store.,cashier rings up items.,prepare grocery list.,0,effect
+82572279,bag items.,find groceries.,get inside the car.,0,cause
+96274311,find products and put products in your cart.,bring items to checkout.,get a cart.,0,effect
+98597373,navigate to checkout.,cashier gives you total amount to be paid.,"if several items are needed, grab a basket.",0,effect
+5920489,go to check out stand and pay for items.,place groceries items on conveyor belt.,unload groceries in the kitchen.,0,effect
+98730840,go to checkout.,pay for items.,inventory your cupboards.make a list of what you need.,0,effect
+4852741,pay cashier.,go inside and pick up items.,put them in the cart.,1,cause
+56314689,get items from grocery shelf.put in cart.,"wait in line for checkout, perhaps looking at a magazine while doing so.",pack purchased grocery items.,1,effect
+5355754,pick up refridgerated and frozen items last.,leave.,bagger bags groceries.,1,effect
+98601199,"after finding everything you need, go to cashier.",go into grocery store.,cashier gives total.,1,effect
+94430542,enter grocery store.,go to store by driving.,take all your groceries.,0,cause
+99223092,go to checkout.,get the bill for groceries.,get a shopping cart if required.,0,effect
+96986770,check out the things.,find the items on grocery shelf.put them in your cart.,go to car.,0,cause
+13616178,park car.,put bags in car.,check out the things.,0,effect
+6626557,take cart to checkout.,pay for your items.,bring things to the home.,0,effect
+5752131,"when you are finished picking out what you want to purchase, go to the check out line.",present any coupons you may have for items purchased.,place cart into cart corral.,0,effect
+98489899,get in checkout line.,check out food.,start at the non cold side of the store.,0,effect
+97704810,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",bag items.,take a shopping cart.,0,effect
+96006266,take a shopping cart.,"as the cashier bags items, place them back into your cart.",find a grocery nearby.go to grocery by driving.,0,effect
+81696751,wait for the cashier to ring the order up.,get what you need from the aisles.,enter store.,0,cause
+3980325,go to checkout counter.,make list.,find items that you need.,1,cause
+3077588,take bags to your car.,put groceries in a bag.,park your car.,1,cause
+99164160,pay for items purchased.,go to checkout.,walk out of store.put groceries in car.,0,cause
+6895368,pay for items purchased.,take a cart.,let the cashier ring up your items.,1,cause
+25628341,go to the grocery store by car.,check whether the list is complete(all things on list are purchased).,push cart back to car.put groceries in trunk.,1,effect
+2045100,look in the fridge.make a list.,"after finding everything you need, go to cashier.",cross check the purchased items with your list.,1,effect
+92324274,get the bill for groceries.,pay total.,drive to store and park.,0,cause
+98794775,"when you are finished picking out what you want to purchase, go to the check out line.",pay for items at check out.,park your car.,0,effect
+94056537,park the car.,go to grocery store by vehicle.,go up to check out line.,0,cause
+9147922,find the food you need and put in cart.,take items home in bags.,place items onto conveyor belt.,1,effect
+95130380,go inside and pick up items.,take bus to grocery store.,get a basket if needed.,0,cause
+97475592,get things from grocery shelf.,pay by credit card.,go to the store by your own vehicle.,0,effect
+13432837,walk to the store.,unload groceries in the kitchen.,go into grocery store.,1,effect
+6056276,wait for the cashier to ring the order up.,drive to store.,bring items to checkout.,1,cause
+8857254,find products and put products in your cart.,go to check out stand and pay for items.,return to home with items.,0,effect
+96252004,pick up what is needed from the shelves.place in the trolley properly.,take cart to cash register.,proceed through the store picking up needed items.,0,effect
+13438744,walk to the store.,pay for the shopping.,walk in store.,1,effect
+97151239,put items in cart while shopping.,pay and check out.,have cashier check you out.,0,effect
+2581126,drive to store.,walk through store and place items you want into cart.,unload grocery into your car.,1,effect
+6075776,go up to the cashier.,return to home with items.,check out food.,1,effect
+6253142,pay for groceries.,unload items onto conveyer belt.,get to the counter.,1,cause
+2895913,park the car.,walk in to the store.,cashier rings up items.,0,effect
+94983424,walk to the car with my groceries.unload the groceries into the backseat of my car.,go to the store by driving your own vehicle.,wheel cart outside.,0,cause
+4018700,select grocery items from shelf.,place bags of groceries into cart.,go to check out.,1,effect
+81739240,check out the things.,take the things you want to buy.put them on to the trolley.,drive to grocery store.,0,cause
+87043650,pay and check out.,go to the front of the store to check out.,put all of your groceries on the belt for the cashier to ring up and bag.,0,cause
+59206161,take bags to your car.,park your car.,get a basket if needed.,0,cause
+7511422,turn the car on.,pay for the grocery.,go to the store by driving.,1,effect
+8831470,find the required items.,go to cash register.,place bags of groceries into cart.,0,effect
+96565068,navigate to checkout.,"select the items from shelf, get them one by one.",wait your turn to pay.,0,cause
+3808452,take your items to the checkout counter.,get in car.,"first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",1,cause
+87157454,pay for your groceries.,go to checkout line.,get a grocery cart.,0,cause
+87277698,pay for food.,proceed to checkout.,go up and down the aisles.,0,cause
+97798036,pack items.,put them in the cart.,put the bagged items in the cart.,0,cause
+3650395,grab shopping cart.,return cart to store.,"if necessary, bag your items.",0,effect
+29204276,let the cashier ring up your items.,go to car.,pay for items at check out.,1,effect
+3904002,go to check out.,drive to store.,find the food you need and put in cart.,1,cause
+99413886,bill it in the counter.,drive to the grocery store.,pay for the shopping.,1,effect
+98434580,"when you are finished picking out what you want to purchase, go to the check out line.",cashier rings up items.,make a list of grocery required.,0,effect
+12489127,drive to nearby grocery store.,park.,pack the purchased items.,0,effect
+2327650,take groceries to your car and load them up.,bring reusable grocery bags.,go to the store by driving.,1,cause
+2310018,push cart back to car.put groceries in trunk.,stroll through store and get needed items.,drive to nearby grocery store.,1,cause
+94438401,enter grocery store.,drive the car to the grocery.,find the items you want to purchase from grocery rack.,0,cause
+95389466,enter the grocery store and grab a shopping cart.,park.,get wallet and take money out of it.,0,cause
+98573615,scan all my items while somebody bags them.,get to the counter.,pick up bags.,0,cause
+97748019,get items from grocery shelf.put in cart.,pack purchased grocery items.,pay total amount and check out.,0,effect
+4481971,wait for them to be scanned.,drive to the nearby store.,pick up refridgerated and frozen items last.,1,cause
+74945860,grab a grocery cart.,wait for cashier to finish ringing you up.,place cart into cart corral.,1,effect
+96873689,"select the items from shelf, get them one by one.",get a shopping cart.,cashier rings up items.,1,effect
+3750399,take the full cart to the checkout lane.,enter the store.,fill the shopping cart with grocery items.,1,cause
+11214,make a grocery list.,take the list of items to purchase you made to store.,take a cart.,0,effect
+6341362,pay cashier.,park the car.,head for the counter.,1,cause
+98223810,take cart to checkout.,put items on table.,go inside and pick up items.,0,effect
+99176587,pay for it .,go to the front of the store to check out.,take groceries to your car and load them up.,0,cause
+8944781,find things required to buy.put them in cart.,take cart to checkout line.,unload grocery into your car.,0,effect
+71222528,place bags of groceries into cart.,stand in line for register.,take a shopping cart.,1,cause
+71205270,put bags in cart.,find cart.,making grocery list.,0,cause
+4453714,let the cashier ring up your items.,walk to the store.,put items in cart while shopping.,1,cause
+1984786,take your car and drive to grocery shop.,take out money from the wallet.,enter super market.,1,effect
+82072069,pay total.,"go to shelf and get the boxed, bagged, jarred food items.",get a basket.,0,cause
+6225713,go to check out.,get wallet and take money out of it.,put bought items in car.,0,effect
+82583965,pack items.,put food in cart from grocery rack.,"visit the mall by car, park the vehicle.",0,cause
+86559573,remove items from cart.,"after finding everything you need, go to cashier.",go inside and pick up items.,0,cause
+92136850,get the bill.,cashier gives you total amount to be paid.,make list.,0,cause
+4217172,unload items onto conveyer belt.,get into car.,take things off shelf.,1,cause
+6135298,"when all items are scanned, the cashier will give you a total.",write list.,take your items to the checkout counter.,1,cause
+97370087,gather items from grocery rack.,pay for my groceries.,start at the non cold side of the store.,0,effect
+82230930,pay for the groceries.,find groceries.put them in the cart.,get to a shop by driving.,0,cause
+96729304,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",put all of your groceries on the belt for the cashier to ring up and bag.,make a grocery list.,0,effect
+96735431,get what you need from the aisles.,make a list of what you need.,put groceries on conveyor belt.,1,effect
+59233590,leave the store.,park car.,put groceries in a bag.,0,cause
+3946539,bring items to cashier at front of store.,make a list of needed items.,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",1,cause
+57278602,bring items to checkout.,leave store with items and go home.,"once all items are bagged, pay the cashier.",1,effect
+97429387,find items on grocery rack.,pay for it .,drive to grocery store of choice.,0,effect
+8837170,"select the items from shelf, trying to stay on the perimeter of the store.",go to the check out area.,go through a check out line.,0,effect
+5953536,"when you have completed getting items on your list, head toward the checkout lanes.",put items on conveyor belt.,take the grocery bags to the car.,0,effect
+7108456,cashier gives total amount to be paid.,go back to car.load groceries in trunk.,pay the cashier.,1,effect
+81690599,wait for the cashier to ring the order up.,put items i need in cart.,travel to grocery store by bus.,0,cause
+82174543,pay the cashier for your items.,find items on grocery rack.,"walk through the aisles of the store, add items to your cart.",0,cause
+4770185,"once all items are bagged, pay the cashier.",park.,find items on grocery shelf.place items into basket.,1,cause
+3040389,take cart to car.take bags out of cart and place into car.,first see that you prepare the entire list for shopping.double check with the list you prepared is in low quantity or null in your house.,park the car.,1,cause
+97455193,look for the food you want.put food in cart.,drive to store.,pay the cashier for your items.,1,effect
+97697363,fill the shopping cart with grocery items.,bag food.,review what you have at home and make a list of what you need.,0,effect
+99102405,pay cashier.,"when you have completed getting items on your list, head toward the checkout lanes.",put groceries at appropriate place in kitchen.,0,cause
+98554518,watch prices as the checker scans.,get to the counter.,put bought items in car.,0,cause
+2347264,take groceries to your car and load them up.,pick up bags.,take your car and drive to grocery shop.,1,cause
+133294,make list of needed items.,enter the store.,check whether the list is complete(all things on list are purchased).,1,effect
+97053834,cashier gives total amount to be paid.,return to home with items.,find items that you need.,1,cause
+675,make grocery list based off of menu.,take the list of items to purchase you made to store.,take your purchase to the front.,0,effect
+82188393,pay for items purchased.,put items in cart you want .,wait your turn.,0,cause
+6162261,cashier gives you total amount to be paid.,go to store by driving.,get in checkout line.,1,cause
+10670886,take cart to checkout line.,wait for them to be scanned.,walk to the car with my groceries.unload the groceries into the backseat of my car.,0,effect
+4151045,find groceries.,take all your groceries.,take to check out.,1,effect
+99276884,wait for cashier to finish ringing you up.,cashier gives you total.,drive to store and park.,0,effect
+2538311,drive to store.,walk out to the car.put the items in the car.,pay total amount and check out.,0,effect
+174580,put groceries in your car.,grab shopping cart.,turn the car on.,1,cause
+98729326,go to checkout line.,pay for items.,make list.,0,effect
+57374336,go up to the cashier.,put groceries in a bag.,pay for the grocery.,1,effect
+6663963,take your items to the checkout counter.,wait your turn to pay.,pay total amount and check out.,1,effect
+6481862,pay total.,proceed through the store picking up needed items.,take your purchase to the front.,1,cause
+96358103,find items you want to buy.place items in grocery cart.,take cart to checkout line.,drive to nearby grocery store.,0,effect
+2606184,go to the store by driving your own vehicle.,walk to the car with my groceries.unload the groceries into the backseat of my car.,"if necessary, bag your items.",0,effect
+9173099,fill the shopping cart with grocery items.,wait in line.,load items from the cart onto the checkout lane's belt.,1,effect
+98974002,bring items to checkout.,pay for the groceries.,get tote bag.,0,effect
+8844213,put them in the cart.,bring cart to register.,unload groceries in the kitchen.,0,effect
+97739511,find items on grocery rack.,bag items.,pay total.,0,effect
+59181691,push cart back to car.put groceries in trunk.,park car at the parking.,proceed to checkout.,0,cause
+3619873,return cart to store.,make a list of groceries needed.,grab a cart.,1,cause
+96352977,pick up everything and put into your cart.,navigate to checkout.,find a grocery store.drive  to the store.,0,effect
+98228714,go up to check out line.,put items on counter.,enter super market.,0,effect
+7132511,pay for the grocery.,find parking spot.park car.,take out money from the wallet.,1,cause
+15916851,take your items to the checkout counter.,cashier gives you total amount to be paid.,leave.,0,effect
+81692264,wait for them to be scanned.,check your list at each aisle to ensure you haven't missed anything.,get what you need from the aisles.,1,cause
+3759638,"after finding everything you need, go to cashier.",enter the grocery store and grab a shopping cart.,get what you need from the aisles.,1,cause
+94467640,go into store.,drive to the grocery store.,look for the food you want.put food in cart.,0,cause
+4131407,find the items on grocery shelf.put them in your cart.,take your groceries to your car and place them in the car.,get in checkout line.,1,effect
+97785647,take things off shelf.,go to the store by your own vehicle.,pack the things in your bag and prepare to leave the mall.,1,effect
+86690506,have cashier check you out.,bring items to checkout.,park.,0,cause
+7101499,cashier gives you total.,take groceries out and arrange them in kitchen.,pay for your items.,1,effect
+233553,list out the things you want to buy.,put groceries in a bag.,carry the list of items to store.,1,effect
+3968598,go to check out line.,first see that you prepare the entire list for shopping.double check with the list you prepared is in low quantity or null in your house.,"first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",1,cause
+4225842,place items on conveyer belt.,grab a shopping cart.,"select the items from shelf, trying to stay on the perimeter of the store.",1,cause
+92513306,drive to the nearby store.,turn the car on.,pay total amount and check out.,0,cause
+96689789,go through store picking items.,load items from the cart onto the checkout lane's belt.,take a shopping cart.,0,effect
+87115743,pay the total amount.,"when you have completed getting items on your list, head toward the checkout lanes.",make list.,0,cause
+8526639,find items on gerocery rack.put items into cart.,cross check the purchased items with your list.,put the bagged items in the cart.,0,effect
+3944549,take the full cart to the checkout lane.,make a list of what you need.,find items on gerocery rack.put items into cart.,1,cause
+4325355,gather items from grocery rack.,put all of your groceries on the belt for the cashier to ring up and bag.,unload groceries in the kitchen.,0,effect
+98400273,place items in cart on belt for cashier to scan.,take cart to car.take bags out of cart and place into car.,go to the front of the store to check out.,1,cause
+2059876,write list.,get a shopping cart if needed.,cross check the purchased items with your list.,1,effect
+2423762,drive to grocery store of choice.,go back to the car.put the bags in the car.,put bags in cart.,0,effect
+13644033,park your car.,push cart to your car.put groceries in your trunk.,"once all items are bagged, pay the cashier.",0,effect
+82528446,pack the purchased items.,put items in cart you want .,go in store.,0,cause
+94227263,enter the grocery store and grab a shopping cart.,go to the store by your own vehicle.,go to check out.,0,cause
+96504227,bring items to cashier at front of store.,find the items you want to purchase from grocery rack.,go home.,0,cause
+4374415,get items from grocery shelf.put in cart.,have cashier check you out.,take groceries to your car and load them up.,0,effect
+6835653,get wallet and take money out of it.,get a shopping cart.,check out the things.,1,cause
+4206708,place items onto conveyor belt.,stand in line for register.,pick up everything and put into your cart.,1,cause
+3804821,go to the front of the store to check out.,"push cart around store, getting items from list.",find items on gerocery rack.put items into cart.,1,cause
+4773146,pay for grocery.,park.,put items in cart you want .,1,cause
+73187063,return cart to store.,get cart.,put bags in car.,0,cause
+3029715,take groceries to your car and load them up.,bring cart to cashier.,park the car.,1,cause
+3582448,get grocery cart.,put bags in cart.,cross them off your list(check if all items on list are purchased).,0,effect
+8867625,find items on grocery rack.,go to the front of the store to check out.,drive home.,0,effect
+87026951,pay and check out.,go to checkout lane.,go shopping.,0,cause
+98677116,take out money from the wallet.,push cart to your car.put groceries in your trunk.,go to the teller with the items.,1,cause
+98368223,put your items on the counter or belt to be scanned and rang up.,go to the front of the store to check out.,drive home and put away groceries.,0,cause
+5970725,let the cashier ring up your items.,remove items from cart.,go up to the cashier.,1,cause
+50312294,park car at the parking.,"after finding everything you need, go to cashier.",take out the shopping list from the car.,1,effect
+93068497,get into my car.,make a list.,take bags to car.,1,effect
+94184253,drive to the nearby store.,make a list of what you need.,enter grocery store.,1,effect
+29589364,take the grocery bags to the car.,drive the car to the grocery.,navigate to checkout.,0,cause
+124066,make a list of things needed before leaving home.,check whether the list is complete(all things on list are purchased).,put items on conveyor belt.,0,effect
+98813567,go to cash register.,pay and check out.,get a grocery cart.,0,effect
+98389505,have cashier check you out.,go to check out.,return cart to store.,0,cause
+86562335,load items from the cart onto the checkout lane's belt.,walk into store.,take cart to checkout line.,1,cause
+98431122,"when you have completed getting items on your list, head toward the checkout lanes.",check out the things.,put groceries on belt.,0,effect
+96574623,go up to the cashier.,gather items from grocery rack.,take bags to car.,0,cause
+96558833,go to check out line.,go through store picking items.,wait in line for checkout.,0,cause
+98401634,put items on conveyor belt.,walk out to the car.put the items in the car.,"after finding everything you need, go to cashier.",1,cause
+11820174,cashier gives you total.,pay the total amount.,bag the groceries.,0,effect
+94973615,take bags to your car.,drive items home.,drive to store.,1,cause
+29780230,put bags in car and go home.,drive to grocery store of choice.,wait in line for checkout.,0,cause
+11829976,cashier gives total.,bagger places in cart.,get the bill.,1,effect
+6820176,wait to know the total amount to be paid.,"push cart around store, getting items from list.",let the cashier ring up your items.,1,cause
+97403105,look for the food you want.put food in cart.,pay for grocery.,get in car.,0,effect
+2676783,travel to grocery store by bus.,enter the shopping place and take a trolley.,wait for cashier to finish ringing you up.,0,effect
+4665334,pay for the shopping.,turn the car on.,pick up everything and put into your cart.,1,cause
+8916149,get fruits and veggies.get meat.go through the rest of the store for getting remaining things.see a nice cake put it in cart.,navigate to checkout.,wait your turn.,0,effect
+96634249,put food in cart from grocery rack.,put items on table.,enter the shopping place and take a trolley.,0,effect
+4640066,pick up what is needed from the shelves.place in the trolley properly.,take out money from the wallet.,return cart to store.,0,effect
+65447506,find items that you need.,put bought items in car.,check out the things.,1,effect
+5123835,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.","once all items are bagged, pay the cashier.","wait in line for checkout, perhaps looking at a magazine while doing so.",0,effect
+92904265,go to the grocery store by car.,get inside the car.,find items that you need.,0,cause
+99348677,check out food.,pay for food.,take a shopping cart.,0,effect
+1838637,go to the grocery store by car.,get a shopping cart if required.,go inside.,1,effect
+25094439,drive to nearest grocery store.,pay for the shopping.,go inside and pick up items.,1,effect
+5305817,bagger places items into bags.,browse the store.,put items in cart while shopping.,1,cause
+98202485,present any coupons you may have for items purchased.,go to the checkout and pay.,drive home.,0,cause
+92930076,get in car.,enter grocery store.,prepare grocery list.,0,effect
+4057500,get what you need from the aisles.,bring the groceries home.,go to the checkout and pay.,1,effect
+87306617,pay total amount and check out.,"after finding everything you need, go to cashier.",get into my car.,0,cause
+5333324,bagger bags groceries.,"visit the mall by car, park the vehicle.","first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",1,cause
+4858535,pay for your items.,walk in to the store.,take things off shelf.,1,cause
+81544329,place items in cart on belt for cashier to scan.,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",inventory your cupboards.make a list of what you need.,0,cause
+82594264,pack the purchased items.,cashier gives you total amount to be paid.,find items you want to buy.place items in grocery cart.,1,cause
+92915495,find parking spot.park car.,get inside the car.,return cart to store.,0,cause
+97099190,take out money from the wallet.,unload grocery into your car.,pick up refridgerated and frozen items last.,1,cause
+11828883,cashier gives you total amount to be paid.,drive back home.,get receipt.,1,effect
+80206,turn on the car.,walk in store.,put food items away in kitchen at right place.,0,effect
+25853745,get out of car and move towards grocery store.,check out.,go inside and pick up items.,1,effect
+96716206,look for the food you want.put food in cart.,drive to nearby grocery store.,load items from the cart onto the checkout lane's belt.,1,effect
+4282557,load items from the cart onto the checkout lane's belt.,list out the things you want to buy.,put food in cart from grocery rack.,1,cause
+97351139,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",go down aisles.,pay the cashier.,1,effect
+25863537,park car at the parking.,unload items onto conveyer belt.,go inside and pick up items.,1,effect
+6171048,"when you are finished picking out what you want to purchase, go to the check out line.",take groceries home.,cashier gives you total.,1,effect
+4460504,check out the things.,go up and down the aisles.,select grocery items from shelf.,1,cause
+98573224,wait for cashier to finish ringing you up.,bring items to cashier at front of store.,take items.,0,cause
+7132273,pay by credit card.,park the car.,take the money out of wallet for paying the bill.,1,cause
+96466044,put items in cart you want .,bring items to cashier at front of store.,park.,0,effect
+81412620,present any coupons you may have for items purchased.,get shopping cart.,find items that you need.,1,cause
+82278358,pay for the grocery.,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",drive to the nearby store.,0,cause
+3811310,take cart to checkout line.,get in the car.,select grocery items from shelf.,1,cause
+6277332,pay total amount and check out.,inventory your cupboards.make a list of what you need.,take to check out.,1,cause
+3081066,take cart to car.take bags out of cart and place into car.,pick up what is needed from the shelves.place in the trolley properly.,get out of car and move towards grocery store.,1,cause
+82452162,pack items.,find groceries.,go to check out line in front of store.,0,cause
+20128219,get cart.,wait in line for checkout.,put bags in cart.,1,effect
+81874452,take out money from the wallet.,find the required items.,park the car.,0,cause
+86577072,remove items from cart.,take cart to checkout.,walk through aisles.,0,cause
+1638882,drive to the nearby store.,get grocery cart.,park.,1,effect
+6692728,go to checkout line.,pay for items at check out.,take bags to your car.,0,effect
+95351723,enter the store.,park your car.,load items from the cart onto the checkout lane's belt.,0,cause
+97217445,walk aisles with cart and fill with items.,pay for items purchased.,take out the shopping list from the car.,0,effect
+9166833,find groceries.,wait in line.,put groceries on belt.,1,effect
+24981790,go to the store by driving your own vehicle.,go shopping.,go in store.,1,effect
+96508882,go to check out stand and pay for items.,gather items from grocery rack.,go home.,0,cause
+2392377,go to the store by your own vehicle.,put groceries in your car.,go to checkout lane.,0,effect
+99603791,pay for my groceries.,drive home.,take the money out of wallet for paying the bill.,1,cause
+96580880,get in checkout line.,take cart to car.take bags out of cart and place into car.,find the food you need and put in cart.,1,cause
+4595278,select grocery items from shelf.,take groceries out and arrange them in kitchen.,cashier gives total.,1,effect
+81561696,put items on belt.,look for the food you want.put food in cart.,park car.,0,cause
+6591841,go to checkout.,pay total.,return to home with items.,0,effect
+623660,go back to the car.put the bags in the car.,check whether the list is complete(all things on list are purchased).,get in the car.,1,cause
+5174678,go through store picking items.,pay for grocery.,walk to the car with my groceries.unload the groceries into the backseat of my car.,0,effect
+5797906,remove items from cart.,get inside the car.,navigate to checkout.,1,cause
+86849597,watch prices as the checker scans.,take cart to cash register.,go to store by driving.,0,cause
+99482346,get the bill for groceries.,bill it in the counter.,take your groceries to your car and place them in the car.,0,cause
+6809497,wait to know the total amount to be paid.,take list to store.,check out the things.,1,cause
+82073723,pay the total amount.,put them in the cart.,take a shopping cart.,0,cause
+94291917,go inside and pick up items.,grab shopping cart.,go to grocery store by car.,1,cause
+100979559,cross them off your list(check if all items on list are purchased).,return cart to store.,gather items from grocery rack.,1,cause
+82230629,pay for groceries.,put items in cart you want .,go to store by driving.,0,cause
+94332859,enter the store.,bring things to the home.,make a trip to the store by car.,1,cause
+45469260,wait for cashier to finish ringing you up.,bring things to the home.,take the money out of wallet for paying the bill.,1,effect
+2643765,go to the favorite grocery shop by car.,put groceries in your car.,find groceries.,0,effect
+97096718,take the money out of wallet for paying the bill.,put items i need in cart.,return to home with items.,0,cause
+403149,get in car.,go to grocery store by vehicle.,bill it in the counter.,0,effect
+29677778,walk out to the car.put the items in the car.,take a shopping cart.,get to a shop by driving.,1,cause
+4300621,have cashier check you out.,make grocery list.,put items in cart you want .,1,cause
+8966648,walk aisles with cart and fill with items.,go up to check out line.,take items.,0,effect
+4320979,"go to shelf and get the boxed, bagged, jarred food items.",put groceries on conveyor belt.,unload groceries in the kitchen.,0,effect
+29553672,find a grocery store.drive  to the store.,place items onto conveyor belt.,take out the shopping list from the car.,1,effect
+5329012,pack the purchased items.,drive to grocery store.,pick up what is needed from the shelves.place in the trolley properly.,1,cause
+25218355,drive to nearby grocery store.,pick groceries from shelf and ddd them to cart.,walk in store.,1,effect
+29719836,go to car.,go inside and pick up items.,go to the store by driving.,1,cause
+2652418,make a trip to the store by car.,take your groceries to your car and place them in the car.,find groceries.put them in the cart.,0,effect
+97096587,take the money out of wallet for paying the bill.,leave the store.,pick up refridgerated and frozen items last.,1,cause
+6657170,go to check out line.,pay for your items.,fill the fridge with purchased items which are needed to be stored in cool place.,0,effect
+87338968,pay for the groceries.,proceed to checkout.,drive the car to the grocery.,0,cause
+29578907,push cart back to car.put groceries in trunk.,bring items to checkout.,drive to nearest grocery store.,1,cause
+25025964,take your car and drive to grocery shop.,put items on counter.,walk in to the store.,1,effect
+6440872,pay for items purchased.,enter the grocery store and grab a shopping cart.,proceed to checkout.,1,cause
+6391554,pay the total amount.,grab a grocery cart.,go to checkout lane.,1,cause
+56299187,find items on gerocery rack.put items into cart.,leave grocery store.,bagger places items into bags.,1,effect
+99241177,bring cart to register.,get the bill.,drive to the nearby store.,0,effect
+3773694,go to checkout counter.,go into store and locate items to buy.,"select the items from shelf, trying to stay on the perimeter of the store.",1,cause
+94159227,get to a shop by driving.,walk in to the store.,bring reusable grocery bags.,0,effect
+97859214,find groceries.,enter store.,get receipt.,1,effect
+82450979,pack the purchased items.,put food in cart from grocery rack.,go to cash register.,0,cause
+4322951,put them in the cart.,put groceries on conveyor belt.,the last but not least one is you must set right what you purchase in the same day at kitchen.,0,effect
+6417380,pay for the shopping.,cross check the purchased items with your list.,"when you have completed getting items on your list, head toward the checkout lanes.",1,cause
+99149279,pay for items.,go to check out line in front of store.,walk out of store.put groceries in car.,0,cause
+99138380,pay for the shopping.,go to checkout counter.,put bags in cart.,0,cause
+82182876,pay for them at the register.,wait in line at checkout.,find items you want to buy.place items in grocery cart.,1,cause
+386531,go to grocery store by car.,make a list of groceries needed.,get inside the car.,1,cause
+71206970,place bags of groceries into cart.,grab shopping cart.,park car.,0,cause
+6508799,pay total amount and check out.,get in the car.,go to checkout line.,1,cause
+18764769,take cart to car.take bags out of cart and place into car.,get inside the car.,cross them off your list(check if all items on list are purchased).,0,cause
+94421128,walk in to the store.,drive to the grocery store.,pack the things in your bag and prepare to leave the mall.,0,cause
+96238961,find groceries.put them in the cart.,bring items to cashier at front of store.,go down aisles and retrieve items.,0,effect
+96400863,put items i need in cart.,go to check out line in front of store.,review what you have at home and make a list of what you need.,0,effect
+5314980,pack items.,wait in line for your turn.,get fruits and veggies.get meat.go through the rest of the store for getting remaining things.see a nice cake put it in cart.,1,cause
+5167022,look for the food you want.put food in cart.,pay for it .,put bags in car and go home.,0,effect
+94208285,walk into store.,get to a shop by driving.,go to the front of the store to check out.,0,cause
+98256211,take cart to cash register.,put items on conveyor belt.,take a cart.,0,effect
+4647896,find the food you need and put in cart.,put groceries in your car.,take out money from the wallet.,1,effect
+57349428,go to check out.,walk out to the car.put the items in the car.,pay the cashier for your items.,1,effect
+87008218,take the money out of wallet for paying the bill.,go to check out line in front of store.,go down aisles and retrieve items.,0,cause
+81745521,scan all my items while somebody bags them.,find items you want to buy.place items in grocery cart.,go to the store by driving.,0,cause
+87105975,pay for items purchased.,go to checkout counter.,make list of needed items.,0,cause
+4689158,pay the total amount.,place items onto conveyor belt.,find the items on grocery shelf.put them in your cart.,1,cause
+98402065,put items on conveyor belt.,go to the front of the store to check out.,put bags in car and go home.,0,cause
+97187528,find things required to buy.put them in cart.,create list of things to buy.,pay for items purchased.,1,effect
+86839970,scan all my items while somebody bags them.,"push cart around store, getting items from list.",go to check out line in front of store.,1,cause
+57242405,go to check out stand and pay for items.,leave grocery store.,pay for items purchased.,1,effect
+4904048,pay for my groceries.,go down each aisle and put the groceries you would like to purchase in your cart.,gather items from grocery rack.,1,cause
+4587228,cashier gives total amount to be paid.,go to the store by driving.,put food in cart from grocery rack.,1,cause
+81660844,check out food.,find items on gerocery rack.put items into cart.,make a list of items you need at the grocery.,0,cause
+2672331,walk in store.,make a shopping list based on the menu and items you need.,take bus to grocery store.,1,cause
+81545190,place items in cart on belt for cashier to scan.,take things off shelf.,make a list of what is needed.,0,cause
+80920,turn on the car.,enter the grocery store and grab a shopping cart.,scan all my items while somebody bags them.,0,effect
+98458771,go to check out stand and pay for items.,check out food.,grab cart.,0,effect
+6280815,pay cashier.,first see that you prepare the entire list for shopping.double check with the list you prepared is in low quantity or null in your house.,go to check out stand and pay for items.,1,cause
+5171640,find the required items.,pay for grocery.,go to car.,0,effect
+59186962,leave the store.,park.,go shopping.,0,cause
+29686673,walk out of store.put groceries in car.,drive to grocery store.,grab a shopping cart.,0,cause
+1705198,enter the shopping place and take a trolley.,take list to store.,drive to grocery store of choice.,1,cause
+96645382,"go to shelf and get the boxed, bagged, jarred food items.",put items on belt.,go aisle by aisle putting the items i want in the cart.,0,effect
+82666896,get the bill.,get items from grocery shelf.put in cart.,wait your turn to pay.,0,cause
+29578862,push cart back to car.put groceries in trunk.,drive to grocery store.,get to the counter.,0,cause
+87168052,pay for groceries.,go to checkout counter.,in your favorite store take a trolley if more things to be purchased or a bag for small.,0,cause
+29595682,put groceries in your car.,navigate to checkout.,go to the store by driving.,1,cause
+17635329,get inside the car.,get cart.,drive to nearby grocery store.,1,effect
+94364576,walk into store.,pay for items.,get to a shop by driving.,1,cause
+6810383,wait to know the total amount to be paid.,place items on conveyer belt.,wait for cashier to finish ringing you up.,1,cause
+98647598,go to the teller with the items.,get wallet and take money out of it.,place items in cart on belt for cashier to scan.,0,effect
+19315910,get into car.,let the cashier ring up your items.,enter super market.,1,effect
+25603297,go to the store by your own vehicle.,get a shopping cart.,walk out of store.put groceries in car.,1,effect
+98279018,go to the checkout and pay.,put groceries on conveyor belt.,bring reusable grocery bags.,0,effect
+98373878,put groceries on belt.,put away your groceries in right place in kitchen.,go up to check out line.,1,cause
+3126073,find parking spot.park car.,pay the cashier.,take groceries to your car and load them up.,1,effect
+81507908,place items on conveyer belt.,find groceries.,make a trip to the store by car.,0,cause
+96914961,put items in cart while shopping.,wait for the cashier to ring the order up.,find what aisles you need to go to.,0,effect
+6931580,pay and check out.,wait in line.,check out the things.,1,cause
+87274705,pay for items at check out.,go to check out.,walk through store.,0,cause
+3551332,put the bagged items in the cart.,wait in line.,grab a cart.,1,cause
+175738,take the grocery bags to the car.,go into store.,turn the car on.,1,cause
+3056827,unload grocery into your car.,go into store and locate items to buy.,park car at the parking.,1,cause
+98679641,take out money from the wallet.,take to check out.,pack purchased grocery items.,0,cause
+81821343,cashier gives you total.,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",go inside and pick up items.,0,cause
+97724387,gather items from shelves.,pack the purchased items.,go into grocery store.,0,effect
+96550197,go to checkout.,wait in line for your turn.,find the required items.,1,cause
+634870,push cart to your car.put groceries in your trunk.,go down aisles.,get in car.,1,cause
+97672515,find products and put products in your cart.,bag the groceries.,put all of your groceries on the belt for the cashier to ring up and bag.,0,effect
+1845647,find a grocery store.drive  to the store.,take a cart.,enter the store.,1,effect
+25743272,go to grocery store by vehicle.,take items.,push cart back to car.put groceries in trunk.,1,effect
+99051511,"once all items are bagged, pay the cashier.","after finding everything you need, go to cashier.",drive home.,0,cause
+96197331,"select the items from shelf, get them one by one.",go into grocery store.,take your purchase to the front.,1,effect
+98696235,go up to check out line.,pay the cashier for your items.,turn the car on.,0,effect
+4594450,pick up refridgerated and frozen items last.,wait to know the total amount to be paid.,put away your groceries in right place in kitchen.,0,effect
+122234,inventory your cupboards.make a list of what you need.,check whether the list is complete(all things on list are purchased).,put items on belt.,0,effect
+81532331,place items onto conveyor belt.,make a list of needed items.,pick up what is needed from the shelves.place in the trolley properly.,1,cause
+4194214,remove items from cart.,proceed through the store picking up needed items.,pick up what is needed from the shelves.place in the trolley properly.,1,cause
+2507247,go to the store by car.,return to home with items.,push cart back to car.put groceries in trunk.,1,effect
+245888,make list.,take out the shopping list from the car.,leave store with items and go home.,0,effect
+97864474,select grocery items from shelf.,get receipt.,go aisle by aisle putting the items i want in the cart.,0,effect
+71213136,place bags of groceries into cart.,pay for my groceries.,grab cart.,1,cause
+5867743,put groceries on belt.,make a list of what you need.,go to the teller with the items.,1,cause
+65409842,put them in the cart.,fill the fridge with purchased items which are needed to be stored in cool place.,wait for them to be scanned.,1,effect
+5414239,get the bill.,"wait in line for checkout, perhaps looking at a magazine while doing so.",put food in cart from grocery rack.,1,cause
+97507518,pay for the shopping.,gather items from grocery rack.,fill the fridge with purchased items which are needed to be stored in cool place.,0,cause
+29661684,take the grocery bags to the car.,drive to the nearby store.,make a list of groceries needed.,0,cause
+99041238,navigate to checkout.,"pay for your groceries with either cash, check, or debit or credit.",go to the store by car.,0,effect
+25049242,drive to the nearby store.,take a cart.,go inside.,1,effect
+97359029,put them in the cart.,go up and down the aisles.,pay for items purchased.,1,effect
+6910792,pay for my groceries.,enter the grocery store and grab a shopping cart.,check out food.,1,cause
+5920031,bring items to cashier at front of store.,place groceries items on conveyor belt.,put groceries at appropriate place in kitchen.,0,effect
+3868113,take your purchase to the front.,go to grocery shop by walking.,"go to shelf and get the boxed, bagged, jarred food items.",1,cause
+96547291,take to check out.,find the items you want to purchase from grocery rack.,take food home.,0,cause
+97037996,pick groceries from shelf and ddd them to cart.,cashier gives you total amount to be paid.,find a grocery nearby.go to grocery by driving.,0,effect
+5792190,put items on belt.,wait in line for checkout.,get in checkout line.,1,cause
+96775464,put groceries on conveyor belt.,find the food you need and put in cart.,put away your groceries in right place in kitchen.,0,cause
+94636811,drive to store and park.,take the grocery bags to the car.,make grocery list based off of menu.,0,effect
+25735915,find a grocery nearby.go to grocery by driving.,pack the things in your bag and prepare to leave the mall.,walk out of store.put groceries in car.,1,effect
+25600458,drive to nearest grocery store.,get shopping cart.,put items into car and drive home.,1,effect
+59214376,walk to the car with my groceries.unload the groceries into the backseat of my car.,park.,go inside.,0,cause
+3615925,return cart to store.,go shopping.,get cart.,1,cause
+99517529,cashier gives total.,check your list at each aisle to ensure you haven't missed anything.,"once all items are bagged, pay the cashier.",1,effect
+57323614,go to the teller with the items.,place bags of groceries into cart.,"once all items are bagged, pay the cashier.",1,effect
+6584811,pay for the grocery.,go to the store by driving.,go to checkout.,1,cause
+99532386,cashier gives total amount to be paid.,pay cashier.,get into car.,0,effect
+92970364,go into store and locate items to buy.,bag items.,get inside the car.,1,cause
+82594952,bag food.,find items on gerocery rack.put items into cart.,cashier gives total.,0,cause
+218708,make a list of groceries needed.,pay for items at check out.,take list to store.,1,effect
+29200995,bill it in the counter.,put the bagged items in the cart.,"pay for your groceries with either cash, check, or debit or credit.",1,effect
+82512940,pack items.,take a shopping cart.,find items on grocery shelf.place items into basket.,1,cause
+2782191,go to grocery shop by walking.,go into grocery store.,take your purchase to the front.,0,effect
+56312385,gather items from shelves.,stand in line for register.,pack purchased grocery items.,1,effect
+4117423,"select the items from shelf, trying to stay on the perimeter of the store.",push cart to your car.put groceries in your trunk.,bring items to checkout.,1,effect
+3092751,park the car.,go to the teller with the items.,take your groceries to your car and place them in the car.,1,effect
+4142585,walk aisles with cart and fill with items.,walk out of store.put groceries in car.,go to checkout.,1,effect
+3792210,"after finding everything you need, go to cashier.",start at the non cold side of the store.,gather items from grocery rack.,1,cause
+5357451,find items on grocery rack.,bag food.,drive home.,0,effect
+4149771,put items in cart you want .,walk out of store.put groceries in car.,proceed to checkout.,1,effect
+95377730,enter the grocery store and grab a shopping cart.,park car.,pay for food.,0,cause
+96339854,put items i need in cart.,drive to nearest grocery store.,go to the checkout and pay.,1,effect
+97007852,put items in cart while shopping.,cashier gives total amount to be paid.,write list.,0,effect
+99262195,cashier rings up items.,cashier gives you total.,put items on conveyor belt.,0,effect
+92470650,carry the list of items to store.,leave grocery store.,make grocery list based off of menu.,1,cause
+94309788,enter the grocery store and grab a shopping cart.,get a basket if needed.,go to grocery store by vehicle.,1,cause
+4191361,have cashier check you out.,walk in to the store.,"select the items from shelf, trying to stay on the perimeter of the store.",1,cause
+3872285,take cart to checkout.,bring reusable grocery bags.,find items on grocery shelf.place items into basket.,1,cause
+94467851,go into store.,drive to store and park.,find items on grocery shelf.place items into basket.,0,cause
+65449070,find products and put products in your cart.,pick up bags.,scan all my items while somebody bags them.,1,effect
+8931543,find groceries.put them in the cart.,go to check out line.,walk to the car with my groceries.unload the groceries into the backseat of my car.,0,effect
+82464513,pack items.,gather items from shelves.,go through a check out line.,0,cause
+2287341,take groceries to car.,pay for items with cash or credit.,find a grocery nearby.go to grocery by driving.,1,cause
+99111040,pay for the shopping.,walk to check out line.,fill the fridge with purchased items which are needed to be stored in cool place.,0,cause
+87380492,"pay for your groceries with either cash, check, or debit or credit.",go to the favorite grocery shop by car.,walk to check out line.,1,cause
+97793615,get fruits and veggies.get meat.go through the rest of the store for getting remaining things.see a nice cake put it in cart.,"if necessary, bag your items.",wait to know the total amount to be paid.,0,effect
+57237871,bring items to cashier at front of store.,take items home in bags.,pay for items at check out.,1,effect
+81887399,take out money from the wallet.,"visit the mall by car, park the vehicle.","select the items from shelf, trying to stay on the perimeter of the store.",1,cause
+2358188,put items into car and drive home.,put items in cart you want .,drive to store.,1,cause
+4493907,find groceries.,cashier rings up items.,bagger places in cart.,0,effect
+12426475,drive the car to the grocery.,park car at the parking.,wait for the cashier to ring the order up.,0,effect
+97701800,find things required to buy.put them in cart.,get neatly packed and take it to home.,park.,0,effect
+6232780,pay for your groceries.,carry the list of items to store.,walk to check out line.,1,cause
+92694249,take out the shopping list from the car.,making grocery list.,put items on counter.,0,cause
+6584897,pay for the grocery.,go to the store by car.,go up to the cashier.,1,cause
+19337349,get in the car.,cashier gives you total.,enter the grocery store and grab a shopping cart.,1,effect
+8919152,take things off shelf.,go to the teller with the items.,wait in line at checkout.,0,effect
+10669884,go to check out stand and pay for items.,let the cashier ring up your items.,put bought items in car.,0,effect
+98565550,scan all my items while somebody bags them.,navigate to checkout.,put groceries in your car.,0,cause
+5354349,find products and put products in your cart.,bag the groceries.,drive items home.,0,effect
+96372066,find the required items.,bring cart to register.,take your car and drive to grocery shop.,0,effect
+5811109,put groceries on conveyor belt.,get a shopping cart if needed.,bring cart to register.,1,cause
+96477655,go to checkout.,check out.,look for the food you want.put food in cart.,1,cause
+25562977,drive to nearest grocery store.,unload items and keep them in kitchen.,take bags to your car.,1,effect
+81412318,present any coupons you may have for items purchased.,take things off shelf.,get a shopping cart if needed.,0,cause
+2620441,drive to grocery store.,put bags in car.,find items on grocery rack.,0,effect
+81799622,"when all items are scanned, the cashier will give you a total.",find the food you need and put in cart.,put all of your groceries on the belt for the cashier to ring up and bag.,0,cause
+94164055,go to the store by car.,enter the grocery store and grab a shopping cart.,make list.,0,effect
+4614547,get wallet and take money out of it.,turn the car on.,gather items from grocery rack.,1,cause
+98650169,go to check out line in front of store.,make grocery list based off of menu.,take the money out of wallet for paying the bill.,1,effect
+96625625,select grocery items from shelf.,have cashier check you out.,carry the list of items to store.,0,effect
+98227521,go to the check out area.,put your items on the counter or belt to be scanned and rang up.,enter the grocery store and grab a shopping cart.,0,effect
+98740777,bring items to cashier at front of store.,make grocery list based off of menu.,pay for food.,1,effect
+87293945,pay for groceries.,head for the counter.,wait your turn.,0,cause
+6185015,bring items to cashier at front of store.,put bought items in car.,cashier gives you total amount to be paid.,1,effect
+5306098,bagger places items into bags.,go down aisles.,go through store picking items.,1,cause
+94241003,enter store.,drive to nearby grocery store.,get receipt.,0,cause
+97507152,pay the total amount.,look for the food you want.put food in cart.,take groceries out and arrange them in kitchen.,0,cause
+2554599,find a grocery nearby.go to grocery by driving.,pay for your items.,go back to car.load groceries in trunk.,1,effect
+98526270,cashier rings up items.,take your items to the checkout counter.,leave the store.,0,cause
+95987584,get a shopping cart.,bagger places in cart.,park car.,0,effect
+3747670,take cart to cash register.,enter the shopping place and take a trolley.,pick groceries from shelf and ddd them to cart.,1,cause
+94397173,enter store.,drive to the nearby store.,walk through aisles.,0,cause
+92298269,get the bill for groceries.,make a list of grocery required.,pay for items purchased.,1,cause
+15935449,"when you have completed getting items on your list, head toward the checkout lanes.",cashier gives you total.,put bought items in car.,0,effect
+2546647,go to the grocery store by car.,pay for items at check out.,push cart back to car.put groceries in trunk.,1,effect
+25101037,drive to the grocery store.,pay for the grocery.,go into store and locate items to buy.,1,effect
+3122560,park car at the parking.,bring the groceries home.,put items into car and drive home.,1,effect
+195319,turn the car on.,gather items from grocery rack.,put groceries in your car.,1,effect
+99441114,pay for items.,wait for cashier to finish ringing you up.,put the bagged items in the cart.,0,cause
+65423018,find things required to buy.put them in cart.,return to home with items.,scan all my items while somebody bags them.,1,effect
+607342,take groceries to your car and load them up.,go to cashier.,get in car.,1,cause
+86589303,put all of your groceries on the belt for the cashier to ring up and bag.,go to check out line.,wait in line.,0,cause
+18747864,go to car.,get into car.,go to checkout lane.,0,cause
+25571619,go to the store by your own vehicle.,wait for cashier to finish ringing you up.,put bought items in car.,1,effect
+23698704,cashier rings up items.,bring the groceries home.,"when all items are scanned, the cashier will give you a total.",1,effect
+57248362,take cart to checkout line.,drive home and put away groceries.,"pay for your groceries with either cash, check, or debit or credit.",1,effect
+3055462,take your groceries to your car and place them in the car.,enter the grocery store and grab a shopping cart.,park.,1,cause
+92524399,park your car.,turn the car on.,check whether the list is complete(all things on list are purchased).,0,cause
+18787114,leave the store.,get inside the car.,find items on grocery rack.,0,cause
+96922890,pick up what is needed from the shelves.place in the trolley properly.,take groceries one by one for billing.,get into car.,0,effect
+6821542,cashier gives total.,wait in line for checkout.,cashier rings up items.,1,cause
+4362714,"select the items from shelf, get them one by one.",put all of your groceries on the belt for the cashier to ring up and bag.,put items into car and drive home.,0,effect
+97294942,"first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",travel to grocery store by bus.,"pay for your groceries with either cash, check, or debit or credit.",1,effect
+7037796,pay for items.,check out.,cashier gives you total.,1,cause
+86766977,cashier rings up items.,go up to the cashier.,turn the car on.,0,cause
+94063446,get out of car and move towards grocery store.,drive to grocery store.,put the bagged items in the cart.,0,cause
+5289398,put groceries in a bag.,pay the cashier.,find the items on grocery shelf.put them in your cart.,1,cause
+104959780,take out the shopping list from the car.,go to store by driving.,take your items to the checkout counter.,0,cause
+5773806,put items on table.,go into grocery store.,go to checkout.,1,cause
+6093899,"when you are finished picking out what you want to purchase, go to the check out line.","wait in line for checkout, perhaps looking at a magazine while doing so.",check out the things.,1,effect
+97019045,put them in the cart.,wait to know the total amount to be paid.,cross them off your list(check if all items on list are purchased).,0,effect
+97787119,gather items from grocery rack.,make a trip to the store by car.,bag items.,1,effect
+4439959,check out food.,cross check the purchased items with your list.,find the items you want to purchase from grocery rack.,1,cause
+81727525,let the cashier ring up your items.,find items on grocery rack.,go to the favorite grocery shop by car.,0,cause
+4051131,find groceries.put them in the cart.,take groceries home.,take your items to the checkout counter.,1,effect
+81866980,get wallet and take money out of it.,find the items you want to purchase from grocery rack.,take the list of items to purchase you made to store.,0,cause
+71217053,put bags in cart.,get grocery cart.,pay for groceries.,0,cause
+232039,list out the things you want to buy.,go to car.,take the list of items to purchase you made to store.,1,effect
+2361296,walk out to the car.put the items in the car.,get things from grocery shelf.,go to grocery store by car.,1,cause
+12472839,go to store by driving.,find parking spot.park car.,pay for food.,0,effect
+4547561,cashier gives you total amount to be paid.,create list of things to buy.,get things from grocery shelf.,1,cause
+95341397,enter the grocery store and grab a shopping cart.,go to check out stand and pay for items.,park car at the parking.,1,cause
+81641168,let the cashier ring up your items.,find items that you need.,place items on conveyer belt.,0,cause
+3734533,go to check out stand and pay for items.,cross them off your list(check if all items on list are purchased).,put items in cart while shopping.,1,cause
+8891425,pick up what is needed from the shelves.place in the trolley properly.,take your purchase to the front.,drive home.,0,effect
+96901915,pick up what is needed from the shelves.place in the trolley properly.,wait for cashier to finish ringing you up.,walk in to the store.,0,effect
+7268651,turn the car on.,"select the items from shelf, trying to stay on the perimeter of the store.",go in store.,1,effect
+6277156,pay total amount and check out.,review what you have at home and make a list of what you need.,go to check out line in front of store.,1,cause
+6694791,take your items to the checkout counter.,pay for items purchased.,walk out to the car.put the items in the car.,0,effect
+4001617,go to cash register.,park car at the parking.,gather items from shelves.,1,cause
+81793849,cashier gives you total.,pick groceries from shelf and ddd them to cart.,go shopping.,0,cause
+8850116,walk aisles with cart and fill with items.,go to check out line in front of store.,put away your groceries in right place in kitchen.,0,effect
+4244586,put items on counter.,get tote bag.,get what you need from the aisles.,1,cause
+1796639,go to the favorite grocery shop by car.,the last but not least one is you must set right what you purchase in the same day at kitchen.,walk in to the store.,1,effect
+98914402,go to check out.,go to grocery shop by walking.,pay total amount and check out.,1,effect
+2521591,go to grocery store by vehicle.,put bought items in car.,leave.,0,effect
+96419764,select grocery items from shelf.,proceed to checkout.,make grocery list based off of menu.,0,effect
+94285272,go inside.,go to the grocery store by car.,grab cart.,0,cause
+4214340,put all of your groceries on the belt for the cashier to ring up and bag.,get in the car.,select grocery items from shelf.,1,cause
+97667874,find things required to buy.put them in cart.,bag the groceries.,scan all my items while somebody bags them.,0,effect
+98550704,let the cashier ring up your items.,bring items to checkout.,put bags in cart.,0,cause
+81641622,cashier rings up items.,find the items you want to purchase from grocery rack.,load items from the cart onto the checkout lane's belt.,0,cause
+5262955,bag food.,"if several items are needed, grab a basket.",find things required to buy.put them in cart.,1,cause
+97690869,select grocery items from shelf.,bagger places items into bags.,make a list of items you need at the grocery.,0,effect
+96378602,"get any non-expiring products first.next, go for items like fruit, vegetables, eggs, and bread.finally, get any dairy items.",go to the check out area.,go to grocery store by vehicle.,0,effect
+81649628,scan all my items while somebody bags them.,place items in cart on belt for cashier to scan.,find the required items.,1,cause
+5383880,find items on grocery shelf.place items into basket.,pack the things in your bag and prepare to leave the mall.,go back to car.load groceries in trunk.,0,effect
+7280074,put bags in car.,turn the car on.,go through a check out line.,0,cause
+87557537,get the bill.,get in checkout line.,take list to store.,0,cause
+9183858,select grocery items from shelf.,unload grocery into your car.,put items on counter.,1,effect
+96461929,pick up what is needed from the shelves.place in the trolley properly.,park car.,go to cashier.,1,effect
+57300467,navigate to checkout.,the last but not least one is you must set right what you purchase in the same day at kitchen.,pay for items with cash or credit.,1,effect
+3871096,go up to the cashier.,get tote bag.,find items on grocery shelf.place items into basket.,1,cause
+96241887,get what you need from the aisles.,go to the front of the store to check out.,"push cart around store, getting items from list.",0,effect
+97667995,select grocery items from shelf.,wait for the cashier to ring the order up.,"if necessary, bag your items.",1,effect
+13662800,park your car.,take bags to car.,find items on grocery rack.,0,effect
+81742384,wait for cashier to finish ringing you up.,find things required to buy.put them in cart.,go to the favorite grocery shop by car.,0,cause
+99220720,go up to check out line.,get the bill for groceries.,make list.,0,effect
+68882405,get items from grocery shelf.put in cart.,go back to car.load groceries in trunk.,cashier gives you total.,1,effect
+87259243,pay for them at the register.,go to the check out area.,go to grocery shop by walking.,0,cause
+98320235,go to check out line in front of store.,place items onto conveyor belt.,make a grocery list of items to buy.,0,effect
+97019286,select grocery items from shelf.,wait to know the total amount to be paid.,cross check the purchased items with your list.,0,effect
+81466864,place items onto conveyor belt.,get things from grocery shelf.,get in the car.,0,cause
+96484137,go to check out stand and pay for items.,pick up everything and put into your cart.,put food items away in kitchen at right place.,0,cause
+6489801,pay for the grocery.,"push cart around store, getting items from list.",go to the front of the store to check out.,1,cause
+25141576,go to the store by your own vehicle.,find what aisles you need to go to.,go into grocery store.,1,effect
+100979635,cross check the purchased items with your list.,take things off shelf.,return cart to store.,0,cause
+4961505,pay and check out.,drive to the nearby store.,"select the items from shelf, trying to stay on the perimeter of the store.",1,cause
+23702030,watch prices as the checker scans.,take your groceries to your car and place them in the car.,cashier gives you total.,1,effect
+3954714,take cart to checkout line.,make grocery list based off of menu.,put items i need in cart.,1,cause
+96272158,"get the boxed, bagged, jarred food items from rack.get the cold, frozen and produce.",take your items to the checkout counter.,get a basket.,0,effect
+25747161,make a trip to the store by car.,take out money from the wallet.,take bags to your car.,1,effect
+82148305,pay for items purchased.,go to grocery shop by walking.,"go to shelf and get the boxed, bagged, jarred food items.",1,cause
+98641825,cashier gives you total amount to be paid.,bring cart to cashier.,bagger places items into bags.,0,cause
+25626301,drive to nearby grocery store.,get a shopping cart if required.,go to car.,1,effect
+1789388,go to the grocery store by car.,go into store.,get the bill for groceries.,0,effect
+2096094,check existing stock.make a list of needed items.,"first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",check whether the list is complete(all things on list are purchased).,1,effect
+96668606,take things off shelf.,unload items onto conveyer belt.,get into my car.,0,effect
+96704162,put items i need in cart.,place groceries items on conveyor belt.,go to the store by your own vehicle.,0,effect
+96518748,go to check out line in front of store.,take the things you want to buy.put them on to the trolley.,leave the store.,0,cause
+8841029,find products and put products in your cart.,take your purchase to the front.,unload groceries in the kitchen.,0,effect
+675446,get inside the car.,put groceries in your car.,pay for the shopping.,0,effect
+78253861,proceed to checkout.,unload items and keep them in kitchen.,put items on table.,1,effect
+100957649,get what you need from the aisles.,cross them off your list(check if all items on list are purchased).,go into store and locate items to buy.,0,effect
+4672891,pay for your items.,load items from the cart onto the checkout lane's belt.,find the required items.,1,cause
+82173675,pay for it .,get things from grocery shelf.,walk down desired aisles.,0,cause
+24966746,go to grocery store by car.,go to cashier.,enter the shopping place and take a trolley.,1,effect
+98238933,go to checkout lane.,put groceries on conveyor belt.,go down each aisle and put the groceries you would like to purchase in your cart.,0,effect
+3630835,place cart into cart corral.,push cart to your car.put groceries in your trunk.,get a shopping cart if needed.,1,cause
+4139847,gather items from grocery rack.,push cart to your car.put groceries in your trunk.,go to the check out area.,1,effect
+495796,get in the car.,place groceries items on conveyor belt.,walk in to the store.,1,effect
+82106180,pay for your groceries.,"select the items from shelf, get them one by one.",enter grocery store.,0,cause
+97621238,pay the total amount.,push cart to your car.put groceries in your trunk.,find items that you need.,1,cause
+71235575,"as the cashier bags items, place them back into your cart.",get a basket if needed.,get what you need from the aisles.,0,cause
+4026841,get fruits and veggies.get meat.go through the rest of the store for getting remaining things.see a nice cake put it in cart.,go through a check out line.,go up to the cashier.,1,effect
+82036966,pay total amount and check out.,put food in cart from grocery rack.,grab a grocery cart.,0,cause
+57364461,go to the front of the store to check out.,take your groceries to your car and place them in the car.,pay for items purchased.,1,effect
+92301296,get receipt.,pay for groceries.,take a shopping cart.,0,cause
+98890811,go to cashier.,pay for my groceries.,enter the shopping place and take a trolley.,0,effect
+8838133,pick up everything and put into your cart.,bring items to cashier at front of store.,check out.,0,effect
+2096347,look in the fridge.make a list.,put food in cart from grocery rack.,cross them off your list(check if all items on list are purchased).,1,effect
+94052674,park.,drive to nearest grocery store.,bring items to checkout.,0,cause
+104962005,take out the shopping list from the car.,drive to nearby grocery store.,put all of your groceries on the belt for the cashier to ring up and bag.,0,cause
+96304799,gather items from grocery rack.,take your items to the checkout counter.,in your favorite store take a trolley if more things to be purchased or a bag for small.,0,effect
+93107108,go to car.,get inside the car.,put food items away in kitchen at right place.,0,cause
+5328211,put groceries in a bag.,find a grocery store.drive  to the store.,pick up refridgerated and frozen items last.,1,cause
+71227527,put the bagged items in the cart.,get a shopping cart from the front store.,drive to nearest grocery store.,0,cause
+97756264,"first pick up the bottle things so that it goes in bottom of the trolley.then shop for the packet items.now time for oil, milk items so that it won't get crushed by other heavy things.",pack items.,go to grocery shop by walking.,0,effect
+96243384,find the food you need and put in cart.,go to check out stand and pay for items.,walk through store.,0,effect
+4771350,pay for my groceries.,park the car.,find groceries.put them in the cart.,1,cause
+92279280,get receipt.,take the money out of wallet for paying the bill.,pack items.,0,cause
+98696698,go to checkout line.,pay for them at the register.,put items on table.,0,effect
+95246919,enter store.,walk to the store.,take the things you want to buy.put them on to the trolley.,0,cause
+86606228,put items on belt.,take cart to checkout line.,grab a grocery cart.,0,cause
+4028587,"go to shelf and get the boxed, bagged, jarred food items.",put food items away in kitchen at right place.,go to checkout line.,1,effect
+29222018,scan all my items while somebody bags them.,"if necessary, bag your items.",pay for the shopping.,1,effect
+7005214,scan all my items while somebody bags them.,pay for items at check out.,take your groceries to your car and place them in the car.,0,effect
+73174064,place cart into cart corral.,take a shopping cart.,make a list of things needed before leaving home.,0,cause
+2140785,take your groceries to your car and place them in the car.,take the list of items to purchase you made to store.,get to a shop by driving.,1,cause
+25702751,drive to the grocery store.,cashier gives you total.,take cart to car.put bags in car.,1,effect
+29768926,put bags in car.,go to the store by your own vehicle.,"walk through the aisles of the store, add items to your cart.",0,cause
+12414892,drive to grocery store of choice.,find parking spot.park car.,put the bagged items in the cart.,0,effect
+3640366,get a shopping cart from the front store.,return cart to store.,have cashier check you out.,0,effect
+97854533,pick groceries from shelf and ddd them to cart.,get receipt.,get a shopping cart.,0,effect
+92203342,take the money out of wallet for paying the bill.,put away your groceries in right place in kitchen.,pay for items with cash or credit.,1,effect
+99276177,check out food.,cashier gives you total.,drive to the grocery store.,0,effect
+5064563,find products and put products in your cart.,pay for items.,drive home and put away groceries.,0,effect
+96873587,"go to shelf and get the boxed, bagged, jarred food items.",scan all my items while somebody bags them.,get a basket if needed.,0,effect
+82056544,pay for grocery.,grab a cart.,go through store picking items.,1,cause
+98540854,scan all my items while somebody bags them.,wheel cart outside.,go to checkout lane.,1,cause
+2193840,walk out of store.put groceries in car.,inventory your cupboards.make a list of what you need.,drive to nearest grocery store.,1,cause
+2047790,make grocery list based off of menu.,place bags of groceries into cart.,check whether the list is complete(all things on list are purchased).,1,effect

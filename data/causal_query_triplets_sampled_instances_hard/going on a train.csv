@@ -1,0 +1,1001 @@
+Unnamed: 0,premise,choice1,choice2,label,question
+33268284,ride to your stop.,"when train arrives, board train.",purchase train ticket.,0,cause
+37176657,board the train.,enjoy the train trip.,get out of car.,0,effect
+36325044,train arrives at the platform.,give ticket to steward when asked.,walk through roundabout.,0,effect
+2394340,go to the railway station.,walk to the train platform.,buy a ticket.,0,effect
+1674535,get to destination.,show conductor your ticket.,get on my train.,1,cause
+7412,choose a destination.,sit or stand and wait for your train.,look at all the times and pick a destination.,1,effect
+33516381,wait until train reaches destination.,get on train.,wait for the train to arrive.,0,cause
+1417967,relax or watch favorite movie while train journey.,go to the station.,"when train arrives, get on train.",1,cause
+36269158,purchase train ticket for destination.,enjoy the journey.,go to ticket window.,1,cause
+33851088,exit train at correct stop.,"when train arrives, board the train.",buy pass.,0,cause
+483786,retrieve ticket from machine.,check train time.,walk to ticket counter.,1,cause
+33357015,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,upon arrival get into the compartment.,get to station.,0,cause
+1460765,relax in train.wait for correct stop.,get out of car.,"when train arrives, board a car.",1,cause
+439320,go to station.,find a vacant window seat.,leave to designated area.,1,effect
+395521,secure transportation to the train station.use transportation to train station.,board the train.,walk to the train platform.,1,effect
+36981500,"when train arrives, board a car.",relax in train.wait for correct stop.,hand ticket to ticket taker.,0,effect
+37021449,board the train.,relax and wait on your seat till your stop comes.,gathering ticket and required identification.,0,effect
+33953996,get off at your correct stop.,get on the correct train.,ensure transportation is secured in lot.,0,cause
+2430034,walk to the subway.,park car .,go on platform.,1,effect
+33113477,show receptionist train ticket.,"when train arrives, board train.",wait for train to arrive.,0,cause
+35962457,enter train station from front gate.,get to station.,buy ticket to train.,0,cause
+36802135,"when train arrives, board train.",show ticket to attendant.,arrive at the station.,0,effect
+36173114,get out of car.,ensure transportation is secured in lot.,buy ticket.,0,cause
+33476195,relax or watch favorite movie while train journey.,enter train station.,get on the train and enjoy.,1,cause
+37251259,get on the train.,wait for destination stop.,wait in line to board.,0,effect
+515729,go to ticket office.,buying a ticket.,exit train at correct stop.,0,effect
+36199322,get to ticket booth.,purchase ticket.,pack necessary luggage.,0,effect
+2143632,get off train at your stop.,locate a train schedule.,arrive at the target destination . .,1,cause
+33933022,get off at your stop.,get on the train and enjoy.,go to railway station.,0,cause
+37033141,get on the correct train.,retrieve ticket from machine.,wait until train reaches destination.,1,effect
+1101970,show the ticket checker your ticket.,ensure transportation is secured in lot.,get on my train.,1,cause
+6504932,adjust luggage in the luggage space.,find the correct platform.,pack bags.,1,cause
+36772519,get on the correct train.,give conductor ticket.,arrive train station.,0,effect
+221415,enter train station from front gate.,choose a destination.,arrive at the station.,1,cause
+35990927,drive to the train station.,leave to designated area.,determine a location to go to by train.,0,effect
+36677952,find the reserved seat and sit down.,get on train.,leave station.,0,cause
+463663,enter the train station.,go to the assigned track.,wait until your station.,0,effect
+1874676,get off at destination.,first you have to plan where you want to go.,"when train arrives, board train.",1,cause
+33454467,wait for destination stop.,board the train.,pack bags.,0,cause
+20244082,walk to ticket counter.,board correct train.,retrieve ticket from machine.,1,effect
+8906184,leave to designated area.,go to the station.,check train schedules.,0,cause
+16097206,go on platform.,check train time.,enter train station from front gate.,1,cause
+2004406,get off at destination.,go to the platform where the train is expected.,"when the train comes , get up and enter the train.",1,cause
+1695665,arrive at destination stop.,relax in train.wait for correct stop.,"when train arrives, ride up the train compartment as per ticket.",1,cause
+34072867,get off at your stop.,board the train.,find seat.sit and relax.,0,cause
+36061561,go to platform.,enjoy ride.,arrive train station.,1,cause
+1014119,show ticket to attendant.,buy a ticket at the window.,"when train arrives, board the train.",1,cause
+1665630,"when train arrives, board train.",ride train and enjoy journey.,adjust luggage in the luggage space.,0,effect
+1933658,get off at your correct stop.,buy ticket to the travel destination.,"when train arrives, ride up the train compartment as per ticket.",1,cause
+37341012,getting into train when arrives.,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,find a vacant window seat.,0,effect
+33855614,disembark train.,book train tickets.,get on my train.,1,cause
+1204187,show ticket pass to conductor.,find seat.sit and relax.,"when the train comes , get up and enter the train.",1,cause
+4182770,"when train arrives, get on train.",adjust luggage in the luggage space available.,exit train at correct stop.,1,effect
+37253819,get on train.,enjoy the ride on the train.,wait for the train to arrive.,0,effect
+1123778,show ticket pass.,pack necessary luggage.,"when the train comes , get up and enter the train.",1,cause
+313028,go to railway station.,get off at your correct stop.,go on platform.,1,effect
+36889853,board train when it arrives.,show ticket pass.,wait for boarding time for train.,0,effect
+36964908,board correct train.,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,show ticket to attendant.,0,effect
+32884893,sit.,upon arrival get into the compartment.,wait at train stop.,0,cause
+36548074,enter train.,find a vacant window seat.,park car .,0,effect
+916688,find seat.sit and relax.,wait for train to arrive.,board the train.,1,cause
+33260193,relax while you reach your destination.,get on the train.,gathering ticket and required identification.,0,cause
+37003621,"when train arrives, board train.",listen to music or read etc while riding.look at window if you haven't seen the surroundings.,check train schedules.,0,effect
+33235323,look out window.order meal.eat.,"when the train comes , get up and enter the train.",look at all the times and pick a destination.,0,cause
+36181004,go to platform.,enter the train station.,ride train.,0,cause
+820001,find seat.sit and relax.,adjust luggage in the luggage space.,board train and choose a seat.,1,cause
+194809,keep bag under the seat.,wait in line to board.,pack clothes and other items for the journey.,1,cause
+378297,go to the railway station.,buy a train ticket.,find rail for your train.,1,effect
+2101213,get off destination.,find a seat.,you board your train and find your seat.,1,cause
+33354418,wait until your station.,enter the appropriate train car.,drive to train station.,0,cause
+33290246,enjoy the journey.,enter train.,purchase your train ticket.,0,cause
+37695884,board train and choose a seat.,driving to the train station.,get off at correct destination.,1,effect
+992951,give conductor ticket.,pay for the ticket at the ticket counter.,"when train arrives, board the train.",1,cause
+36914087,board correct train.,show the ticket checker your ticket.,sit down.,0,effect
+33124156,show ticket pass to conductor.,board train and be seated.,wait for train.,0,cause
+549633,go to counter.,purchase train ticket.,"listen to music ,or read a book while ride.",0,effect
+585136,"when train arrives, board a car.",go to the station.,train arrives at the platform.,1,cause
+1678658,arrive at destination.,check train time.,get on the train.,1,cause
+36705860,get on train.,show ticket pass.,buying a ticket.,0,effect
+811884,taking a seat.,arrive at the station.,get on the correct train.,1,cause
+36440278,board train when it arrives.,buy a ticket from counter.,take a seat.,1,effect
+2130231,board train when it arrives.,exit train.,put carry on luggage in overhead bin.,0,effect
+1273081,wait patiently while the train travels towards destination.,show receptionist train ticket.,"when the train comes , get up and enter the train.",1,cause
+2124334,get in train.,de-train upon reaching the destination.,go out of the station.,0,effect
+545114,walk to ticket counter.,gathering ticket and required identification.,keep luggage under the seat.,0,effect
+33385010,ride train and enjoy journey.,board train and be seated.,go to train station.,0,cause
+36051057,find rail for your train.,go to train station a few minutes before scheduled departure.,show ticket pass.,0,cause
+1959197,get off destination.,arrive at the station.,walk onto the train.,1,cause
+37524871,"when the train comes , get up and enter the train.",get off train.,show conductor ticket.,0,effect
+262506,go to train station.,enter train station.,wait for train.,0,effect
+225017,go to railway station.,enter the train station.,get off destination.,0,effect
+33831395,get off destination.,upon arrival get into the compartment.,first you have to plan where you want to go.,0,cause
+36783756,"when train arrives, board the train.",show ticket to conductor.,go to train station.,0,effect
+34078401,depart when you arrive.,get on the correct train.,go to the car.,0,cause
+1516687,relax while you reach your destination.,enter into the railway station.,get on train.,1,cause
+2379482,drive to station.walk into station.,go to the platform where the train arrives.,purchase train tickets.,0,effect
+36709607,get on the train and enjoy.,hand your ticket to the conductor.,buy ticket.,0,effect
+37198065,getting into train when arrives.,"listen to music ,or read a book while ride.",go to the assigned track.,0,effect
+573142,board train when it arrives.,"then, you have to buy your ticket.then, you have to buy your ticket.",train arrives at the platform.,1,cause
+33945674,de-train upon reaching the destination.,upon arrival get into the compartment.,adjust luggage in the luggage space available.,0,cause
+1859958,alight at the destination station.,ride train.,get on the train.,1,cause
+1564907,enjoy the train trip.,wait at train stop.,get on the train and enjoy.,1,cause
+33279420,look out window.order meal.eat.,purchase ticket(s) for train.,get on the train.,1,cause
+1273522,wait patiently while the train travels towards destination.,show conductor ticket.,"when the train comes , get up and enter the train.",1,cause
+1057742,give ticket to the attendant.,get to station.,upon arrival get into the compartment.,1,cause
+1335400,enjoy the journey.,buy ticket at ticket window.,get on the correct train.,1,cause
+1355184,ride train and enjoy journey.,pay for the ticket.,board train.,1,cause
+1171204,show conductor ticket.,wait for the train.,board correct train.,1,cause
+34028014,get off train at your stop.,get in train.,wait for my train.,0,cause
+2463528,secure transportation to the train station.use transportation to train station.,sit down and ride.,go on platform.,1,effect
+8862675,drive to the train station.,wait for train.,enter train station.,1,effect
+260658,go to the station.,enter train station from front gate.,walk to ticket counter.,0,effect
+1626451,wait till your stop.,sit down and ride.,get on the train and enjoy.,1,cause
+2101801,get off destination.,find a seat or stand.,you board your train and find your seat.,1,cause
+33359289,look out window.order meal.eat.,"when train arrives, board train.",drive to the train station.,0,cause
+2144140,leave train.,"you ride the train to your destination.if you're going on a long trip, you may receive a meal.",get to destination.,1,cause
+1620347,enjoy the journey.,sit down.,"when train arrives, board the train.",1,cause
+33497391,enjoy ride.,"when train arrives, board train.",wait for my train.,0,cause
+464478,enter train station from front gate.,go to the platform where the train is expected.,relax or watch favorite movie while train journey.,0,effect
+36987195,"when train arrives, board train.","listen to music ,or read a book while ride.",show ticket to attendant.,0,effect
+33470205,wait till your stop.,board train.,get in line to buy ticket.,0,cause
+1803633,exit train at correct stop.,give ticket to the attendant.,enter train.,1,cause
+36057953,go to the correct train platform.,arrive at destination stop.,get to station.,1,cause
+32632259,find seat.,"when train arrives, ride up the train compartment as per ticket.",purchase train tickets.,0,cause
+33810872,"when your destination is called, get off train.",wait until your station.,board the train.,1,cause
+36193494,get in line to buy ticket.,go to counter.,"when train arrives, ride up the train compartment as per ticket.",0,cause
+2412144,secure transportation to the train station.use transportation to train station.,go to correct platform.,"when train arrives, board a car.",0,effect
+9160,go to the car.,park car.,wait until you reach your destination.,0,effect
+33041242,hand ticket to ticket taker.,walk onto the train.,go to the train station.,0,cause
+520107,go to counter.,buy pass.,wait in line to board train.,0,effect
+20276374,get to ticket booth.,find the reserved seat and sit down.,buy ticket to the travel destination.,1,effect
+379093,drive to the train station.,pay for the ticket at the ticket counter.,walk to the train platform.,1,effect
+1613778,ride train.,search for the booked seat and sit down.,"when the train comes , get up and enter the train.",1,cause
+461362,enter train station from front gate.,go to the platform where the train is expected.,exit train at correct stop.,0,effect
+37086793,"when train arrives, board train.",ride train and enjoy journey.,pay for your ticket.,0,effect
+496454,retrieve ticket from machine.,park car at parking.,go to ticket office.,1,cause
+37062985,"when train arrives, ride up the train compartment as per ticket.",enjoy the outside sceneries while on the move.,buy a train ticket.,0,effect
+362281,driving to the train station.,book train tickets.,walk to the train platform.,1,effect
+32510197,sit back and relax on your seat.,train arrives at the platform.,buy a ticket at the window.,0,cause
+33457482,enjoy the view out of train.,board train and choose a seat.,packing/gathering luggage.,0,cause
+1121440,show ticket pass to conductor.,you have to pack your bags and other take other useful stuff.,"when train arrives, board a car.",1,cause
+870369,find a seat and sit down.,find out what platform the train will be on.,get in train.,1,cause
+33657120,arrive at destination.,"when train arrives, board a car.",pay for your ticket.,0,cause
+36019560,secure transportation to the train station.use transportation to train station.,leave to designated area.,pack necessary luggage.,0,effect
+1110615,show ticket to attendant.,go on platform.,walk onto the train.,1,cause
+33402757,wait patiently while the train travels towards destination.,getting into train when arrives.,drive to train station.,0,cause
+359214,go to railway station.,purchase tickets.,go to the platform where the train is expected.,1,effect
+36733609,"when train arrives, board the train.",wait for attendant to walk by and pay for your ticket.,buy train ticket.,0,effect
+36167645,find rail for your train.,find a seat and sit down.,go to train station a few minutes before scheduled departure.,1,cause
+37218152,"when train arrives, board train.",pack bags.,wait until your station.,1,effect
+32821157,find your seat or compartment.,"when the train comes , get up and enter the train.",pack clothes and other items for the journey.,0,cause
+36103573,walk to correct platform.,going to the train station.,get on my train.,0,cause
+36383002,board train and be seated.,choose a seat.,choose a destination.,0,effect
+33788499,leave train.,get on the train and enjoy.,enjoy ride.,0,cause
+6558862,take all the luggage out of train.,pack bags.,enjoy the journey.,0,cause
+20286962,get to ticket booth.,"you ride the train to your destination.if you're going on a long trip, you may receive a meal.",buy train ticket.,1,effect
+1336040,enjoy the train trip.,buy a ticket at the window.,board correct train.,1,cause
+33641146,arrive at the target destination . .,enter the appropriate train car.,relax and enjoy the train ride.,0,cause
+37583879,get in train.,disembark train.,ride and enjoy the countryside.,0,effect
+37198470,getting into train when arrives.,wait patiently while the train travels towards destination.,go to correct platform.,0,effect
+1224337,enter the appropriate train car.,hand your ticket to the conductor.,go out of the station.,0,effect
+32890120,take a seat.,you board your train and find your seat.,waiting on train platform for train.,0,cause
+1574435,wait till your destination stop arrives.,wait for my train.,get on the train.,1,cause
+33453434,relax or watch favorite movie while train journey.,you board your train and find your seat.,pack necessary luggage.,0,cause
+1265439,relax and enjoy the train ride.,show conductor your ticket.,enter the appropriate train car.,1,cause
+32821733,take a seat.,board the train.,pack necessary luggage.,0,cause
+37079778,walk onto the train.,relax and wait on your seat till your stop comes.,purchase ticket(s) for train.,0,effect
+472004,enter train station from front gate.,go to the platform where the train is expected.,wait for train.,0,effect
+1095679,hand the attendant your ticket.,put carry on luggage in overhead bin.,get on train.,1,cause
+36425070,enter the appropriate train car.,gathering ticket and required identification.,sit.,1,effect
+33123881,show ticket pass to conductor.,get on the train.,wait for your train to arrive.,0,cause
+36616196,enter train.,find a vacant window seat.,wait in line to board train.,0,effect
+37344679,"when train arrives, ride up the train compartment as per ticket.",go to my destination.,take a seat.,0,effect
+36817655,get on my train.,show conductor ticket.,ensure transportation is secured in lot.,0,effect
+37579632,"when train arrives, board a car.",exit train at correct stop.,wait till your destination stop arrives.,0,effect
+1033759,hand the attendant your ticket.,pay for the ticket at the ticket counter.,board correct train.,1,cause
+676337,find seat.,buy train ticket.,get on train.,1,cause
+2468864,drive to the train station.,find rail for your train.,find seat.,0,effect
+1140552,give ticket to the attendant.,go to counter.,upon arrival get into the compartment.,1,cause
+36827683,enter the appropriate train car.,give conductor ticket.,go to correct platform.,0,effect
+467449,enter into the railway station.,pay for ticket.,go to the correct train platform.,1,effect
+1781387,"you arrive to your destination, and take your luggage.",find your seat or compartment.,enter train.,1,cause
+33488838,ride to your stop.,upon arrival get into the compartment.,wait in line to board train.,0,cause
+1288870,wait until you reach your destination.,first you have to plan where you want to go.,board train when it arrives.,1,cause
+37070234,board train and be seated.,enjoy ride.,retrieve ticket from machine.,0,effect
+37570954,"when train arrives, board the train.",get off at your correct stop.,relax or read favorite magazine during journey.,0,effect
+1490277,"listen to music ,or read a book while ride.",pack luggage for the journey.,board train.,1,cause
+33520806,enjoy the journey.,get in train.,wait on platform for train.,0,cause
+444515,get to station.,sit.,go to the correct train platform.,1,effect
+629045,train arrives at the platform.,ride and enjoy the countryside.,go out of the station.,0,effect
+8905492,go to the platform where the train arrives.,get to station.,look at all the times and pick a destination.,0,cause
+32606231,find a seat.sit down.,enter the appropriate train car.,locate a train schedule.,0,cause
+32983684,swipe ticket.,"when the train comes , get up and enter the train.",tell the clerk where you want to travel to.pay the clerk for ticket.,0,cause
+498950,walk to ticket counter.,buy ticket at ticket window.,go to the assigned track.,0,effect
+36329591,train arrives at the platform.,look out window.order meal.eat.,show the ticket checker your ticket.,0,effect
+33100843,show ticket to conductor.,board train.,wait in line to board train.,0,cause
+33367763,enjoy the journey.,board the train.,secure transportation to the train station.use transportation to train station.,0,cause
+33946133,get off at your stop.,board the train.,keep luggage under the seat.,0,cause
+1284449,relax or read favorite magazine during journey.,call and check departure time.,"when the train comes , get up and enter the train.",1,cause
+2387171,go to the station.,go to the correct train platform.,get tickets from ticket counter.,0,effect
+943074,find an empty seat.,wait for boarding time for train.,"when train arrives, ride up the train compartment as per ticket.",1,cause
+8895992,leave to designated area.,go to train station a few minutes before scheduled departure.,buy ticket to train.,0,cause
+41,first you have to plan where you want to go.,get off train at your stop.,check train schedule.,1,effect
+33487960,ride and enjoy the countryside.,walk onto the train.,step up to train.,0,cause
+429656,arrive at the station.,wait for the train to arrive.,go on platform.,1,effect
+32945668,show ticket to conductor.,"when train arrives, ride up the train compartment as per ticket.",purchase train ticket.,0,cause
+37543942,"when the train comes , get up and enter the train.",leave train.,locate a train schedule.,0,effect
+36503377,get on the train.,choose a seat.,go to train station.,0,effect
+344812,get to train stop.,go to my destination.,go to correct platform.,1,effect
+454144,walk to the subway.,find a seat.sit down.,go to correct platform.,1,effect
+33251820,ride and enjoy the countryside.,purchase train ticket.,enter train.,1,cause
+8832368,go to train station.,relax in train.wait for correct stop.,enter train station from front gate.,1,effect
+1495926,enjoy the journey.,packing/gathering luggage.,"when train arrives, get on train.",1,cause
+471914,enter train station from front gate.,go to platform.,wait at train stop.,0,effect
+1808691,get off at destination.,show ticket pass.,get on the correct train.,1,cause
+37252684,walk onto the train.,wait until you reach your destination.,wait in line to board.,0,effect
+33006343,hand your ticket to the conductor.,"when the train comes , get up and enter the train.",drive to station.walk into station.,0,cause
+33463446,ride train and enjoy journey.,enter train.,find out what platform the train will be on.,0,cause
+469554,enter into the railway station.,go to the platform where the train is expected.,"when the train comes , get up and enter the train.",0,effect
+37075281,upon arrival get into the compartment.,retrieve ticket from machine.,"listen to music ,or read a book while ride.",1,effect
+474473,stand in queue in front of a ticket counter and wait.,check train schedules.,go to ticket window.,1,cause
+1381096,enjoy ride.,arrive train station.,get in train.,1,cause
+8865718,get to station.,choose a seat.,enter the train station.,1,effect
+20271875,go to ticket office.,taking a seat.,pay for train ticket.,1,effect
+484181,pay for train ticket.,check train schedule.,walk to ticket counter.,1,cause
+20251375,go to counter.,de-train upon reaching the destination.,book train tickets.,1,effect
+8823183,go to the train station.,get off at your correct stop.,enter train station.,1,effect
+1575999,ride train and enjoy journey.,wait for my train.,"when the train comes , get up and enter the train.",1,cause
+1105414,give conductor ticket.,go to the platform where the train arrives.,board train when it arrives.,1,cause
+975414,show ticket to conductor.,check train time.,"when train arrives, ride up the train compartment as per ticket.",1,cause
+37018087,get on the train and enjoy.,wait for destination stop.,purchase ticket(s) for train.,0,effect
+2344396,get to train stop.,go to the assigned track.,give ticket to conductor.,0,effect
+37086450,"when train arrives, board train.",enjoy the train trip.,pay for your ticket.,0,effect
+20278137,walk to ticket counter.,walk through roundabout.,retrieve ticket from machine.,1,effect
+279,determine a location to go to by train.,locate a train schedule.,depart when you arrive.,0,effect
+33171032,show ticket pass.,find a seat or stand.,"when the train comes , get up and enter the train.",1,cause
+287948,go on platform.,buy a ticket at the window.,get to train stop.,1,cause
+338514,get to station.,"you arrive to your destination, and take your luggage.",go to the platform where the train is expected.,1,effect
+1105093,give conductor ticket.,go to correct platform.,board the train.,1,cause
+36282355,go to the assigned track.,wait on platform.,find the correct platform.,1,cause
+18721,first you have to plan where you want to go.,find a vacant window seat.,look up train information online.,1,effect
+36045145,go to platform.,go to the station.,give ticket to attendant.,0,cause
+1123027,swipe ticket.,pack luggage for the journey.,board the train.,1,cause
+2077821,get off at your stop.,wait for the train at the platform.,board train and be seated.,1,cause
+36548002,enter train.,find a seat.sit down and enjoy the ride.,park at station.,0,effect
+37550991,enter train.,ride train.,leave train at destination.,1,effect
+546082,go to ticket window.,pay for the ticket at the ticket counter.,relax or listen to favorite music while in train.,0,effect
+37218126,"when train arrives, board train.",enjoy the ride on the train.,pack luggage for the journey.,0,effect
+500228,go to ticket office.,buy pass.,arrive at destination.,0,effect
+37479101,board train.,"you arrive to your destination, and take your luggage.",wait at train stop.,0,effect
+37646134,"when train arrives, board train.",get off at destination.,buy a train ticket.,0,effect
+37745141,getting into train when arrives.,get off at destination.,wait in line for getting ticket if not booked already.,0,effect
+33497104,enjoy ride.,board train and be seated.,wait for train to arrive.,0,cause
+20288199,get to ticket booth.,enjoy the outside sceneries while on the move.,tell the clerk where you want to travel to.pay the clerk for ticket.,1,effect
+37048525,"when the train comes , get up and enter the train.",go to my destination.,purchase train ticket for destination.,0,effect
+33429094,enjoy train ride.,board correct train.,go to the platform where the train arrives.,0,cause
+37687340,"when train arrives, board a car.",get off at destination.,go to train station a few minutes before scheduled departure.,0,effect
+506942,go to counter.,tell the clerk where you want to travel to.pay the clerk for ticket.,enter train.,0,effect
+623041,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,find out what platform the train will be on.,train arrives at time on the platform.,1,cause
+33672920,arrive at destination stop.,board correct train.,gathering ticket and required identification.,0,cause
+20287889,get to ticket booth.,relax and wait on your seat till your stop comes.,buy ticket to the travel destination.,1,effect
+1912754,depart when you arrive.,get tickets from ticket counter.,get on train.,1,cause
+37902857,"you arrive to your destination, and take your luggage.",disembark train.,wait for my train.,0,effect
+37911918,get to destination.,find a vacant window seat.,de-train upon reaching the destination.,1,effect
+823094,find your seat or compartment.,keep luggage in the luggage space.,enter train.,1,cause
+1707299,"you arrive to your destination, and take your luggage.",purchase ticket(s) for train.,enter train.,1,cause
+1500768,enjoy the view out of train.,pack clothes.pack luggage for the journey.,board the train.,1,cause
+36194153,stand in queue in front of a ticket counter and wait.,show the ticket checker your ticket.,get to ticket booth.,1,cause
+37247813,board train and choose a seat.,get to ticket booth.,wait until your station.,1,effect
+557795,walk to the train platform.,you have to pack your bags and other take other useful stuff.,find the correct platform.,1,cause
+1413959,enjoy the train trip.,go to the station.,"when train arrives, board the train.",1,cause
+927394,sit.,wait for boarding time for train.,"when train arrives, ride up the train compartment as per ticket.",1,cause
+580940,get on the train and enjoy.,check train time.,train arrives at the platform.,1,cause
+24135231,find the correct platform.,give ticket to steward when asked.,go to the assigned track.,1,effect
+37213801,get on the train.,enjoy the train trip.,pack necessary luggage.,0,effect
+2191557,leave train at destination.,find seat.sit down.,arrive at the target destination . .,1,cause
+33076461,give ticket to the attendant.,upon arrival get into the compartment.,pack clothes and other items for the journey.,0,cause
+1010887,wait for attendant to walk by and pay for your ticket.,get a ticket for the train.,getting into train when arrives.,1,cause
+33409584,enjoy the journey.,get on the correct train.,adjust luggage in the luggage space.,0,cause
+4187735,board train and choose a seat.,keep luggage under the seat.,get off at correct destination.,1,effect
+2354929,go to the train station.,go to the platform where the train is expected.,arrive at destination stop.,0,effect
+37646010,"when train arrives, board train.",disembark train.,purchase ticket.,0,effect
+1471251,"you ride the train to your destination.if you're going on a long trip, you may receive a meal.",walk to the train platform.,"when train arrives, board a car.",1,cause
+35971692,enter train station from front gate.,walk to the subway.,upon arrival get into the compartment.,0,cause
+37915252,get off train at your stop.,arrive at the target destination . .,leave station.,0,cause
+347682,get to station.,wait until you reach your destination.,go to the platform where the train is expected.,1,effect
+32837090,find a seat or stand.,board the train.,wait in line for getting ticket if not booked already.,0,cause
+8819486,enter the train station.,arrive train station.,check train schedules.,0,cause
+37396091,get on the train and enjoy.,check train schedule.,arrive at destination.,1,effect
+36550334,board correct train.,find a seat and sit down.,park car .,0,effect
+36140766,walk to the train platform.,go to the railway station.,wait on platform.,0,cause
+644986,get off destination.,wait in line to board train.,train arrives at the platform.,1,cause
+32524111,get to destination.,train arrives at time on the platform.,retrieve ticket from machine.,0,cause
+704014,sit.,purchase tickets.,get in train.,1,cause
+32698825,taking a seat.,board correct train.,get a ticket for the train.,0,cause
+1877000,leave train.,pay for the ticket at the ticket counter.,board correct train.,1,cause
+1592324,"listen to music ,or read a book while ride.",look for the seat number as in ticket.sit on the seat.,"when train arrives, ride up the train compartment as per ticket.",1,cause
+24139356,find out what platform the train will be on.,enjoy train ride.,go to correct platform.,1,effect
+36211964,walk to ticket counter.,get out of car.,"then, you have to buy your ticket.then, you have to buy your ticket.",1,effect
+229890,drive to station.walk into station.,show ticket to conductor.,enter into the railway station.,1,effect
+4285475,pack bags.,take all the luggage out of train.,wait at station.,0,effect
+33197777,enjoy the ride on the train.,get on train.,give ticket to attendant.,0,cause
+33878046,"when train reaches destination, exit train.","when train arrives, board a car.",buy a ticket.,0,cause
+1624933,relax or watch favorite movie while train journey.,find seat.sit and relax.,you board your train and find your seat.,1,cause
+575156,get on my train.,walk to correct platform.,train arrives at the platform.,1,cause
+33277595,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,upon arrival get into the compartment.,purchase ticket.,0,cause
+36327879,train arrives at the platform.,hand the attendant your ticket.,find seat.,0,effect
+37647386,board train and choose a seat.,"when your destination is called, get off train.",purchase tickets.,0,effect
+37744817,"when the train comes , get up and enter the train.",get off at your correct stop.,wait in line for getting ticket if not booked already.,0,effect
+1957017,get off at destination.,get to station.,board correct train.,1,cause
+33574107,wait until train reaches destination.,sit down and ride.,get in train.,1,cause
+614312,enjoy the train trip.,determine a location to go to by train.,train arrives at the platform.,1,cause
+37341404,getting into train when arrives.,wait for destination stop.,find seat.sit and relax.,0,effect
+746861,take a seat if possible.,buy pass.,get on the correct train.,1,cause
+33422779,relax and wait on your seat till your stop comes.,enter train.,park car at parking.,0,cause
+33791317,exit train.,board train and be seated.,relax or watch favorite movie while train journey.,0,cause
+34038976,leave train.,upon arrival get into the compartment.,sit.,0,cause
+8890524,go to the platform where the train arrives.,purchase train ticket for destination.,go to railway station.,1,cause
+32838852,find an empty seat.,you board your train and find your seat.,get in line to buy ticket.,0,cause
+746549,take a seat if possible.,get tickets from ticket counter.,"when train arrives, board train.",1,cause
+37813953,get on my train.,leave train.,find seat.sit down.,0,effect
+349366,go to the station.,wait until you reach your destination.,go to the platform where the train arrives.,1,effect
+1654924,board train.,ride and enjoy the countryside.,put carry on luggage in overhead bin.,0,effect
+286513,go to the assigned track.,purchase ticket.,get to train stop.,1,cause
+2461049,get to station.,find seat.sit and relax.,go to the assigned track.,1,effect
+33171145,show ticket pass.,"when train arrives, board the train.",find a vacant window seat.,0,cause
+37072475,"when train arrives, board a car.",ride train.,pay for ticket.,0,effect
+37012758,board train.,relax or listen to favorite music while in train.,buy ticket to the travel destination.,0,effect
+37792158,walk onto the train.,de-train upon reaching the destination.,wait for the train at the platform.,0,effect
+33215493,wait till your stop.,"when train arrives, board a car.",show ticket to conductor.,0,cause
+275521,walk to the train platform.,buy a train ticket.,arrive train station.,1,cause
+781919,sit down.,secure transportation to the train station.use transportation to train station.,"when train arrives, board a car.",1,cause
+37259429,you board your train and find your seat.,ride to your stop.,wait for train.,0,effect
+36426670,"when train arrives, board the train.",find a seat or stand.,purchase tickets from ticket window.,0,effect
+32795124,take a seat if possible.,upon arrival get into the compartment.,ensure transportation is secured in lot.,0,cause
+33483853,relax or listen to favorite music while in train.,board correct train.,go to ticket window.,0,cause
+33120425,show conductor your ticket.,board correct train.,wait for your train to arrive.,0,cause
+1586259,enjoy the view out of train.,wait for train at the platform.,get in train.,1,cause
+37099929,get on the train and enjoy.,ride and enjoy the countryside.,walk to the subway.,0,effect
+33294271,enjoy the train trip.,board train and be seated.,purchase ticket for the destination station.,0,cause
+32736493,sit.,getting into train when arrives.,walk to the subway.,0,cause
+36044693,go to platform.,go to railway station.,give conductor ticket.,0,cause
+37290723,board train when it arrives.,relax while you reach your destination.,wait for the train.,0,effect
+37870998,arrive at the target destination . .,get off at correct destination.,buy train ticket.,0,effect
+890532,find a seat and sit down.,get to ticket booth.,board correct train.,1,cause
+1592163,"listen to music ,or read a book while ride.",take a seat.,board correct train.,1,cause
+537182,go to ticket office.,purchase ticket for the destination station.,search for the booked seat and sit down.,0,effect
+286520,go to the assigned track.,purchase ticket.,get to station.,1,cause
+1564943,enjoy the train trip.,wait at train stop.,walk onto the train.,1,cause
+36936929,board train and choose a seat.,hand ticket to ticket taker.,find a seat.sit down and enjoy the ride.,0,effect
+33418725,enjoy train ride.,enter the appropriate train car.,park car .,0,cause
+37010173,get on train.,enjoy ride.,buy ticket.,0,effect
+33481272,wait until you reach your destination.,upon arrival get into the compartment.,get to ticket booth.,0,cause
+32884791,sit.,board train and be seated.,wait for train.,0,cause
+36416695,get on my train.,find seat.sit down.,buy pass.,0,effect
+36218797,buy a train ticket.,get to ticket booth.,get to destination.,0,cause
+1586660,relax in train.wait for correct stop.,wait until time to board train.,board train.,1,cause
+32947809,give ticket to conductor.,pay for train ticket.,enter the appropriate train car.,1,cause
+37270516,"when train arrives, get on train.","you ride the train to your destination.if you're going on a long trip, you may receive a meal.",wait for your train to be announced.,0,effect
+541422,get to ticket booth.,find seat.sit and relax.,purchase train tickets.,1,effect
+33831180,get off at destination.,"when train arrives, get on train.",determine a location to go to by train.,0,cause
+33115618,give ticket to the attendant.,wait at train stop.,get on the correct train.,1,cause
+1943699,get off at correct destination.,go to train station a few minutes before scheduled departure.,get on the train.,1,cause
+20239108,go to ticket office.,get on the correct train.,obtain train ticket.,1,effect
+19811913,go to counter.,train arrives at time on the platform.,stand in queue in front of a ticket counter and wait.,1,effect
+1893954,exit train at correct stop.,obtain train ticket.,board correct train.,1,cause
+36216231,buy ticket at ticket window.,get to ticket booth.,go on platform.,0,cause
+33061989,give conductor ticket.,go on platform.,board train and choose a seat.,1,cause
+33100307,hand ticket to ticket taker.,get to ticket booth.,walk onto the train.,1,cause
+2037252,get off destination.,walk to ticket counter.,upon arrival get into the compartment.,1,cause
+32733536,find seat.sit down.,get on the train and enjoy.,drive to the train station.,0,cause
+220204,pack clothes and other items for the journey.,go to railway station.,take all the luggage out of train.,1,effect
+36587720,get on train.,taking a seat.,find out what platform the train will be on.,0,effect
+33417720,ride and enjoy the countryside.,get on my train.,park car .,0,cause
+1143476,hand the attendant your ticket.,go to counter.,"when the train comes , get up and enter the train.",1,cause
+1936459,exit train.,driving to the train station.,upon arrival get into the compartment.,1,cause
+1944949,leave train at destination.,get to station.,enter train.,1,cause
+34058903,get off destination.,search for the booked seat and sit down.,"when train arrives, board a car.",1,cause
+36211308,get to ticket booth.,go to train station a few minutes before scheduled departure.,buy ticket at ticket window.,1,effect
+20259367,walk to ticket counter.,swipe ticket.,pay for your ticket.,1,effect
+2448308,going to the train station.,wait for the train to arrive.,go to correct platform.,1,effect
+33105503,show ticket to conductor.,walk onto the train.,wait for boarding time for train.,0,cause
+36221967,buy pass.,get on the correct train.,go to counter.,1,cause
+32523256,get to destination.,train arrives at time on the platform.,relax or watch favorite movie while train journey.,0,cause
+37861996,arrive at destination.,get off train at your stop.,ride train and enjoy journey.,0,effect
+24200872,train arrives at the platform.,keep luggage in the luggage space.,"listen to music ,or read a book while ride.",1,effect
+1822400,get off at your correct stop.,give ticket to steward when asked.,enter train.,1,cause
+32517768,ride train.,train arrives at time on the platform.,wait for train.,0,cause
+32741915,search for the booked seat and sit down.,get on the correct train.,get to train stop.,0,cause
+32486731,find a vacant window seat.,train arrives at the platform.,get to train stop.,0,cause
+623331,relax while you reach your destination.,get in line to buy ticket.,train arrives at time on the platform.,1,cause
+36162542,go to the platform where the train is expected.,go to station.,taking a seat.,0,cause
+676079,find seat.,buy ticket at ticket window.,"when train arrives, board a car.",1,cause
+32622255,find an empty seat.,get on train.,first you have to plan where you want to go.,0,cause
+32518588,relax or read favorite magazine during journey.,train arrives at the platform.,wait for your train to pull up to station.,0,cause
+33541496,enjoy the view out of train.,board train.,waiting on train platform for train.,0,cause
+36191589,go to counter.,get in line to buy ticket.,enter train station.,0,effect
+1212125,give ticket to attendant.,find a seat and sit down.,"when the train comes , get up and enter the train.",1,cause
+37651951,get on train.,get off destination.,going to the train station.,0,effect
+1063081,show conductor your ticket.,drive to train station.,"when train arrives, board a car.",1,cause
+36860720,get in train.,go to ticket office.,give ticket to the attendant.,1,effect
+9030,go to the car.,enjoy the train trip.,park at station.,1,effect
+1669159,arrive at destination.,show the ticket checker your ticket.,board train when it arrives.,1,cause
+11436,choose a destination.,get off at your correct stop.,check train time.,1,effect
+36985113,get in train.,go to my destination.,give ticket to steward when asked.,0,effect
+33411730,wait for destination stop.,get on the train.,put carry on luggage in overhead bin.,0,cause
+609935,give ticket to steward when asked.,waiting on train platform for train.,train arrives at time on the platform.,1,cause
+37526277,enter the appropriate train car.,depart when you arrive.,give ticket to attendant.,0,effect
+32515134,wait until you reach your destination.,train arrives at time on the platform.,pack clothes.pack luggage for the journey.,0,cause
+37256436,enter train.,enjoy the train trip.,wait for your train to be announced.,0,effect
+36296605,train arrives at time on the platform.,board train.,wait for train.,0,effect
+33714191,arrive at destination stop.,get in train.,enter into the railway station.,0,cause
+1924097,de-train upon reaching the destination.,purchase tickets from ticket window.,enter the appropriate train car.,1,cause
+36552143,get on the train.,look for the seat number as in ticket.sit on the seat.,park car at parking.,0,effect
+4183818,"when the train comes , get up and enter the train.",place luggage down.,get off at your correct stop.,1,effect
+33079795,give ticket to attendant.,pack necessary luggage.,enter the appropriate train car.,1,cause
+33218566,wait till your destination stop arrives.,"when the train comes , get up and enter the train.",show conductor ticket.,0,cause
+237257,go to the station.,enter train station from front gate.,wait until your station.,0,effect
+33208663,wait until train reaches destination.,board train when it arrives.,give ticket to conductor.,0,cause
+1093674,hand your ticket to the attendant when asked.,keep bag under the seat.,get on the train and enjoy.,1,cause
+37238642,walk onto the train.,relax while you reach your destination.,enter train station from front gate.,0,effect
+1114206,give ticket to attendant.,go to the platform where the train arrives.,you board your train and find your seat.,1,cause
+33363492,wait until train reaches destination.,get on train.,go to the train station.,0,cause
+867486,find an empty seat.,pack luggage for the journey.,get on train.,1,cause
+1015240,show ticket to attendant.,purchase your train ticket.,get on my train.,1,cause
+2155449,exit train at correct stop.,tell the clerk where you want to travel to.pay the clerk for ticket.,arrive at the target destination . .,1,cause
+33838591,get off train.,"when train arrives, get on train.",pay for the ticket at the ticket counter.,0,cause
+1495937,enjoy the journey.,packing/gathering luggage.,get on the train.,1,cause
+1302435,relax while you reach your destination.,buy a ticket at the window.,"when train arrives, board the train.",1,cause
+1983946,get off at correct destination.,keep luggage under the seat.,"when train arrives, board train.",1,cause
+1637380,relax and enjoy the train ride.,find a vacant window seat.,board the train.,1,cause
+363841,get to train stop.,obtain train ticket.,walk to the train platform.,1,effect
+36228291,retrieve ticket from machine.,go to ticket office.,board correct train.,0,cause
+577326,get on my train.,pack luggage for the journey.,train arrives at the platform.,1,cause
+36381880,enter the appropriate train car.,choose a seat.,choose a destination.,0,effect
+37236904,getting into train when arrives.,ride train and enjoy journey.,enter the train station.,0,effect
+36567025,getting into train when arrives.,sit down and ride.,go on platform.,0,effect
+36139802,walk to the train platform.,go to station.,wait for my train.,0,cause
+36841743,"when train arrives, board train.",pack luggage for the journey.,show conductor ticket.,1,effect
+33276664,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,get on my train.,purchase ticket.,0,cause
+1213960,show ticket pass.,find seat.,"when train arrives, board train.",1,cause
+1886711,get off at correct destination.,buy pass.,"when train arrives, board the train.",1,cause
+37222824,"when train arrives, board the train.",find out what platform the train will be on.,enjoy train ride.,1,effect
+15687527,get in train.,go out of the station.,arrive at destination stop.,1,effect
+33079659,give ticket to attendant.,you board your train and find your seat.,pack bags.,0,cause
+686838,find seat.sit and relax.,buy pass.,"when train arrives, get on train.",1,cause
+1249111,look out window.order meal.eat.,give ticket to steward when asked.,get on the correct train.,1,cause
+1320986,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,buy ticket at ticket window.,you board your train and find your seat.,1,cause
+359010,go to railway station.,buy ticket.,go to the platform where the train is expected.,1,effect
+37562758,board correct train.,leave train at destination.,relax or watch favorite movie while train journey.,0,effect
+33430141,ride to your stop.,board the train.,walk to the train platform.,0,cause
+1463768,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,park car.,board train.,1,cause
+642580,exit train.,adjust luggage in the luggage space.,train arrives at the platform.,1,cause
+1083209,hand ticket to ticket taker.,go to station.,"when train arrives, board the train.",1,cause
+36987727,"when train arrives, board train.",wait for destination stop.,show conductor ticket.,0,effect
+2219126,pack clothes.pack luggage for the journey.,purchase train tickets.,adjust luggage in the luggage space.,1,effect
+1131912,give ticket to the attendant.,wait in line for getting ticket if not booked already.,"when the train comes , get up and enter the train.",1,cause
+20259750,get to ticket booth.,give ticket to conductor.,buy a ticket from counter.,1,effect
+1454017,relax or watch favorite movie while train journey.,place luggage down.,board train.,1,cause
+469086,enter train station from front gate.,go on platform.,"when train arrives, board train.",0,effect
+1521489,enjoy the outside sceneries while on the move.,enter train station.,get on train.,1,cause
+36278728,go to the correct train platform.,find the correct platform.,"when train arrives, board the train.",0,cause
+1471221,"you ride the train to your destination.if you're going on a long trip, you may receive a meal.",walk to the train platform.,board the train.,1,cause
+37144539,board train and be seated.,enjoy train ride.,go to railway station.,0,effect
+1810968,"when your destination is called, get off train.",show ticket pass.,"when train arrives, board a car.",1,cause
+479145,purchase tickets.,choose a destination.,go to counter.,1,cause
+434314,go to train station a few minutes before scheduled departure.,wait for the train at the platform.,go to the platform where the train arrives.,1,effect
+33068985,show conductor ticket.,walk onto the train.,go on platform.,0,cause
+37418482,you board your train and find your seat.,"you arrive to your destination, and take your luggage.",buy train ticket.,0,effect
+13441,first you have to plan where you want to go.,purchase tickets from ticket window.,look up train information online.,1,effect
+32684720,find an empty seat.,"when the train comes , get up and enter the train.",purchase tickets from ticket window.,0,cause
+37008482,board train when it arrives.,determine a location to go to by train.,enjoy the outside sceneries while on the move.,1,effect
+33885451,get off at your stop.,walk onto the train.,buy a ticket from counter.,0,cause
+1967023,alight at the destination station.,go to the train station.,get on the train.,1,cause
+16215339,enter train station.,show ticket to attendant.,walk to the train platform.,1,effect
+36074109,go to the correct train platform.,relax or watch favorite movie while train journey.,drive to the train station.,1,cause
+34070358,de-train upon reaching the destination.,"when train arrives, ride up the train compartment as per ticket.",sit.,0,cause
+36328559,train arrives at time on the platform.,swipe ticket.,find seat.,0,effect
+8910528,find rail for your train.,go to the train station.,park car .,0,cause
+1539634,enjoy ride.,wait until time to board train.,"when train arrives, get on train.",1,cause
+1840494,leave train at destination.,ride and enjoy the countryside.,"when train arrives, get on train.",1,cause
+1804259,exit train at correct stop.,hand the attendant your ticket.,walk onto the train.,1,cause
+32756524,find an empty seat.,get on the train.,secure transportation to the train station.use transportation to train station.,0,cause
+33834939,leave train.,upon arrival get into the compartment.,get a ticket for the train.,0,cause
+1239039,relax while you reach your destination.,show ticket to conductor.,board train and be seated.,1,cause
+36290874,train arrives at time on the platform.,get on the train.,purchase train ticket for destination.,0,effect
+32963041,give ticket to the attendant.,buy a train ticket.,get in train.,1,cause
+33425822,wait patiently while the train travels towards destination.,"when the train comes , get up and enter the train.",park car.,0,cause
+710528,search for the booked seat and sit down.,get tickets from ticket counter.,upon arrival get into the compartment.,1,cause
+36271404,pay for train ticket.,get to ticket booth.,wait for destination stop.,0,cause
+33203511,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,you board your train and find your seat.,give ticket to conductor.,0,cause
+33025365,show ticket pass to conductor.,board train and choose a seat.,arrive train station.,0,cause
+32855562,find a seat.sit down.,upon arrival get into the compartment.,wait in line to board train.,0,cause
+33573524,wait until train reaches destination.,enter the appropriate train car.,find a seat and sit down.,0,cause
+1168485,hand your ticket to the attendant when asked.,wait at train stop.,get in train.,1,cause
+36593652,"when train arrives, board train.",search for the booked seat and sit down.,find out what platform the train will be on.,0,effect
+8015,determine a location to go to by train.,check train time.,take a seat.,0,effect
+1908985,"when your destination is called, get off train.",buy a ticket from counter.,get on the train and enjoy.,1,cause
+32966544,wait for attendant to walk by and pay for your ticket.,buy ticket to train.,"when train arrives, get on train.",1,cause
+20253442,get to ticket booth.,"when your destination is called, get off train.",buy ticket to the travel destination.,1,effect
+1848724,disembark train.,enjoy the outside sceneries while on the move.,get on the correct train.,1,cause
+32635679,sit down and ride.,board train.,pay for train ticket.,0,cause
+1957973,get off at destination.,drive to the train station.,get in train.,1,cause
+272816,go to correct platform.,determine a location to go to by train.,driving to the train station.,1,cause
+199745,you have to pack your bags and other take other useful stuff.,alight at the destination station.,put carry on luggage in overhead bin.,1,effect
+20250493,go to counter.,exit train.,book train tickets.,1,effect
+2227020,you have to pack your bags and other take other useful stuff.,wait in line to board train.,keep bag under the seat.,1,effect
+2217545,pack bags.,relax or watch favorite movie while train journey.,keep luggage in the luggage space.,1,effect
+1383794,"you ride the train to your destination.if you're going on a long trip, you may receive a meal.",arrive at the station.,"when train arrives, board train.",1,cause
+630713,get to destination.,enjoy the view out of train.,train arrives at time on the platform.,1,cause
+25771761,go to the correct train platform.,pay for your ticket.,find out what platform the train will be on.,1,cause
+37476893,upon arrival get into the compartment.,arrive at destination.,go to ticket office.,0,effect
+33797104,leave train at destination.,get on the train and enjoy.,relax in train.wait for correct stop.,0,cause
+1118656,hand your ticket to the conductor.,pack necessary luggage.,board train and choose a seat.,1,cause
+36489290,board correct train.,going to the train station.,find a vacant window seat.,1,effect
+970566,"when train arrives, board a car.",sit down and ride.,keep luggage in the luggage space.,0,effect
+32635199,find correct seat.sit in seat.,purchase train tickets.,get in train.,1,cause
+36569427,board train when it arrives.,find a seat.,go to the platform where the train arrives.,0,effect
+37762586,enter train.,exit train at correct stop.,wait for the train to arrive.,0,effect
+36332286,train arrives at the platform.,look out window.order meal.eat.,purchase tickets.,0,effect
+659799,choose a seat.,check train schedule.,enter the appropriate train car.,1,cause
+36302079,train arrives at time on the platform.,go to railway station.,board correct train.,1,effect
+32627848,find a seat.,upon arrival get into the compartment.,gathering ticket and required identification.,0,cause
+444343,get to station.,find a seat.,go to the assigned track.,1,effect
+220972,pack clothes and other items for the journey.,sit down and ride.,take all the luggage out of train.,1,effect
+37821186,getting into train when arrives.,get off at your stop.,sit down and ride.,0,effect
+226776,arrive at the station.,enter train station.,de-train upon reaching the destination.,0,effect
+33878791,de-train upon reaching the destination.,enter train.,book train tickets.,0,cause
+33361575,go to my destination.,enter train.,going to the train station.,0,cause
+32856698,find a seat.sit down and enjoy the ride.,"when train arrives, board the train.",wait in line to board.,0,cause
+34003255,get off train.,waiting on train platform for train.,enter train.,1,cause
+33820667,"when train reaches destination, exit train.",get in train.,enjoy train ride.,0,cause
+32631891,find seat.,get a ticket for the train.,"when the train comes , get up and enter the train.",1,cause
+379003,drive to the train station.,buy ticket.,go to the assigned track.,1,effect
+866018,find the reserved seat and sit down.,pack bags.,enter train.,1,cause
+1050987,giving ticket to conductor/ticket taker.,go to railway station.,board train and choose a seat.,1,cause
+1702736,arrive at the target destination . .,purchase ticket for the destination station.,board train and choose a seat.,1,cause
+36216061,pay for your ticket.,go to ticket window.,go to the platform where the train is expected.,0,cause
+33846408,leave train at destination.,getting into train when arrives.,purchase train ticket for destination.,0,cause
+33764865,get off at destination.,show the ticket checker your ticket.,enter the appropriate train car.,1,cause
+1458464,relax in train.wait for correct stop.,adjust luggage in the luggage space available.,upon arrival get into the compartment.,1,cause
+33326149,relax in train.wait for correct stop.,get on train.,pay for the ticket at the ticket counter.,0,cause
+343100,arrive train station.,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,go on platform.,1,effect
+36892985,upon arrival get into the compartment.,give ticket to conductor.,wait on platform for train.,0,effect
+36224967,purchase your train ticket.,walk to ticket counter.,enter the appropriate train car.,0,cause
+823408,search for the booked seat and sit down.,adjust luggage in the luggage space.,"when the train comes , get up and enter the train.",1,cause
+37714951,get on train.,walk to the train platform.,exit train.,1,effect
+1014516,show ticket to attendant.,purchase train tickets.,"when train arrives, ride up the train compartment as per ticket.",1,cause
+37753204,"when train arrives, get on train.",exit train.,get to ticket booth.,0,effect
+1477119,ride train.,walk to the train platform.,enter the appropriate train car.,1,cause
+383121,go to railway station.,board train.,find rail for your train.,1,effect
+24137454,find out what platform the train will be on.,find a seat.sit down and enjoy the ride.,go to the platform where the train arrives.,1,effect
+8849075,go to the station.,upon arrival get into the compartment.,enter train station.,1,effect
+33509798,wait until your station.,walk onto the train.,wait on platform for train.,0,cause
+37113018,get on the correct train.,enjoy the ride on the train.,get to train stop.,0,effect
+37587082,board train and choose a seat.,relax or listen to favorite music while in train.,get off at correct destination.,1,effect
+36217357,purchase train tickets.,get to ticket booth.,get to destination.,0,cause
+1909221,"when your destination is called, get off train.",book train tickets.,"when train arrives, board train.",1,cause
+1271437,relax in train.wait for correct stop.,give ticket to attendant.,"when train arrives, board train.",1,cause
+1913753,depart when you arrive.,pay for ticket.,get on my train.,1,cause
+971891,get in train.,find an empty seat.,place luggage down.,0,effect
+191400,keep luggage in the luggage space.,pay for ticket.,pack clothes and other items for the journey.,1,cause
+19810584,get to ticket booth.,wait for boarding time for train.,stand in queue in front of a ticket counter and wait.,1,effect
+37765124,you board your train and find your seat.,depart when you arrive.,wait for train.,0,effect
+1540159,enjoy ride.,wait for your train to arrive.,board train.,1,cause
+33874816,get off train at your stop.,get on my train.,purchase your train ticket.,0,cause
+33970284,leave train at destination.,walk onto the train.,pack clothes and other items for the journey.,0,cause
+1533829,enjoy the journey.,wait in line to board train.,get in train.,1,cause
+32967692,wait for attendant to walk by and pay for your ticket.,upon arrival get into the compartment.,buy ticket at ticket window.,0,cause
+33301500,wait till your stop.,gathering ticket and required identification.,"when train arrives, board a car.",1,cause
+1882781,get off train.,book train tickets.,"when train arrives, get on train.",1,cause
+2368203,going to the train station.,go to the platform where the train arrives.,wait until train reaches destination.,0,effect
+35723888,check train schedule.,determine a location to go to by train.,go to ticket window.,0,cause
+36853735,enter the appropriate train car.,swipe ticket.,enter train station from front gate.,0,effect
+1301759,"you ride the train to your destination.if you're going on a long trip, you may receive a meal.",purchase train ticket for destination.,board train and be seated.,1,cause
+36469094,enter train.,find seat.sit and relax.,go to railway station.,0,effect
+1118469,hand your ticket to the conductor.,pack bags.,you board your train and find your seat.,1,cause
+32501940,show conductor ticket.,train arrives at the platform.,wait until time to board train.,0,cause
+32510924,enjoy the ride on the train.,train arrives at the platform.,walk to the subway.,0,cause
+37835795,board train and choose a seat.,"when train reaches destination, exit train.",choose a seat.,0,effect
+2062353,get off destination.,wait on platform for train.,enter train.,1,cause
+36988600,board train and choose a seat.,relax or read favorite magazine during journey.,hand your ticket to the attendant when asked.,0,effect
+216013,pack luggage for the journey.,search for the booked seat and sit down.,adjust luggage in the luggage space available.,1,effect
+32937718,show the ticket checker your ticket.,check train time.,board the train.,1,cause
+782066,sit down.,going to the train station.,"when train arrives, board a car.",1,cause
+32495083,show receptionist train ticket.,purchase train ticket for destination.,train arrives at time on the platform.,1,cause
+1822665,leave train.,check train schedules.,"when the train comes , get up and enter the train.",1,cause
+36307182,train arrives at the platform.,find the reserved seat and sit down.,purchase train ticket.,0,effect
+32989283,show ticket pass.,upon arrival get into the compartment.,purchase tickets.,0,cause
+1632738,wait till your destination stop arrives.,taking a seat.,get on my train.,1,cause
+999077,giving ticket to conductor/ticket taker.,buy ticket at ticket window.,get on the train.,1,cause
+33976193,get off at your correct stop.,enter train.,pack luggage for the journey.,0,cause
+33214156,relax or watch favorite movie while train journey.,get on the train.,hand ticket to ticket taker.,0,cause
+32716915,sit down and ride.,walk onto the train.,arrive at the station.,0,cause
+1669776,arrive at the target destination . .,show receptionist train ticket.,get on the correct train.,1,cause
+406476,walk to the subway.,"when train arrives, board a car.",leave to designated area.,1,effect
+656004,search for the booked seat and sit down.,check train schedules.,enter train.,1,cause
+2225422,pack luggage for the journey.,park car at parking.,place luggage down.,1,effect
+37230774,getting into train when arrives.,relax or watch favorite movie while train journey.,stand in queue in front of a ticket counter and wait.,0,effect
+575701,get in train.,go to the platform where the train arrives.,train arrives at time on the platform.,1,cause
+35918302,place luggage down.,pack clothes.pack luggage for the journey.,wait for attendant to walk by and pay for your ticket.,0,cause
+33088947,show ticket to attendant.,you board your train and find your seat.,wait in line for getting ticket if not booked already.,0,cause
+2200331,go to the car.,get out of car.,get on the train.,0,effect
+2112367,"when train reaches destination, exit train.",find a vacant window seat.,"when train arrives, board a car.",1,cause
+37232619,board train and choose a seat.,enjoy train ride.,stand in queue in front of a ticket counter and wait.,0,effect
+1260452,wait for destination stop.,show ticket to conductor.,board train and be seated.,1,cause
+33784261,"when your destination is called, get off train.",getting into train when arrives.,look at all the times and pick a destination.,0,cause
+33217039,wait for destination stop.,you board your train and find your seat.,show receptionist train ticket.,0,cause
+37722201,"when train arrives, board the train.",leave train at destination.,go to platform.,0,effect
+1501199,relax in train.wait for correct stop.,pack bags.,board train and choose a seat.,1,cause
+19808500,walk to ticket counter.,leave to designated area.,wait in line for getting ticket if not booked already.,1,effect
+351391,going to the train station.,enjoy ride.,go to the assigned track.,1,effect
+1572770,wait for destination stop.,wait at train stop.,getting into train when arrives.,1,cause
+2093786,exit train at correct stop.,take a seat.,get on the train.,1,cause
+24201116,train arrives at time on the platform.,adjust luggage in the luggage space.,wait patiently while the train travels towards destination.,1,effect
+36707279,enter train.,give ticket to conductor.,buy a ticket from counter.,0,effect
+2220048,pack clothes and other items for the journey.,buy train ticket.,keep bag under the seat.,1,effect
+33630567,get to destination.,swipe ticket.,board train.,1,cause
+33036675,show ticket pass.,get on the train.,walk to the subway.,0,cause
+464343,enter train station from front gate.,walk to correct platform.,ride train and enjoy journey.,0,effect
+1886915,get off at correct destination.,buy ticket to train.,board train when it arrives.,1,cause
+37570798,"when train arrives, board the train.",de-train upon reaching the destination.,wait until your station.,0,effect
+645346,get off at correct destination.,waiting on train platform for train.,train arrives at the platform.,1,cause
+36227624,pay for your ticket.,board train and be seated.,go to counter.,1,cause
+16214766,enter into the railway station.,"when train reaches destination, exit train.",go to correct platform.,1,effect
+201765,pack clothes and other items for the journey.,adjust luggage in the luggage space available.,giving ticket to conductor/ticket taker.,0,effect
+2452280,drive to the train station.,go on platform.,wait for the train at the platform.,0,effect
+36751538,get in train.,give ticket to the attendant.,retrieve ticket from machine.,0,effect
+18999,determine a location to go to by train.,find an empty seat.,look on schedule board for departure information.,1,effect
+33757919,leave train at destination.,board correct train.,show the ticket checker your ticket.,0,cause
+1133156,show the ticket checker your ticket.,get in line to buy ticket.,get in train.,1,cause
+37726567,walk onto the train.,disembark train.,walk to the train platform.,0,effect
+990517,give ticket to conductor.,purchase train tickets.,get in train.,1,cause
+36272109,buying a ticket.,go to ticket office.,train arrives at time on the platform.,0,cause
+33456063,relax and enjoy the train ride.,upon arrival get into the compartment.,pack bags.,0,cause
+668875,find a seat and sit down.,buy ticket at ticket window.,board train and be seated.,1,cause
+36321234,train arrives at time on the platform.,give ticket to attendant.,pay for the ticket.,0,effect
+37178206,get on train.,look out window.order meal.eat.,park car .,0,effect
+33423233,wait for destination stop.,park at station.,"when train arrives, board train.",1,cause
+2374515,walk to the subway.,go to the platform where the train arrives.,relax and enjoy the train ride.,0,effect
+941883,find a vacant window seat.,sit or stand and wait for your train.,"when train arrives, get on train.",1,cause
+33299523,relax or watch favorite movie while train journey.,purchase tickets from ticket window.,"when train arrives, board train.",1,cause
+36941610,show ticket to attendant.,get on my train.,leave station.,0,cause
+2222934,pack necessary luggage.,get on the correct train.,adjust luggage in the luggage space.,1,effect
+33844888,get off at correct destination.,board train and choose a seat.,pay for your ticket.,0,cause
+37241046,board the train.,relax and wait on your seat till your stop comes.,go to counter.,0,effect
+1614077,ride train.,find a vacant window seat.,getting into train when arrives.,1,cause
+1471142,enjoy ride.,go to the correct train platform.,"when train arrives, board the train.",1,cause
+33541610,enjoy the view out of train.,wait for boarding time for train.,you board your train and find your seat.,1,cause
+32950078,give conductor ticket.,"when the train comes , get up and enter the train.",purchase train ticket.,0,cause
+1583117,enjoy the outside sceneries while on the move.,wait for train at the platform.,board train and be seated.,1,cause
+33430712,wait until you reach your destination.,get on the train and enjoy.,go on platform.,0,cause
+33492036,enjoy the outside sceneries while on the move.,get on the train.,wait in line to board train.,0,cause
+37327670,board correct train.,relax while you reach your destination.,find a seat.sit down and enjoy the ride.,0,effect
+8818624,enter train station.,driving to the train station.,you have to pack your bags and other take other useful stuff.,0,cause
+36389237,enter train.,taking a seat.,buy train ticket.,0,effect
+2456541,arrive train station.,go to the platform where the train is expected.,look for the seat number as in ticket.sit on the seat.,0,effect
+1619725,enjoy the journey.,find seat.,walk onto the train.,1,cause
+32913219,take a seat if possible.,get in train.,wait on platform.,0,cause
+33983531,exit train at correct stop.,board train and be seated.,stand in queue in front of a ticket counter and wait.,0,cause
+33550302,ride and enjoy the countryside.,getting into train when arrives.,find a seat and sit down.,0,cause
+36251511,pay for train ticket.,go to counter.,wait for your train to pull up to station.,0,cause
+1473759,ride to your stop.,go to correct platform.,board train and choose a seat.,1,cause
+15091,choose a destination.,board train.,check train schedule.,1,effect
+1583137,enjoy the outside sceneries while on the move.,wait for the train at the platform.,board the train.,1,cause
+2137377,adjust luggage in the luggage space available.,take all the luggage out of train.,"listen to music ,or read a book while ride.",0,effect
+37852431,place luggage down.,take all the luggage out of train.,get on my train.,0,effect
+6504692,adjust luggage in the luggage space.,pack necessary luggage.,look on schedule board for departure information.,0,cause
+32725306,find a seat.sit down and enjoy the ride.,get on train.,arrive train station.,0,cause
+416855,secure transportation to the train station.use transportation to train station.,get in line to buy ticket.,go to the correct train platform.,1,effect
+36978722,board train when it arrives.,enjoy the journey.,give conductor ticket.,0,effect
+1051225,giving ticket to conductor/ticket taker.,driving to the train station.,upon arrival get into the compartment.,1,cause
+1246712,wait until your station.,hand the attendant your ticket.,"when train arrives, get on train.",1,cause
+310252,leave to designated area.,get in line to buy ticket.,get to train stop.,1,cause
+37873236,"you arrive to your destination, and take your luggage.",get off train.,purchase ticket(s) for train.,0,effect
+1588320,sit back and relax on your seat.,wait for boarding time for train.,"when train arrives, board train.",1,cause
+466645,enter train station from front gate.,go to the assigned track.,get tickets from ticket counter.,0,effect
+37521303,"when train arrives, get on train.",depart when you arrive.,show ticket to attendant.,0,effect
+37871631,arrive at the target destination . .,get off train at your stop.,buy ticket to the travel destination.,0,effect
+203834,pack luggage for the journey.,put carry on luggage in overhead bin.,relax and enjoy the train ride.,0,effect
+1119203,show receptionist train ticket.,pack clothes and other items for the journey.,get on the train and enjoy.,1,cause
+33290887,enjoy the journey.,"when train arrives, get on train.",buying a ticket.,0,cause
+1658098,get on the correct train.,wait patiently while the train travels towards destination.,adjust luggage in the luggage space.,0,effect
+36062188,go to platform.,secure transportation to the train station.use transportation to train station.,wait patiently while the train travels towards destination.,0,cause
+36903154,enter train.,taking a seat.,show the ticket checker your ticket.,1,effect
+33107789,give conductor ticket.,get on the correct train.,waiting on train platform for train.,0,cause
+37647327,board train and choose a seat.,get off destination.,purchase train tickets.,0,effect
+1022488,show conductor ticket.,pay for ticket.,"when train arrives, get on train.",1,cause
+572503,get on the train.,book train tickets.,train arrives at time on the platform.,1,cause
+32834164,find a seat or stand.,board train when it arrives.,walk through roundabout.,0,cause
+33441404,relax or read favorite magazine during journey.,get on the correct train.,go on platform.,0,cause
+36822567,you board your train and find your seat.,show ticket pass to conductor.,leave to designated area.,0,effect
+37800406,enter train.,disembark train.,take a seat if possible.,0,effect
+1582460,enjoy the outside sceneries while on the move.,wait on platform.,"when train arrives, get on train.",1,cause
+37094758,get on train.,wait until train reaches destination.,drive to the train station.,0,effect
+1630599,wait for destination stop.,find the reserved seat and sit down.,"when train arrives, board a car.",1,cause
+37619710,"when the train comes , get up and enter the train.",leave train.,buying a ticket.,0,effect
+20249337,go to ticket office.,get off train.,buy a ticket at the window.,1,effect
+33014968,give ticket to the attendant.,"when train arrives, board a car.",secure transportation to the train station.use transportation to train station.,0,cause
+713474,take a seat.,buy ticket to train.,"when train arrives, board train.",1,cause
+32977384,hand your ticket to the attendant when asked.,walk onto the train.,purchase ticket(s) for train.,0,cause
+32807604,find the reserved seat and sit down.,board the train.,find rail for your train.,0,cause
+197622,put carry on luggage in overhead bin.,go to the railway station.,pack bags.,1,cause
+37049108,"when the train comes , get up and enter the train.",purchase ticket for the destination station.,relax or read favorite magazine during journey.,1,effect
+1637105,relax and enjoy the train ride.,search for the booked seat and sit down.,"when train arrives, board the train.",1,cause
+33496143,enjoy ride.,you board your train and find your seat.,wait for my train.,0,cause
+36677670,search for the booked seat and sit down.,board the train.,leave station.,0,cause
+1465838,relax or watch favorite movie while train journey.,park car at parking.,get on the correct train.,1,cause
+16836406,getting into train when arrives.,keep luggage under the seat.,sit.,1,effect
+32847778,find seat.,"when train arrives, board train.",go to ticket office.,0,cause
+36694954,get on the correct train.,give ticket to conductor.,look at all the times and pick a destination.,0,effect
+37636823,"when train arrives, board a car.","when your destination is called, get off train.",purchase tickets from ticket window.,0,effect
+37125998,"when the train comes , get up and enter the train.",go to the railway station.,ride to your stop.,1,effect
+36772902,get on the correct train.,show ticket to attendant.,arrive at the station.,0,effect
+285563,go to the platform where the train is expected.,buy a train ticket.,drive to train station.,1,cause
+648933,find a seat and sit down.,locate a train schedule.,"when train arrives, board a car.",1,cause
+633414,arrive at the target destination . .,get to ticket booth.,train arrives at the platform.,1,cause
+37569955,enter the appropriate train car.,de-train upon reaching the destination.,ride to your stop.,0,effect
+377863,go to the railway station.,get tickets from ticket counter.,go to the assigned track.,1,effect
+2347065,arrive at the station.,go to platform.,give conductor ticket.,0,effect
+33403763,"listen to music ,or read a book while ride.","when train arrives, get on train.",place luggage down.,0,cause
+20281760,go to ticket office.,enjoy ride.,pay for your ticket.,1,effect
+33252943,ride and enjoy the countryside.,"when train arrives, board the train.",pay for the ticket at the ticket counter.,0,cause
+37624964,get on the train.,get off at destination.,buy ticket to the travel destination.,0,effect
+36141823,walk to correct platform.,going to the train station.,wait for your train to arrive.,0,cause
+1186688,give ticket to conductor.,find an empty seat.,board correct train.,1,cause
+35987135,enter train station from front gate.,go to train station.,sit down.,0,cause
+938140,find the reserved seat and sit down.,wait for the train.,board train and choose a seat.,1,cause
+2456397,arrive train station.,find seat.sit down.,walk to correct platform.,1,effect
+35920084,put carry on luggage in overhead bin.,you have to pack your bags and other take other useful stuff.,wait till your destination stop arrives.,0,cause
+2197543,"you arrive to your destination, and take your luggage.",take all the luggage out of train.,get off at destination.,1,effect
+1773229,arrive at destination stop.,wait for your train to be announced.,getting into train when arrives.,1,cause
+6497711,place luggage down.,pay for the ticket at the ticket counter.,pack luggage for the journey.,1,cause
+36781843,"when the train comes , get up and enter the train.",give ticket to steward when asked.,secure transportation to the train station.use transportation to train station.,0,effect
+37291326,board train when it arrives.,wait for destination stop.,wait for train at the platform.,0,effect
+1701150,arrive at destination.,pay for train ticket.,getting into train when arrives.,1,cause
+274267,walk to the train platform.,pay for the ticket at the ticket counter.,secure transportation to the train station.use transportation to train station.,1,cause
+36416635,get on my train.,find a seat or stand.,buy a ticket at the window.,0,effect
+37178529,enter train.,ride to your stop.,park at station.,0,effect
+32890918,take a seat.,wait for your train to be announced.,"when train arrives, ride up the train compartment as per ticket.",1,cause
+2129101,get on the train.,exit train at correct stop.,keep luggage in the luggage space.,0,effect
+37197157,enter the appropriate train car.,go to the correct train platform.,enjoy the outside sceneries while on the move.,1,effect
+33338435,enjoy ride.,get on the train.,get to train stop.,0,cause
+33961144,get off at destination.,get in train.,leave to designated area.,0,cause
+32956511,show receptionist train ticket.,buying a ticket.,board the train.,1,cause
+36953466,enter train.,relax while you reach your destination.,show ticket to conductor.,0,effect
+413676,drive to train station.,find the correct platform.,leave to designated area.,1,effect
+37113230,get on the correct train.,get to station.,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,1,effect
+3281645,get on the train and enjoy.,adjust luggage in the luggage space.,wait for attendant to walk by and pay for your ticket.,1,effect
+1595057,enjoy ride.,find a seat.sit down and enjoy the ride.,get on my train.,1,cause
+1404904,ride train.,walk to the subway.,board train and be seated.,1,cause
+821819,find seat.sit down.,place luggage down.,board train.,1,cause
+1418703,relax or watch favorite movie while train journey.,drive to the train station.,board correct train.,1,cause
+16650,first you have to plan where you want to go.,park at station.,look at all the times and pick a destination.,1,effect
+37351272,board train and be seated.,sit back and relax on your seat.,sit down.,0,effect
+605809,hand the attendant your ticket.,go to the station.,train arrives at time on the platform.,1,cause
+1308551,enjoy the ride on the train.,buying a ticket.,board correct train.,1,cause
+2112799,"when train reaches destination, exit train.",take a seat if possible.,getting into train when arrives.,1,cause
+36984368,walk onto the train.,hand your ticket to the attendant when asked.,enjoy the journey.,1,effect
+37398402,"when train arrives, board a car.",look at all the times and pick a destination.,arrive at the target destination . .,1,effect
+334412,go to the railway station.,hand your ticket to the conductor.,go on platform.,1,effect
+1283375,wait till your destination stop arrives.,look at all the times and pick a destination.,get on the train.,1,cause
+33047564,show receptionist train ticket.,keep luggage under the seat.,board train when it arrives.,1,cause
+1082683,hand the attendant your ticket.,go to the railway station.,upon arrival get into the compartment.,1,cause
+387273,go to train station.,get on the train and enjoy.,find rail for your train.,1,effect
+520100,go to counter.,pay for the ticket at the ticket counter.,wait in line to board.,0,effect
+37397572,enter the appropriate train car.,get to destination.,check train time.,0,effect
+33031642,swipe ticket.,get to train stop.,enter train.,1,cause
+406564,walk to the subway.,"when train arrives, board train.",go to correct platform.,1,effect
+1858419,depart when you arrive.,enjoy the journey.,board the train.,1,cause
+2229764,pack clothes and other items for the journey.,find a seat or stand.,keep bag under the seat.,1,effect
+33808156,get off at destination.,get on the train.,wait till your destination stop arrives.,0,cause
+33038694,hand the attendant your ticket.,getting into train when arrives.,get to train stop.,0,cause
+33628337,"you arrive to your destination, and take your luggage.",enter train.,give ticket to attendant.,0,cause
+35719185,look up train information online.,first you have to plan where you want to go.,enjoy the ride on the train.,0,cause
+33103295,swipe ticket.,board train and be seated.,step up to train.,0,cause
+1465141,enjoy the journey.,park car .,enter train.,1,cause
+37733204,enter the appropriate train car.,pack clothes.pack luggage for the journey.,get off train at your stop.,1,effect
+979746,show ticket to attendant.,locate a train schedule.,board train.,1,cause
+37413517,board train and choose a seat.,arrive at destination.,look out window.order meal.eat.,0,effect
+8845991,arrive train station.,enter train.,enter train station.,1,effect
+36611671,enter the appropriate train car.,walk to ticket counter.,find a seat and sit down.,1,effect
+225682,go to train station.,enter the train station.,leave train at destination.,0,effect
+37057693,getting into train when arrives.,relax or read favorite magazine during journey.,buy a train ticket.,0,effect
+36604223,enter the appropriate train car.,find seat.sit and relax.,enter into the railway station.,0,effect
+35943374,enter train station.,arrive train station.,get off at your stop.,0,cause
+2174560,get off at your correct stop.,park car.,get to destination.,1,cause
+1920022,"when train reaches destination, exit train.",tell the clerk where you want to travel to.pay the clerk for ticket.,board correct train.,1,cause
+8832459,get to train stop.,relax or watch favorite movie while train journey.,enter train station.,1,effect
+1537439,"listen to music ,or read a book while ride.",wait at station.,"when train arrives, board the train.",1,cause
+2025288,get off at destination.,walk through roundabout.,"when train arrives, ride up the train compartment as per ticket.",1,cause
+36556687,board train.,choose a seat.,walk to correct platform.,0,effect
+37689720,upon arrival get into the compartment.,get off at your stop.,go to the railway station.,0,effect
+36265290,obtain train ticket.,wait patiently while the train travels towards destination.,get to ticket booth.,1,cause
+1325631,ride train.,get a ticket for the train.,"when train arrives, board train.",1,cause
+885393,find seat.sit and relax.,enter into the railway station.,"when the train comes , get up and enter the train.",1,cause
+544218,go to ticket window.,keep luggage under the seat.,purchase ticket(s) for train.,1,effect
+33499734,relax while you reach your destination.,get on my train.,wait for your train to be announced.,0,cause
+2463456,secure transportation to the train station.use transportation to train station.,go to the platform where the train is expected.,find a seat.,0,effect
+1540502,enjoy ride.,wait for your train to pull up to station.,board train.,1,cause
+960445,get on the train.,find an empty seat.,go out of the station.,0,effect
+32934107,show receptionist train ticket.,look up train information online.,"when train arrives, board train.",1,cause
+829195,find a seat.sit down and enjoy the ride.,get out of car.,getting into train when arrives.,1,cause
+1529005,relax or read favorite magazine during journey.,go to ticket window.,get on my train.,1,cause
+249781,drive to station.walk into station.,enter into the railway station.,board train.,0,effect
+1999034,get off train.,go to correct platform.,walk onto the train.,1,cause
+37488323,board train when it arrives.,"you arrive to your destination, and take your luggage.",wait on platform.,0,effect
+20275014,walk to ticket counter.,choose a seat.,buy ticket.,1,effect
+4186619,upon arrival get into the compartment.,keep luggage in the luggage space.,alight at the destination station.,1,effect
+4520682,park car.,get out of car.,buy ticket to the travel destination.,0,effect
+611175,give ticket to attendant.,choose a seat.,train arrives at time on the platform.,1,cause
+2434390,go to the train station.,walk to the train platform.,train arrives at time on the platform.,0,effect
+33486358,enjoy the outside sceneries while on the move.,getting into train when arrives.,go to ticket window.,0,cause
+36874851,get on the correct train.,wait for attendant to walk by and pay for your ticket.,wait for train to arrive.,0,effect
+1380560,ride and enjoy the countryside.,drive to the train station.,"when train arrives, board train.",1,cause
+2016243,"when your destination is called, get off train.",you have to pack your bags and other take other useful stuff.,board train.,1,cause
+1203368,show ticket to attendant.,find an empty seat.,"when train arrives, board a car.",1,cause
+33173131,hand the attendant your ticket.,board train and be seated.,find correct seat.sit in seat.,0,cause
+36428739,get on the train.,look for the seat number as in ticket.sit on the seat.,buy ticket.,0,effect
+36504601,getting into train when arrives.,find a vacant window seat.,drive to train station.,0,effect
+32936143,show ticket to attendant.,you board your train and find your seat.,locate a train schedule.,0,cause
+2070560,get off train at your stop.,wait at train stop.,get on the train.,1,cause
+1192389,show receptionist train ticket.,sit down and ride.,board train when it arrives.,1,cause
+33211974,enjoy the train trip.,"when train arrives, ride up the train compartment as per ticket.",show ticket to conductor.,0,cause
+36365599,depart when you arrive.,train arrives at the platform.,go out of the station.,0,cause
+33205407,look out window.order meal.eat.,upon arrival get into the compartment.,show ticket to attendant.,0,cause
+929080,sit down.,wait at train stop.,board train.,1,cause
+37713109,board train when it arrives.,"when train reaches destination, exit train.",park at station.,0,effect
+1873391,get off train.,determine a location to go to by train.,board train when it arrives.,1,cause
+36411181,board correct train.,find seat.,pay for your ticket.,0,effect
+2378630,driving to the train station.,buy ticket to the travel destination.,go to correct platform.,1,effect
+37043703,get on my train.,wait till your stop.,buy ticket to train.,0,effect
+32837455,sit.,"when train arrives, ride up the train compartment as per ticket.",stand in queue in front of a ticket counter and wait.,0,cause
+33285595,wait until train reaches destination.,you board your train and find your seat.,buying a ticket.,0,cause
+2429733,drive to the train station.,go on platform.,park car at parking.,0,effect
+2052195,leave train at destination.,wait for your train to be announced.,"when train arrives, board a car.",1,cause
+1780605,"you arrive to your destination, and take your luggage.",find a seat.,get on the train and enjoy.,1,cause
+36953076,board train.,relax and wait on your seat till your stop comes.,give ticket to conductor.,0,effect
+32804952,sit down.,"when train arrives, ride up the train compartment as per ticket.",find rail for your train.,0,cause
+2082817,leave train.,take a seat if possible.,board train when it arrives.,1,cause
+1531325,"listen to music ,or read a book while ride.",wait in line to board train.,"when train arrives, board a car.",1,cause
+831369,find correct seat.sit in seat.,park at station.,board train and choose a seat.,1,cause
+479603,buy a ticket at the window.,enter train station.,go to ticket window.,1,cause
+1864672,de-train upon reaching the destination.,relax while you reach your destination.,"when train arrives, board a car.",1,cause
+307053,go to the platform where the train arrives.,look on schedule board for departure information.,go to train station.,1,cause
+1453,first you have to plan where you want to go.,relax in train.wait for correct stop.,look up train information online.,1,effect
+20262322,go to ticket window.,wait for the train.,buy a ticket at the window.,1,effect
+24131928,find the correct platform.,board train when it arrives.,go to correct platform.,1,effect
+1309373,enjoy the ride on the train.,purchase a ticket.,you board your train and find your seat.,1,cause
+36527847,"when train arrives, board train.",find a seat or stand.,go to railway station.,0,effect
+479582,pay for train ticket.,choose a destination.,get to ticket booth.,1,cause
+20279380,walk to ticket counter.,keep luggage under the seat.,"then, you have to buy your ticket.then, you have to buy your ticket.",1,effect
+36760342,get on train.,arrive train station.,giving ticket to conductor/ticket taker.,1,effect
+33566266,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,board the train.,search for the booked seat and sit down.,0,cause
+37881115,arrive at destination.,get off at your correct stop.,arrive train station.,0,effect
+33244279,"listen to music ,or read a book while ride.",upon arrival get into the compartment.,choose a destination.,0,cause
+37384009,ride and enjoy the countryside.,board correct train.,take all the luggage out of train.,0,cause
+36410312,"when train arrives, get on train.",take a seat.,pay for train ticket.,0,effect
+1626398,wait till your stop.,find correct seat.sit in seat.,get on train.,1,cause
+217956,take all the luggage out of train.,get out of car.,pack clothes.pack luggage for the journey.,1,cause
+189516,place luggage down.,buy a ticket at the window.,pack bags.,1,cause
+33127867,show the ticket checker your ticket.,get on the train and enjoy.,wait on platform for train.,0,cause
+1153592,hand your ticket to the conductor.,wait for the train to arrive.,"when train arrives, board train.",1,cause
+625705,wait till your stop.,wait for boarding time for train.,train arrives at time on the platform.,1,cause
+33651121,arrive at destination stop.,"when train arrives, get on train.",relax and enjoy the train ride.,0,cause
+16217017,enter train station.,wait until your station.,go to the correct train platform.,1,effect
+1320406,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,pay for ticket.,get on the correct train.,1,cause
+1260697,wait for destination stop.,show receptionist train ticket.,board train and be seated.,1,cause
+496166,buy a ticket from counter.,ensure transportation is secured in lot.,walk to ticket counter.,1,cause
+37144642,board train and be seated.,ride to your stop.,secure transportation to the train station.use transportation to train station.,0,effect
+241364,arrive train station.,enter into the railway station.,obtain train ticket.,0,effect
+37831633,walk onto the train.,alight at the destination station.,find seat.sit down.,0,effect
+200982,you have to pack your bags and other take other useful stuff.,place luggage down.,hand your ticket to the conductor.,0,effect
+37153755,get in train.,relax or listen to favorite music while in train.,go to the railway station.,0,effect
+1588978,sit back and relax on your seat.,waiting on train platform for train.,board correct train.,1,cause
+37326929,"when train arrives, get on train.",enjoy the journey.,find your seat or compartment.,0,effect
+8910990,go to the correct train platform.,going to the train station.,park car.,0,cause
+2152083,depart when you arrive.,determine a location to go to by train.,arrive at the target destination . .,1,cause
+36745536,"when train arrives, board a car.",purchase train ticket.,show ticket to conductor.,1,effect
+36421052,"when the train comes , get up and enter the train.",gathering ticket and required identification.,find a seat.,1,effect
+36905337,you board your train and find your seat.,show ticket to attendant.,find correct seat.sit in seat.,0,effect
+610965,show conductor ticket.,find an empty seat.,train arrives at time on the platform.,1,cause
+20246944,get to ticket booth.,get on the train.,purchase train tickets.,1,effect
+9946,go to the car.,place luggage down.,park car .,1,effect
+4665655,train arrives at time on the platform.,go out of the station.,taking a seat.,1,effect
+1806375,disembark train.,give ticket to attendant.,get on train.,1,cause
+33306967,wait till your destination stop arrives.,purchase train ticket for destination.,get on train.,1,cause
+1374534,wait patiently while the train travels towards destination.,buy ticket.,board train and choose a seat.,1,cause
+33921806,depart when you arrive.,arrive at the station.,enter the appropriate train car.,1,cause
+37250466,get on my train.,relax while you reach your destination.,step up to train.,0,effect
+258201,go to the station.,enter into the railway station.,park car at parking.,0,effect
+20253730,get to ticket booth.,de-train upon reaching the destination.,get a ticket for the train.,1,effect
+36700018,walk onto the train.,look at all the times and pick a destination.,hand your ticket to the attendant when asked.,1,effect
+36366396,board train.,find a seat or stand.,check train time.,0,effect
+37062719,"when train arrives, ride up the train compartment as per ticket.",wait till your destination stop arrives.,buy a ticket.,0,effect
+32811663,choose a seat.,board train.,leave to designated area.,0,cause
+32773518,find a seat and sit down.,get on train.,place luggage down.,0,cause
+33713640,get to destination.,enter train.,enter the train station.,0,cause
+33467051,sit back and relax on your seat.,"when train arrives, board a car.",walk through roundabout.,0,cause
+258737,go to train station.,enter the train station.,find out what platform the train will be on.,0,effect
+6559142,take all the luggage out of train.,pack clothes.pack luggage for the journey.,buy ticket to the travel destination.,0,cause
+32993555,hand ticket to ticket taker.,getting into train when arrives.,buying a ticket.,0,cause
+36519522,upon arrival get into the compartment.,find a seat or stand.,walk to the subway.,0,effect
+2347481,go to the station.,find rail for your train.,giving ticket to conductor/ticket taker.,0,effect
+33859660,get off at destination.,get on the train and enjoy.,purchase train tickets.,0,cause
+36230702,pay for train ticket.,go to ticket window.,get on the train.,0,cause
+1263946,relax or read favorite magazine during journey.,hand your ticket to the conductor.,board train.,1,cause
+291061,find rail for your train.,buying a ticket.,driving to the train station.,1,cause
+884516,find correct seat.sit in seat.,enter train station.,getting into train when arrives.,1,cause
+515715,go to ticket office.,purchase ticket(s) for train.,get off train at your stop.,0,effect
+635341,disembark train.,show ticket to conductor.,train arrives at time on the platform.,1,cause
+33503864,ride to your stop.,board train.,waiting on train platform for train.,0,cause
+1707822,"you arrive to your destination, and take your luggage.",buy ticket at ticket window.,board train and be seated.,1,cause
+36124510,walk to the train platform.,arrive train station.,keep luggage in the luggage space.,0,cause
+2142225,get off at your correct stop.,show receptionist train ticket.,arrive at destination stop.,1,cause
+1162417,wait for attendant to walk by and pay for your ticket.,sit or stand and wait for your train.,get on train.,1,cause
+1137765,show ticket pass.,enter the train station.,"when train arrives, board train.",1,cause
+36852729,get on the correct train.,show ticket pass.,enter the train station.,0,effect
+36262361,purchase ticket for the destination station.,go to ticket office.,keep luggage under the seat.,0,cause
+33855952,disembark train.,get on the train.,pay for ticket.,0,cause
+451470,go to the railway station.,find your seat or compartment.,go to the platform where the train is expected.,1,effect
+33937864,get off at your correct stop.,enter the appropriate train car.,arrive train station.,0,cause
+974814,board train and be seated.,find correct seat.sit in seat.,take all the luggage out of train.,0,effect
+33818284,get off train at your stop.,"when the train comes , get up and enter the train.",enjoy ride.,0,cause
+33392265,enjoy the outside sceneries while on the move.,board correct train.,driving to the train station.,0,cause
+36339533,train arrives at time on the platform.,enjoy the train trip.,go on platform.,0,effect
+2346250,get to station.,show the ticket checker your ticket.,go to platform.,1,effect
+36062809,go to platform.,walk to the subway.,ride train and enjoy journey.,0,cause
+36819460,board train and be seated.,give ticket to the attendant.,ensure transportation is secured in lot.,0,effect
+37197280,"when train arrives, board the train.",enjoy train ride.,walk to correct platform.,0,effect
+36583816,board train when it arrives.,find correct seat.sit in seat.,you have to pack your bags and other take other useful stuff.,0,effect
+2016267,"when your destination is called, get off train.",you have to pack your bags and other take other useful stuff.,"when train arrives, board the train.",1,cause
+37394107,walk onto the train.,arrive at destination stop.,give ticket to the attendant.,0,effect
+2063660,get off destination.,wait for train at the platform.,board train and be seated.,1,cause
+2074890,de-train upon reaching the destination.,wait for the train.,"when train arrives, board train.",1,cause
+36037073,go on platform.,go to train station.,get off at correct destination.,0,cause
+298328,walk to correct platform.,walk to ticket counter.,get to station.,1,cause
+585765,"when train arrives, board train.",driving to the train station.,train arrives at time on the platform.,1,cause
+221237,enter train station.,determine a location to go to by train.,arrive train station.,1,cause
+1280940,enjoy the journey.,call and check departure time.,get in train.,1,cause
+37393023,board train and be seated.,get to destination.,giving ticket to conductor/ticket taker.,0,effect
+1127600,show ticket pass to conductor.,find the correct platform.,"when the train comes , get up and enter the train.",1,cause
+553135,get to ticket booth.,buy ticket to train.,enjoy ride.,0,effect
+520187,go to counter.,buy ticket to the travel destination.,wait in line to board.,0,effect
+37890959,arrive at the target destination . .,get off train at your stop.,park car .,0,effect
+32803742,find seat.sit down.,getting into train when arrives.,go to the correct train platform.,0,cause
+2395521,drive to the train station.,walk to the train platform.,pay for ticket.,0,effect
+822986,find your seat or compartment.,keep bag under the seat.,get in train.,1,cause
+20262115,go to ticket window.,wait for train at the platform.,buy ticket to the travel destination.,1,effect
+33323953,enjoy the view out of train.,purchase tickets.,get on the train and enjoy.,1,cause
+32843399,sit down.,get on the train.,enter train station.,0,cause
+12091,first you have to plan where you want to go.,enjoy the ride on the train.,check train schedule.,1,effect
+988099,show ticket to conductor.,purchase train tickets.,enter the appropriate train car.,1,cause
+33283891,go to my destination.,get on my train.,buy ticket to the travel destination.,0,cause
+891070,find seat.,go to ticket window.,"when train arrives, get on train.",1,cause
+36445070,"when train arrives, board a car.",buy ticket to train.,sit.,1,effect
+37526195,enter the appropriate train car.,get off destination.,giving ticket to conductor/ticket taker.,0,effect
+1375019,wait patiently while the train travels towards destination.,buy pass.,walk onto the train.,1,cause
+2384644,get to station.,go to the assigned track.,buy a ticket from counter.,0,effect
+1524747,wait until you reach your destination.,walk to ticket counter.,enter the appropriate train car.,1,cause
+37892753,"you arrive to your destination, and take your luggage.",get off at correct destination.,go to the platform where the train arrives.,0,effect
+324735,go to train station.,go out of the station.,go to platform.,1,effect
+1062658,wait for attendant to walk by and pay for your ticket.,drive to the train station.,you board your train and find your seat.,1,cause
+214901,packing/gathering luggage.,put carry on luggage in overhead bin.,choose a seat.,0,effect
+36722703,"when train arrives, get on train.",give ticket to attendant.,purchase ticket.,0,effect
+617668,sit back and relax on your seat.,buy pass.,train arrives at the platform.,1,cause
+19209,choose a destination.,find your seat or compartment.,look up train information online.,1,effect
+36962955,get on the correct train.,enjoy the view out of train.,hand your ticket to the attendant when asked.,0,effect
+1288774,ride to your stop.,determine a location to go to by train.,board train and be seated.,1,cause
+36931470,upon arrival get into the compartment.,hand ticket to ticket taker.,find an empty seat.,0,effect
+618854,look out window.order meal.eat.,go to the train station.,train arrives at the platform.,1,cause
+36920960,"when train arrives, board the train.",show conductor your ticket.,find the reserved seat and sit down.,0,effect
+36962576,get on the correct train.,give conductor ticket.,wait until train reaches destination.,1,effect
+6504503,put carry on luggage in overhead bin.,pack clothes and other items for the journey.,look at all the times and pick a destination.,0,cause
+34058969,get off destination.,upon arrival get into the compartment.,sit down.,0,cause
+1033308,hand the attendant your ticket.,buy a ticket at the window.,board the train.,1,cause
+441067,go to train station.,find a seat and sit down.,go to the assigned track.,1,effect
+33274404,wait until your station.,purchase train tickets.,"when the train comes , get up and enter the train.",1,cause
+838456,take a seat if possible.,park at station.,getting into train when arrives.,1,cause
+36922694,getting into train when arrives.,show the ticket checker your ticket.,find the reserved seat and sit down.,0,effect
+20275472,get to ticket booth.,find seat.,purchase tickets.,1,effect
+33487517,wait patiently while the train travels towards destination.,get on the correct train.,get to ticket booth.,0,cause
+34004006,get off train.,get on the train.,wait for train.,0,cause
+628878,sit back and relax on your seat.,find the reserved seat and sit down.,train arrives at the platform.,1,cause
+36411223,board correct train.,buying a ticket.,find correct seat.sit in seat.,1,effect
+36712578,board the train.,give ticket to attendant.,get a ticket for the train.,0,effect
+36572274,walk onto the train.,find a seat.,walk to the train platform.,0,effect
+548139,go to ticket office.,listen to music or read etc while riding.look at window if you haven't seen the surroundings.,buy a ticket.,1,effect
+33710584,arrive at destination stop.,"when the train comes , get up and enter the train.",find out what platform the train will be on.,0,cause
+37037716,board correct train.,relax while you reach your destination.,"then, you have to buy your ticket.then, you have to buy your ticket.",0,effect
+1179083,hand ticket to ticket taker.,wait on platform for train.,board the train.,1,cause
+33769955,alight at the destination station.,get on train.,give ticket to steward when asked.,0,cause
+481792,pay for your ticket.,pack clothes and other items for the journey.,get to ticket booth.,1,cause
+32780315,take a seat.,walk onto the train.,place luggage down.,0,cause
+32837676,find your seat or compartment.,you board your train and find your seat.,get in line to buy ticket.,0,cause
+36201025,walk to ticket counter.,buy ticket at ticket window.,look at all the times and pick a destination.,0,effect
+33297536,relax or watch favorite movie while train journey.,get on the train and enjoy.,obtain train ticket.,0,cause
+36319164,train arrives at time on the platform.,give conductor ticket.,determine a location to go to by train.,0,effect
+32834291,sit down.,get on the correct train.,walk through roundabout.,0,cause
+34065642,alight at the destination station.,upon arrival get into the compartment.,find an empty seat.,0,cause
