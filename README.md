@@ -2,7 +2,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Project Webpage](https://img.shields.io/badge/Project-Webpage-blue.svg)](https://www.cse.iitk.ac.in/users/ajoshi/COLD/) <!-- temporary webpage link  -->
 <!-- [![Project Webpage](https://img.shields.io/badge/Project-Webpage-blue.svg)](https://exploration-lab.github.io/COLD/)  -->
-<!-- official webpage link  (to be updated) -->
+<!-- official webpage link  (to be updated)  -->
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-121013.svg?logo=github&logoColor=white)](https://github.com/Exploration-Lab/COLD) -->
 ![Teaser image](./images/COLD_framework.png)
 **Picture:** *The proposed COLD framework for evaluating LLMs for causal reasoning. The humanwritten Event Sequence Descriptions (ESDs) are obtained from crowdsource workers and include a
